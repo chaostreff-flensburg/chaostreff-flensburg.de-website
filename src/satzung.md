@@ -51,37 +51,38 @@
 
 ### § 8 Mitgliederversammlung
 
-    1. Oberstes Beschlussorgan ist die Mitgliederversammlung. Ihrer Beschlussfassung unterliegen:
-        1. die Genehmigung des Finanzberichtes.
-        2. die Entlastung des Vorstandes.
-        3. die Wahl der einzelnen Vorstandsmitglieder.
-        4. die Bestellung von Finanzprüfern.
-        5. Satzungsänderungen.
-        6. die Genehmigung der Beitragsordnung.
-        7. Anträge des Vorstandes und der Mitglieder.
-        8. die Auflösung des Vereins.
-    2. Die ordentliche Mitgliederversammlung findet einmal im Jahr statt. Außerordentliche Mitgliederversammlungen werden auf Beschluss des Vorstandes abgehalten, wenn die Interessen des Vereins dies erfordern oder wenn mindestens ein Viertel der Mitglieder dies unter Angabe des Zwecks schriftlich beantragen. Die Einberufung der Mitgliederversammlung erfolgt schriftlich durch den Vorstand mit einer Frist von mindestens zwei Wochen. Hierbei ist die Tagesordnung bekanntzugeben und die nötigen Informationen zugänglich zu machen. Anträge zur Tagesordnung sind mindestens drei Tage vor der Mitgliederversammlung bei dem Vorstand einzureichen. Über die Behandlung von Initiativanträgen entscheidet die Mitgliederversammlung.
-    3. Die satzungsgemäß einberufene Mitgliederversammlung ist beschlussfähig wenn 30 Prozent der aktiven Mitglieder anwesend sind. Ist die Mitgliederversammlung aufgrund mangelnder Teilnehmerzahl nicht beschlussfähig, ist die darauf folgende ordentlich einberufene Mitgliederversammlung ungeachtet der Teilnehmerzahl beschlussfähig.
-    4. Beschlüsse über Satzungsänderungen und über die Auflösung des Vereins bedürfen zu ihrer Rechtswirksamkeit der Dreiviertelmehrheit der anwesenden Mitglieder. In allen anderen Fällen genügt die einfache Mehrheit der anwesenden Mitglieder.
-    5. Jedes Mitglied hat eine Stimme. Juristische Personen haben einen Stimmberechtigten schriftlich zu bestellen. Fördermitglieder sind nicht stimmberechtigt.
-    6. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Protokollführer zu unterzeichnen ist; das Protokoll ist allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
-    7. Auf Antrag eines Mitglieds ist geheim zu wählen. Die Wahl des Vorstandes erfolgt durch Einzelabstimmung mit einfacher Mehrheit der anwesenden Mitglieder.
-    8. Jedes aktive Mitglied kann schriftlich ein anderes aktives Mitglied als seinen Vertreter bestimmen. Es sind maximal zwei Vollmachterteilungen pro Bevollmächtigtem zulässig, die während der Mitgliederversammlung vorliegen müssen.
+<p>1. Oberstes Beschlussorgan ist die Mitgliederversammlung. Ihrer Beschlussfassung unterliegen:</p>
+        1. die Genehmigung des Finanzberichtes.<br>
+        2. die Entlastung des Vorstandes.<br>
+        3. die Wahl der einzelnen Vorstandsmitglieder.<br>
+        4. die Bestellung von Finanzprüfern.<br>
+        5. Satzungsänderungen.<br>
+        6. die Genehmigung der Beitragsordnung.<br>
+        7. Anträge des Vorstandes und der Mitglieder.<br>
+        8. die Auflösung des Vereins.<br>
+    <p>
+    2. Die ordentliche Mitgliederversammlung findet einmal im Jahr statt. Außerordentliche Mitgliederversammlungen werden auf Beschluss des Vorstandes abgehalten, wenn die Interessen des Vereins dies erfordern oder wenn mindestens ein Viertel der Mitglieder dies unter Angabe des Zwecks schriftlich beantragen. Die Einberufung der Mitgliederversammlung erfolgt schriftlich durch den Vorstand mit einer Frist von mindestens zwei Wochen. Hierbei ist die Tagesordnung bekanntzugeben und die nötigen Informationen zugänglich zu machen. Anträge zur Tagesordnung sind mindestens drei Tage vor der Mitgliederversammlung bei dem Vorstand einzureichen. Über die Behandlung von Initiativanträgen entscheidet die Mitgliederversammlung.<br>
+    3. Die satzungsgemäß einberufene Mitgliederversammlung ist beschlussfähig wenn 30 Prozent der aktiven Mitglieder anwesend sind. Ist die Mitgliederversammlung aufgrund mangelnder Teilnehmerzahl nicht beschlussfähig, ist die darauf folgende ordentlich einberufene Mitgliederversammlung ungeachtet der Teilnehmerzahl beschlussfähig.<br>
+    4. Beschlüsse über Satzungsänderungen und über die Auflösung des Vereins bedürfen zu ihrer Rechtswirksamkeit der Dreiviertelmehrheit der anwesenden Mitglieder. In allen anderen Fällen genügt die einfache Mehrheit der anwesenden Mitglieder.<br>
+    5. Jedes Mitglied hat eine Stimme. Juristische Personen haben einen Stimmberechtigten schriftlich zu bestellen. Fördermitglieder sind nicht stimmberechtigt.<br>
+    6. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Protokollführer zu unterzeichnen ist; das Protokoll ist allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.<br>
+    7. Auf Antrag eines Mitglieds ist geheim zu wählen. Die Wahl des Vorstandes erfolgt durch Einzelabstimmung mit einfacher Mehrheit der anwesenden Mitglieder.<br>
+    8. Jedes aktive Mitglied kann schriftlich ein anderes aktives Mitglied als seinen Vertreter bestimmen. Es sind maximal zwei Vollmachterteilungen pro Bevollmächtigtem zulässig, die während der Mitgliederversammlung vorliegen müssen.</p>
 
 ### § 9 Vorstand
 
-    1. Der Vorstand besteht aus drei Mitgliedern.
-    2. Vorstand im Sinne des § 26, Abs. 2 BGB ist jedes Vorstandsmitglied. Ausgenommen sind Rechtsgeschäfte von über 500 Euro, Einstellung und Entlassung von Angestellten, gerichtliche Vertretung sowie Anzeigen, Aufnahme von Krediten, die durch zwei Vorstandsmitglieder vertreten werden.
-    3. Ist mehr als ein Vorstandsmitglieder dauernd an der Ausübung seines Amtes gehindert, so sind unverzüglich Nachwahlen anzuberaumen.
-    4. Die Amtsdauer der Vorstandsmitglieder beträgt 1 Jahr. Wiederwahl ist zulässig.
-    5. Der Vorstand ist Dienstvorgesetzter aller vom Verein angestellten Mitarbeiter; er kann diese Aufgabe einem Vorstandsmitglied übertragen.
-    6. Der Schatzmeister überwacht die Haushaltsführung und verwaltet das Vermögen des Vereins. Er hat auf eine sparsame und wirtschaftliche Haushaltsführung hinzuwirken. Mit dem Ablauf des Geschäftsjahres stellt er unverzüglich die Abrechnung sowie die Vermögensübersicht und sonstige Unterlagen von wirtschaftlichen Belang den Finanzprüfern des Vereins zur Prüfung zur Verfügung.
-    7. Die Vorstandsmitglieder sind grundsätzlich ehrenamtlich tätig. Sie haben Anspruch auf Erstattung notwendiger Auslagen im Rahmen einer von der Mitgliederversammlung zu beschließenden Richtlinie über die Erstattung von Reisekosten und Auslagen.
+<p> 1. Der Vorstand besteht aus drei Mitgliedern.<br>
+    2. Vorstand im Sinne des § 26, Abs. 2 BGB ist jedes Vorstandsmitglied. Ausgenommen sind Rechtsgeschäfte von über 500 Euro, Einstellung und Entlassung von Angestellten, gerichtliche Vertretung sowie Anzeigen, Aufnahme von Krediten, die durch zwei Vorstandsmitglieder vertreten werden.<br>
+    3. Ist mehr als ein Vorstandsmitglieder dauernd an der Ausübung seines Amtes gehindert, so sind unverzüglich Nachwahlen anzuberaumen.<br>
+    4. Die Amtsdauer der Vorstandsmitglieder beträgt 1 Jahr. Wiederwahl ist zulässig.<br>
+    5. Der Vorstand ist Dienstvorgesetzter aller vom Verein angestellten Mitarbeiter; er kann diese Aufgabe einem Vorstandsmitglied übertragen.<br>
+    6. Der Schatzmeister überwacht die Haushaltsführung und verwaltet das Vermögen des Vereins. Er hat auf eine sparsame und wirtschaftliche Haushaltsführung hinzuwirken. Mit dem Ablauf des Geschäftsjahres stellt er unverzüglich die Abrechnung sowie die Vermögensübersicht und sonstige Unterlagen von wirtschaftlichen Belang den Finanzprüfern des Vereins zur Prüfung zur Verfügung.<br>
+    7. Die Vorstandsmitglieder sind grundsätzlich ehrenamtlich tätig. Sie haben Anspruch auf Erstattung notwendiger Auslagen im Rahmen einer von der Mitgliederversammlung zu beschließenden Richtlinie über die Erstattung von Reisekosten und Auslagen.</p>
 
 ### § 10 Finanzprüfer
 
-    1. Zur Kontrolle der Haushaltsführung bestellt die Mitgliederversammlung einen oder mehrere Finanzprüfer. Nach Durchführung ihrer Prüfung erstatten sie dem Vorstand Kenntnis von ihrem Prüfungsergebnis und erstatten der Mitgliederversammlung Bericht.
-    2. Die Finanzprüfer dürfen dem Vorstand nicht angehören.
+<p>1. Zur Kontrolle der Haushaltsführung bestellt die Mitgliederversammlung einen oder mehrere Finanzprüfer. Nach Durchführung ihrer Prüfung erstatten sie dem Vorstand Kenntnis von ihrem Prüfungsergebnis und erstatten der Mitgliederversammlung Bericht.<br>
+    2. Die Finanzprüfer dürfen dem Vorstand nicht angehören.</p>
 
 ### § 11 Auflösung des Vereins
 
@@ -93,12 +94,12 @@ beschlossen am 13.1.2015 und verändert am 01. Juli 2015
 
 PräambelNach §7 der Satzung des Chaostreff Flensburg e.V. haben Mitglieder die von der Mitgliederversammlung festgesetzten Beiträge zu entrichten. Die Beitragsordnung regelt die Höhe Mitgliedsgebühren an den Chaostreff Flensburg e.V.Höhe der Beiträge
 
-    1. Der Mitgliedsbeitrag für ordentliche Mitglieder beträgt mindestens 10€ im Monat, ein höherer Beitrag kann gezahlt werden. Der Verein empfiehlt einen monatlichen Beitrag von mindestens 15€.
-    2. Fördermitglieder können die Höhe ihres Mitgliedsbeitrages selbst bestimmen.
+<p>1. Der Mitgliedsbeitrag für ordentliche Mitglieder beträgt mindestens 10€ im Monat, ein höherer Beitrag kann gezahlt werden. Der Verein empfiehlt einen monatlichen Beitrag von mindestens 15€.<br>
+2. Fördermitglieder können die Höhe ihres Mitgliedsbeitrages selbst bestimmen.</p>
 
 Fälligkeit und Zahlungsweise
 
-    1. Der Mitgliedsbeitrag ist im Voraus fällig.
-    2. Der Mitgliedsbeitrag kann je nach Wunsch monatlich, vierteljährlich, halbjährlich oder jährlich bezahlt werden.
-    3. Die Zahlung des Beitrages erfolgt durch Überweisung oder in bar.
-    4. Im Falle nicht fristgerechter Entrichtung der Beiträge ruht die Mitgliedschaft (§7.1 der Satzung)
+<p> 1. Der Mitgliedsbeitrag ist im Voraus fällig.<br>
+    2. Der Mitgliedsbeitrag kann je nach Wunsch monatlich, vierteljährlich, halbjährlich oder jährlich bezahlt werden.<br>
+    3. Die Zahlung des Beitrages erfolgt durch Überweisung oder in bar.<br>
+    4. Im Falle nicht fristgerechter Entrichtung der Beiträge ruht die Mitgliedschaft (§7.1 der Satzung)</p>
