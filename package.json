@@ -12,8 +12,17 @@
     "dev": "vuepress dev src",
     "build": "vuepress build src"
   },
-  "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.3"
+    "dart-sass": "^1.25.0",
+    "sass": "^1.54.9",
+    "sass-loader": "^10.3.1",
+    "vuepress": "^1.5.3",
+    "webpack": "^4.46.0"
+  },
+  "dependencies": {
+    "@vuepress/plugin-search": "^1.9.7",
+    "@vuepress/theme-default": "^1.9.7",
+    "bootstrap": "^5.2.1",
+    "bootstrap-icons": "^1.9.1"
   }
 }
