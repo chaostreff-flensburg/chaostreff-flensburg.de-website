@@ -32,7 +32,7 @@ import SideBar from "../components/SideBar";
 
 import "bootstrap/scss/bootstrap.scss";
 import "bootstrap-icons/font/bootstrap-icons.scss";
-import "../layout.sass";
+import "../layout.scss";
 
 export default {
   components: {SiteFooter, SiteHeader}
