@@ -2,6 +2,7 @@
 ---
 
 # Events
+---
 
 ## Regelmäßige Veranstaltungen
 

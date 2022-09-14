@@ -44,6 +44,12 @@ header {
   position: fixed;
   z-index: 10;
   width: 100%;
+  padding: 10px 0px;
+  margin: 0;
+  text-align: center;
+  background-color: #656565;
+  color: black;
+  font-size: 20px;
 }
 main {
   padding: 5rem 0 2rem 0;

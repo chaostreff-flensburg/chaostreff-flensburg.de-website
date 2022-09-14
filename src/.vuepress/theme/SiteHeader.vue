@@ -12,7 +12,7 @@
           </div>
         </div>
         <div v-else class="site">
-          <router-link :to="nav.link" class="link">{{ nav.text }}</router-link>
+          <router-link :to= "nav.link" class="link">{{ nav.text }}</router-link>
         </div>
       </div>
       <SearchBox class="col-auto" />
@@ -31,5 +31,16 @@ export default {
 <style scoped>
 .dropdown:hover .dropdown-menu {
   display: block;
+  border: rgb(17, 16, 16) solid 3px;
+  background-color: #656565;
 }
+
+.dropdown-item {
+  color: black;
+}
+
+.link {
+  color: rgb(27, 29, 29);
+}
+
 </style>
