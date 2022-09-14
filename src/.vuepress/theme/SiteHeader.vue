@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar px-4">
     <div>
-      <router-link class="d-none d-sm-block" to="/">{{ $site.title }}</router-link>
+      <router-link class="d-none d-sm-block header-title" to="/">{{ $site.title }}</router-link>
     </div>
     <div class="row align-items-center">
       <div v-for="nav in $site.themeConfig.nav" class="col-auto d-none d-xl-block">
@@ -29,6 +29,10 @@ export default {
 </script>
 
 <style scoped>
+.header-title{
+  color: black;
+}
+
 .dropdown:hover .dropdown-menu {
   display: block;
   border: rgb(17, 16, 16) solid 3px;
