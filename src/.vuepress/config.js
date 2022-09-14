@@ -31,30 +31,12 @@ module.exports = {
       {
         text: 'Events',
         link: '/events/',
-        children: [
-          {
-            text: 'Hacks On The Beach 2022',
-            link: '/events/hoth2022',
-          }
-        ]
+        path: '/events/',
       },
       {
         text: 'Mitmachen',
         link: '/mitmachen/',
-        children: [
-          {
-            text: 'Wir',
-            link: '/mitmachen/wir',
-          },
-          {
-            text: 'Unterstützen',
-            link: '/mitmachen/unterstützen',
-          },
-          {
-            text: 'Wir',
-            link: '/mitmachen/wir',
-          },
-        ]
+        path: '/mitmachen/',
       },
     ],
   },

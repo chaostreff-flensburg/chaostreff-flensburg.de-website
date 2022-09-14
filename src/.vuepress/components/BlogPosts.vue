@@ -10,12 +10,13 @@
     >
       <div class="card-header">
         <router-link :to="page.regularPath">{{ page.title }}</router-link>
+        <span v-if="page.frontmatter.date">{{ new Date(page.frontmatter.date).toLocaleDateString() }}</span>
       </div>
       <div class="card-body">
-        <router-link :to="page.regularPath">
-          <img :src="page.frontmatter?.imgUrl" :alt="page.title" class="card-img">
+        <router-link v-if="page.frontmatter.imgUrl" :to="page.regularPath">
+          <img :src="page.frontmatter.imgUrl" :alt="page.title" class="card-img">
         </router-link>
-        <p class="mt-3">{{ page.frontmatter?.excerpt  }}</p>
+        <p v-if="page.frontmatter.excerpt" class="mt-3">{{ page.frontmatter.excerpt }}</p>
       </div>
     </div>
     <div
