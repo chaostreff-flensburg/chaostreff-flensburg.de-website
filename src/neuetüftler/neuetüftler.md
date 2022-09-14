@@ -11,12 +11,12 @@ Für die Anmeldung schreibt uns einfach eine E-Mail an jugendtreff@chaostreff-fl
 
 **Wann**: (In der Regel) Immer der 2. Montag im Monat in der Schulzeit.
 
-    Montag der 17.02.2020 um 16:00 bis 17:30
-    Montag der 09.03 um 16:00 bis 17:30
-    Montag der 20.04 um 16:00 bis 17:30 Ausfall aufgrund von Covid-19
-    Montag der 11.05 um 16:00 bis 17:30 Ausfall aufgrund von Covid-19
-    Montag der 15.06 um 16:00 bis 17:30 Ausfall aufgrund von Covid-19
-    Montag der 17.08 um 16:00 bis 17:30 Ausfall aufgrund von Covid-19
+Montag der 17.02.2020 um 16:00 bis 17:30
+Montag der 09.03 um 16:00 bis 17:30
+Montag der 20.04 um 16:00 bis 17:30 Ausfall aufgrund von Covid-19
+Montag der 11.05 um 16:00 bis 17:30 Ausfall aufgrund von Covid-19
+Montag der 15.06 um 16:00 bis 17:30 Ausfall aufgrund von Covid-19
+Montag der 17.08 um 16:00 bis 17:30 Ausfall aufgrund von Covid-19
 
 **Alter**: 12 bis 17 Jahren
 
