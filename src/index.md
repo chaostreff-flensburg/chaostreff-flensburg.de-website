@@ -31,3 +31,4 @@ Aufgrund von Covid-19 können wir unseren Veranstaltungen nicht regulär durchf�
 - Sommerferien: Ferienpass Workshops
 
 ## Unsere letzten Blog Einträge:
+<RecentBlogPosts :limit="10"/>
