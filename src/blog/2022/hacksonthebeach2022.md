@@ -4,6 +4,4 @@ excerpt: this is a template
 date: 2022-09-13
 ---
 
-# Hello World
-
-this is a blog template
+# 09.09. - 11.09.22 #HacksOnTheBeach

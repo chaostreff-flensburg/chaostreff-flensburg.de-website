@@ -1,9 +1,7 @@
 ---
 imgUrl: https://via.placeholder.com/600x400
 excerpt: this is a template
-date: 2022-09-13
+date: 2021-09-09
 ---
 
-# Hello World
-
-this is a blog template
+# #FITB Aktionstag technologisch! 2021 – Wir sind dabei
