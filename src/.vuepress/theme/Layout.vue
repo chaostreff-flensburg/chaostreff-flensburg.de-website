@@ -52,7 +52,7 @@ main {
   padding: 8rem 0 2rem 0;
   .sticky-sidebar {
     position: sticky;
-    top: 5rem;
+    top: 8rem;
   }
 }
 </style>
