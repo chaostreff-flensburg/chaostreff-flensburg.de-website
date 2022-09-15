@@ -53,16 +53,54 @@ export default {
 .header-img {
   height: 3.5rem;
 }
+         
+.dropdown-menu{
+  position: absolute;
+  display: none;
+  animation: growDown 550ms ease-in-out forwards;
+  transform-origin: top center;
+}
+
+@keyframes growDown {
+    0% {
+        transform: scaleY(0);
+    }
+    80% {
+        transform: scaleY(1.1);
+    }
+    100% {
+        transform: scaleY(1);
+    }
+}
 
 .dropdown:hover .dropdown-menu {
   display: block;
 }
 
-.dropdown-item {
+.btn.link {
+  position: relative;
+  color: #000;
+  text-decoration: none;
 }
 
-.link {
-  color: rgb(27, 29, 29);
+.btn.link:hover {
+  color: #000;
 }
 
+.btn.link::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #000;
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+
+.btn.link:hover::before {
+  transform: scaleX(1);
+}
 </style>
