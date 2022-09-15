@@ -28,7 +28,3 @@ let lol = 'hey';
 
 hallo [das ist ein link](https://adb.sh) lol
 
-<example />
-<example />
-<example />
-<example />

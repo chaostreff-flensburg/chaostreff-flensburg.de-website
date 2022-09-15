@@ -1,8 +1,12 @@
 <template>
   <nav class="navbar px-4">
-    <div>
-      <router-link class="d-none d-sm-block header-title btn" to="/">{{ $site.title }}</router-link>
-    </div>
+    <router-link class="btn d-flex" to="/">
+      <img src="../assets/cropped-cropped-Leuchtturmrakete-02-1.png" alt="logo" class="mx-3 header-img" />
+      <div class="d-none d-sm-flex header-title flex-column justify-content-center">
+        <b>{{ $site.title }}</b>
+        <div>{{ $site.description }}</div>
+      </div>
+    </router-link>
     <div class="row align-items-center">
       <div v-for="nav of $site.themeConfig.nav" class="col-auto d-none d-xl-block">
         <div v-if="nav.children || nav.path" class="category dropdown">
@@ -41,9 +45,13 @@ export default {
 };
 </script>
 
-<style scoped>
-.header-title{
+<style scoped lang="scss">
+.header-title {
   color: black;
+}
+
+.header-img {
+  height: 3.5rem;
 }
 
 .dropdown:hover .dropdown-menu {

@@ -1,8 +1,6 @@
-const { description } = require('../../package')
-
 module.exports = {
   title: 'Chaostreff-Flensburg e.V.',
-  description: description,
+  description: 'Hackerspace und Makerplace',
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],

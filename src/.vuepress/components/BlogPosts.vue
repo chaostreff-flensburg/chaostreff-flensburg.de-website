@@ -3,6 +3,7 @@
     <div
       v-for="page of $site.pages
         .filter((page) => page.regularPath.match(/\/blog\/./))
+        .sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date))
         .slice(0, limit)
       "
       :key="page.regularPath"
@@ -36,7 +37,7 @@
 export default {
   name: "BlogPosts.vue",
   data: () => ({
-    limit: 8,
+    limit: 6,
   }),
 };
 </script>

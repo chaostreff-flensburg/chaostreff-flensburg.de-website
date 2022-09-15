@@ -2,5 +2,6 @@
 ---
 
 # Blog
+----
 
 <BlogPosts />

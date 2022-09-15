@@ -12,9 +12,10 @@
     <b>Letzte Blog Einträge:</b>
     <RecentBlogPosts />
     <b>Rechtliches</b>
-    <br>
-      <a href="datenschutz.md">Datenschutz</a></br>
-      <a href="impressum.md">Impressum</a>
+    <ul>
+      <li><router-link to="/datenschutz">Datenschutz</router-link></li>
+      <li><router-link to="/impressum">Impressum</router-link></li>
+    </ul>
   </div>
 </template>
 

@@ -12,7 +12,9 @@
           <div class="card-body">
             <div class="row">
               <Content class="col-xl-8 p-4"/>
-              <SideBar class="col-xl-4 p-4" />
+              <div class="col-xl-4 p-4">
+                <SideBar class="sticky-sidebar" />
+              </div>
             </div>
           </div>
         </div>
@@ -39,19 +41,18 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 header {
   position: fixed;
   z-index: 10;
   width: 100%;
-  padding: 10px 0px;
-  margin: 0;
-  text-align: center;
-  background-color: #656565;
-  color: black;
-  font-size: 20px;
+  font-size: 1.2rem;
 }
 main {
-  padding: 5rem 0 2rem 0;
+  padding: 8rem 0 2rem 0;
+  .sticky-sidebar {
+    position: sticky;
+    top: 5rem;
+  }
 }
 </style>
