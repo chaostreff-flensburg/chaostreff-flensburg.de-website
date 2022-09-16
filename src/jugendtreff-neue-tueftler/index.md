@@ -32,16 +32,16 @@ Montag der 17.08 um 16:00 bis 17:30 Ausfall aufgrund von Covid-19
 
 ## Zeitungsbericht
 
-Blopost | Link zum Beitrag
+[Blopost](https://chaostreff-flensburg.de/2018/bericht-der-flensborg-avis/) | [Link zum Beitrag](https://www.fla.de/wp/dailys/softwareprogrammoerer-laerer-boern-at-lave-robotter/)
 
 ## Berichte der ersten Treffen: 
 
-Episode I – 04.09.2018
+[Episode I – 04.09.2018](https://chaostreff-flensburg.de/2018/episode-1-des-jugendtreffs-neue-tueftler/)
 
-Episode II – 24.09.2018
+[Episode II – 24.09.2018](https://chaostreff-flensburg.de/2018/episode-ii-des-jugendtreffs-neue-tueftler/)
 
-Episode III – 05.11.2018
+[Episode III – 05.11.2018](https://chaostreff-flensburg.de/2018/episode-iii-der-neuen-tueftler-vom-05-11-2018/)
 
-Episode IV – 03.12.2018
+[Episode IV – 03.12.2018](https://chaostreff-flensburg.de/2018/episode-iv-der-neuen-tueftler-vom-03-12-2018/)
 
-Ferien Workshop: Löten für Anfänger*innen Ostern 2019
+[Ferien Workshop: Löten für Anfänger*innen Ostern 2019](https://chaostreff-flensburg.de/2019/ferien-workshop-loeten-fuer-anfaengerinnen/)

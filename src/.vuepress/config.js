@@ -27,6 +27,11 @@ module.exports = {
         link: '/blog/',
       },
       {
+        text: 'Neue Tüftler:innen',
+        link: '/jugendtreff-neue-tueftler/',
+        path: '/jugendtreff-neue-tueftler/',
+      },
+      {
         text: 'Events',
         link: '/events/',
         path: '/events/',

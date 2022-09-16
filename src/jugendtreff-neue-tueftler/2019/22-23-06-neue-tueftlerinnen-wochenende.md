@@ -10,9 +10,9 @@ Nach dem Werkstatt-Prinzip gibt es verschieden Stationen und Workshops zu den Th
 
 Hilfe bekommt ihr dabei selbstverständlich auch, denn eure Mentoren vom Chaostreff Flensburg stehen euch mit Rat und Tat zur Seite. Wir werden Samstag und Sonntag für ein warmes Mittagessen, Getränke und eine Kekspause sorgen. Mehr Informationen findest du in der Infobox und im FAQ. 
 
-<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link" href="https://tickets.chaostreff-flensburg.de/ctfl/workshop-nt-201901/">Jetzt Anmelden</a></div>
+<a class="btn btn-primary my-2" href="https://tickets.chaostreff-flensburg.de/ctfl/workshop-nt-201901/">Jetzt Anmelden</a></div>
 
-<p style="text-align:center"><a href="https://chaostreff-flensburg.de/2017/scheersberg-hack-2-0/">Einen Bericht zu unserer letzten Veranstaltung findest du hier. </a></p><br>
+[Einen Bericht zu unserer letzten Veranstaltung findest du hier.](https://chaostreff-flensburg.de/2017/scheersberg-hack-2-0/)
 
 ## Die Wichtigsten Infos
 ---

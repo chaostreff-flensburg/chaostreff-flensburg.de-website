@@ -2,8 +2,10 @@
 ---
 
 # Satzung
-
-## Satzung des Chaostreff Flensburg e.V.
+----
+  
+## Satzung des Chaostreff Flensburg e.V.  
+----
 
 ### § 1 Name, Sitz, Geschäftsjahr
 

@@ -57,9 +57,9 @@ Ende:  Sonntag am 16:00
 
 **Wo kann ich übernachten?**
 
-    Im [Hotel am Wasserturm](https://www.hotel-am-wasserturm.com/) gibt es ab 55€ die Nacht ein Hotelzimmer, und du unterstützt damit auch unsere Veranstaltung, indem du bei unserem Hotel Partner buchst. Es sind ca. 5 Minuten mit dem Taxi vom Strandpavillion. Bitte gebt beim Buchen auch direkt an, dass ihr zum Hacks on the Beach gehört. 
-    Es gibt in der Umbegebung vom Strandpavillion viele Ferienwohnungen. Gerade Ende September sind diese für Kleingruppen eine gute Lösung.
-    Für beides kein Budget? Frag doch einfach deine Freunde in Flensburg, ob diese noch eine Couch übrig haben oder gar ein Grand Hotel 
+- Im [Hotel am Wasserturm](https://www.hotel-am-wasserturm.com/) gibt es ab 55€ die Nacht ein Hotelzimmer, und du unterstützt damit auch unsere Veranstaltung, indem du bei unserem Hotel Partner buchst. Es sind ca. 5 Minuten mit dem Taxi vom Strandpavillion. Bitte gebt beim Buchen auch direkt an, dass ihr zum Hacks on the Beach gehört. 
+- Es gibt in der Umbegebung vom Strandpavillion viele Ferienwohnungen. Gerade Ende September sind diese für Kleingruppen eine gute Lösung.
+- Für beides kein Budget? Frag doch einfach deine Freunde in Flensburg, ob diese noch eine Couch übrig haben oder gar ein Grand Hotel 
 
 **Wo kann ich Parken?**
 

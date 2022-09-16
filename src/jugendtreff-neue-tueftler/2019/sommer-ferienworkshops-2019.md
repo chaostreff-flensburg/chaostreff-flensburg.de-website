@@ -12,8 +12,8 @@
 ### **03.08** Roboter bauen für Anfänger:innen mit dem Calliope Mini
 <br>
 
-Du bist technikbegeistert und willst dich mit Gleichgesinnten austauschen? Du willst verstehen wie Roboter funktionieren? Du willst mal reinschnuppern und erste Schritte mit einem Minicomputer und programmieren machen? Wir wollen programmieren, basteln, hacken, Ideen entwickeln, Technik kennenlernen und ausprobieren. Wir arbeiten mit dem Minicomputer Calliope und einem Laptop. Weitere Informationen zum Calliope findest du unter calliope.cc oder auf chaostreff-flensburg.de
-Diese Veranstaltung richtet sich vor allem an Anfänger*innen. Für Verpflegung ist gesorgt bitte Allergene vorher angeben. Für Verpflegung ist gesorgt bitte Allergene vorher angeben.<br>
+Du bist technikbegeistert und willst dich mit Gleichgesinnten austauschen? Du willst verstehen wie Roboter funktionieren? Du willst mal reinschnuppern und erste Schritte mit einem Minicomputer und programmieren machen? Wir wollen programmieren, basteln, hacken, Ideen entwickeln, Technik kennenlernen und ausprobieren. Wir arbeiten mit dem Minicomputer Calliope und einem Laptop. Weitere Informationen zum [Calliope](http://www.calliope.cc ) findest du unter calliope.cc oder auf chaostreff-flensburg.de
+Diese Veranstaltung richtet sich vor allem an **Anfänger*innen**. Für Verpflegung ist gesorgt bitte Allergene vorher angeben. Für Verpflegung ist gesorgt bitte Allergene vorher angeben.<br>
 
 **Uhrzeit**: 03.08.2018 10:00–17:00 Uhr
 **Wo**: Chaostreff-Flensburg e.V., Apenrader Straße 49, 24939 Flensburg
