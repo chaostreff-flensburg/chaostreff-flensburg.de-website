@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b>Kontakt und Social Media</b>
+    <b><strong>Kontakt und Social Media</strong></b>
     <ul>
     <br>
       <li><a href="mailto:mail@chaostreff-flensburg.de">mail@chaostreff-flensburg.de</a></li><br>
@@ -10,9 +10,9 @@
       <li><a href="https://www.flickr.com/photos/157585171@N05/">Flickr</a></li><br>
       <li><a href="https://github.com/chaostreff-flensburg">Github</a></li><br>
     </ul>
-    <b>Letzte Blog Einträge:</b>
+    <b><strong>Letzte Blog Einträge:</strong></b>
     <RecentBlogPosts />
-    <b>Rechtliches</b>
+    <b><strong>Rechtliches</strong></b>
     <ul>
     <br>
       <li><router-link to="/datenschutz">Datenschutz</router-link></li><br>
@@ -34,20 +34,24 @@ export default {
 b {
   color: black;
   font-size: 23px;
-  border: 1px solid;
+  border: 3px solid;
+  border-radius: 7px;
   padding: 5px;
+  
 }
 
 a {
   color: #303030;
   text-decoration: none;
-  border: 1px solid;
+  border: 2px solid;
   padding: 10px;
-  box-shadow: 5px 10px;
+  box-shadow: 3px 5px;
+  transition: box-shadow 0.2s ease-in-out;
 }
 
 a:hover {
   color: black;
+  box-shadow: 7px 10px;
 }
 
 ul{
