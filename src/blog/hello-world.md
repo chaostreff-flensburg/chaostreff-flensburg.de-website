@@ -1,9 +1,0 @@
----
-imgUrl: https://via.placeholder.com/600x400
-excerpt: this is a template
-date: 2022-09-13
----
-
-# Hello World
-
-this is a blog template

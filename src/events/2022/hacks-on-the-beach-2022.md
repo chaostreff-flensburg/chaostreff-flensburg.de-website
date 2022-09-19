@@ -1,4 +1,5 @@
 ---
+date: "09.09.2022"
 ---
 
 # Hacks on the Beach 2022

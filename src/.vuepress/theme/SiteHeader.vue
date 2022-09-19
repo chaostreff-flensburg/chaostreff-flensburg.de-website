@@ -17,6 +17,7 @@
                 .concat(nav.path
                   ? $site.pages
                     .filter(page => page.regularPath.match(new RegExp(`${nav.path}.`)))
+                    .sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date))
                     .map(page => ({ text: page.title, link: page.regularPath }))
                   : []
                 )

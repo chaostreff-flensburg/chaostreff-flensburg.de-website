@@ -3,10 +3,11 @@
     <li
       v-for="page of $site.pages
         .filter((page) => page.regularPath.match(/\/blog\/./))
+        .sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date))
         .slice(0, limit)"
       :key="page.regularPath"
     >
-      <router-link :to="page.regularPath">{{ page.title }}</router-link>
+      <router-link :to="page.regularPath" v-html="page.title" />
     </li>
   </ul>
 </template>

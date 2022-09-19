@@ -1,7 +1,8 @@
 ---
+date: "09.09.2021"
 ---
 
-# Re:Re:Save the Date!
+# Hacks on the Beach 2021
 
 **Das Hacks on the Beach wird auch 2021 aufgrund der aktuellen Situation bezüglich Covid-19 nicht stattfinden.**
 

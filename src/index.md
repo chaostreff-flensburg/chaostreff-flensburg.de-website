@@ -29,6 +29,3 @@ Aufgrund von Covid-19 können wir unseren Veranstaltungen nicht regulär durchf�
 - Einmal im Monat: Jugendtreff Neue Tüftler:innten
 - <span>25. Juni 2022 – Hacks on the Harbour in Sonderburg (Dänemark) mit Shuttle aus Flensburg</span>
 - Sommerferien: Ferienpass Workshops
-
-## Unsere letzten Blog Einträge:
-<RecentBlogPosts :limit="10"/>

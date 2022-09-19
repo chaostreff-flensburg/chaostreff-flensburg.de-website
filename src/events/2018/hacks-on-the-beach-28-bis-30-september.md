@@ -1,40 +1,41 @@
 ---
+date: "09.09.2018"
 ---
 
-# Hacks On the Beach 2018
+# Hacks on the Beach 2018
 
 ## Mini-Fahrplan
 
 Unser Fahrplan ist ein wenig wie das ganze Event: Kurzfristig zusammengefrickelt und noch flexibel in der Ausgestaltung.
 Wenn du eine Session anbieten möchtest, mach es einfach. Wenn  du eine Uhrzeit auf’s Flipchart schreibst tragen wir deine Session unten mit ein.
 
-Freitag
+### Freitag
 
-    Moin! – Die Eröffnung | 19:00 Uhr – Backbord
-    Abendessen | 20:00 Uhr – Backbord
-    Lagerfeuer & Stockbrot mit @contenna | TBA – Kombüse & Über Bord
+Moin! – Die Eröffnung | 19:00 Uhr – Backbord
+Abendessen | 20:00 Uhr – Backbord
+Lagerfeuer & Stockbrot mit @contenna | TBA – Kombüse & Über Bord
 
-Samstag
+### Samstag
 
-    Frühstück | 10:00 Uhr – Backbord
-    Hacke Hacke Kuchen | Kombüse
-    Gaffa-Geldbörse basteln mit @sabrinkmann | 14:00 Uhr – Backbord
-    Warum die Prepper ein wenig Recht haben. – Stromnetze von @spralexx erklärt. | 15:30 Uhr – Backbord
-    Software Defined Radio | 17:00 Uhr – Backbord
-    Lagerfeuer & Stockbrot mit @contenna | Abends – Kombüse & Über Bord
-    Abendessen | 19:00 Uhr – Backbord
-    #LassScheppernDisse: Solitüde is‘ fällig! | Nach dem Abendessen – Backbord
+Frühstück | 10:00 Uhr – Backbord
+Hacke Hacke Kuchen | Kombüse
+Gaffa-Geldbörse basteln mit @sabrinkmann | 14:00 Uhr – Backbord
+Warum die Prepper ein wenig Recht haben. – Stromnetze von @spralexx erklärt. | 15:30 Uhr – Backbord
+Software Defined Radio | 17:00 Uhr – Backbord
+Lagerfeuer & Stockbrot mit @contenna | Abends – Kombüse & Über Bord
+Abendessen | 19:00 Uhr – Backbord
+#LassScheppernDisse: Solitüde is‘ fällig! | Nach dem Abendessen – Backbord
 
-Sonntag
+### Sonntag
 
-    Frühstück | 10:00 Uhr – Backbord
-    Ersma‘! – Die Verabschiedung | 16:00 Uhr – Backbord
+Frühstück | 10:00 Uhr – Backbord
+Ersma‘! – Die Verabschiedung | 16:00 Uhr – Backbord
 
  
 
 Packt euren Friesennerz ein, es geht nach Norddeutschland! Der Chaostreff Flensburg lädt euch ein zu den Hacks on the Beach. Wir richten uns unser Hackcenter im Strandpavillion ein, direkt auf dem Flensburger Strandbad Solitüde. Hacken mit Rundumblick über die Flensburger Förde und bis nach Dänemark.
 
-Wo:
+## Wo:
 
 Strandpavillion Solitüde
 54°49’20.8″N 9°29’22.1″E
@@ -42,7 +43,7 @@ Flensburg
 
 Google Maps | Open Street Map
 
-Wann:
+## Wann:
 28.–30. September 2018 
 Beginn: Freitag am 14:00 (Offizielle Eröffnung 19:00)
 Ende:  Sonntag am 16:00 

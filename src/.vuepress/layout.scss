@@ -14,3 +14,47 @@ main {
   letter-spacing: 0.5px;
   font-size: 1.10rem;
 }
+
+img {
+  border-radius: .25rem;
+}
+
+figure.wp-block-image {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.SideBar {
+  b {
+    color: black;
+    font-size: 1.5rem;
+    padding: 5px;
+    text-decoration: underline;
+  }
+
+  ul {
+    list-style-type: none;
+    font-size: 1.2rem;
+    li {
+      height: fit-content;
+      border: 2px solid;
+      margin: .5rem;
+      padding: .2rem .5rem;
+      width: fit-content;
+      box-shadow: 3px 5px;
+      transition: box-shadow 0.2s ease-in-out;
+      box-sizing: border-box;
+      &:hover {
+        color: black;
+        box-shadow: 7px 10px;
+      }
+      a {
+        color: #303030;
+        text-decoration: none;
+      }
+    }
+  }
+}
+

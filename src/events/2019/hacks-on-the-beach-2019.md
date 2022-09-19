@@ -1,4 +1,5 @@
 ---
+date: "06.10.2019"
 ---
 
 # Hacks on the Beach 2019

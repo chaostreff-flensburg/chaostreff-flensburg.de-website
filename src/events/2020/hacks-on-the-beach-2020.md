@@ -1,4 +1,5 @@
 ---
+date: "11.09.2020"
 ---
 
 # Hacks on the Beach 2020
