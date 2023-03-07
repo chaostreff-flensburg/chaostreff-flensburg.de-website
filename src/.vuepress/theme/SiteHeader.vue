@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar px-4">
+  <nav class="navbar px-2">
     <router-link class="btn d-flex" to="/">
       <img src="../assets/cropped-cropped-Leuchtturmrakete-02-1.png" alt="logo" class="mx-3 header-img" />
       <div class="d-none d-sm-flex header-title flex-column justify-content-center">
@@ -58,27 +58,14 @@ export default {
 .dropdown-menu{
   position: absolute;
   display: none;
-  animation: growDown 550ms ease-in-out forwards;
   transform-origin: top center;
-}
-
-@keyframes growDown {
-    0% {
-        transform: scaleY(0);
-    }
-    80% {
-        transform: scaleY(1.1);
-    }
-    100% {
-        transform: scaleY(1);
-    }
 }
 
 .dropdown:hover .dropdown-menu {
   display: block;
 }
 
-.btn.link {
+/*.btn.link {
   position: relative;
   color: #000;
   text-decoration: none;
@@ -103,5 +90,5 @@ export default {
 
 .btn.link:hover::before {
   transform: scaleX(1);
-}
+}*/
 </style>
