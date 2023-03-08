@@ -1,12 +1,12 @@
 ---
 excerpt: '<p>Jugendtreff Neue Tüftler:innen Im Jugendtreff geht es auch im Jahr 2019 stetig weiter. Da wir mittlerweile die Calliope Mini und Roboter Grundlagen abgeschlossen haben, sind wir jetzt in einer Projektphase. Gemeinsam mit den <a href="https://chaostreff-flensburg.de/2019/jugendtreff-neue-tueftlerinnen-rueckblick-q1-2019/" class="more-link">[&hellip;]</a></p>'
-date: "Wed Apr 03 2019"
+date: "2019-04-03T11:59:02.000Z"
 imgUrl: /media/blog/46693521005_bfe51571fe_k-1.jpg
 ---
 # Jugendtreff Neue Tüftler:innen &#8211; Rückblick Q1 &#8211; 2019
 
 
-<figure class="wp-block-image"><img loading="lazy" width="1024" height="683" src="/media/blog/uploads/46693521005_bfe51571fe_k-1-1024x683.jpg" alt="" class="wp-image-1082" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693521005_bfe51571fe_k-1-1024x683.jpg 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693521005_bfe51571fe_k-1-300x200.jpg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693521005_bfe51571fe_k-1-768x512.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693521005_bfe51571fe_k-1-750x500.jpg 750w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693521005_bfe51571fe_k-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="683" src="/media/blog/uploads/46693521005_bfe51571fe_k-1-1024x683.jpg" alt="" class="wp-image-1082" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693521005_bfe51571fe_k-1-1024x683.jpg 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693521005_bfe51571fe_k-1-300x200.jpg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693521005_bfe51571fe_k-1-768x512.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693521005_bfe51571fe_k-1-750x500.jpg 750w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693521005_bfe51571fe_k-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

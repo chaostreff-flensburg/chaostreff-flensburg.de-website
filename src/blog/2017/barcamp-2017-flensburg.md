@@ -1,6 +1,6 @@
 ---
 excerpt: '<p>Das zweite Flensburger Barcamp ging zu Ende. Bei spannenden Vorträgen und leckerem Essen konnte man sich kennen lernen, networken und austauschen. Dieses Jahr war der Chaostreff Flensburg mit einem eigenem <a href="https://chaostreff-flensburg.de/2017/barcamp-2017-flensburg/" class="more-link">[&hellip;]</a></p>'
-date: "Mon Mar 27 2017"
+date: "2017-03-27T20:56:00.000Z"
 imgUrl: /media/blog/thumbs_MG_9649.jpg
 ---
 # Barcamp 2017, Flensburg

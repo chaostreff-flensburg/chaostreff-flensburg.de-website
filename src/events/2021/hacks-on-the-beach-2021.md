@@ -1,5 +1,5 @@
 ---
-date: "09.09.2021"
+date: "2021-09-09"
 ---
 
 # Hacks on the Beach 2021

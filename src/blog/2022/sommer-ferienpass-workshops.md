@@ -1,11 +1,11 @@
 ---
 excerpt: '<p>In den Sommerferien bieten wir 4 Workshops im Rahmen des Ferienpass Flensburg an. Spiele Programmieren mit GB Studies Du bist technik- und/oder spielebegeistert und willst dich mit Gleichgesinnten austauschen? Du <a href="https://chaostreff-flensburg.de/2022/sommer-ferienpass-workshops/" class="more-link">[&hellip;]</a></p>'
-date: "Thu Apr 07 2022"
+date: "2022-04-07T18:12:30.000Z"
 ---
 # Sommer Ferienpass Workshops
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="767" height="767" src="https://chaostreff-flensburg.de/wp-content/uploads/2022/03/ws-low.png" alt="" class="wp-image-1589" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2022/03/ws-low.png 767w, https://chaostreff-flensburg.de/wp-content/uploads/2022/03/ws-low-300x300.png 300w, https://chaostreff-flensburg.de/wp-content/uploads/2022/03/ws-low-150x150.png 150w, https://chaostreff-flensburg.de/wp-content/uploads/2022/03/ws-low-500x500.png 500w" sizes="(max-width: 767px) 100vw, 767px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="767" height="767" src="https://chaostreff-flensburg.de/wp-content/uploads/2022/03/ws-low.png" alt="" class="wp-image-1589" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2022/03/ws-low.png 767w, https://chaostreff-flensburg.de/wp-content/uploads/2022/03/ws-low-300x300.png 300w, https://chaostreff-flensburg.de/wp-content/uploads/2022/03/ws-low-150x150.png 150w, https://chaostreff-flensburg.de/wp-content/uploads/2022/03/ws-low-500x500.png 500w" sizes="(max-width: 767px) 100vw, 767px" /></figure>
 
 
 
@@ -45,7 +45,7 @@ date: "Thu Apr 07 2022"
 
 
 
-<div class="wp-container-1 wp-block-buttons">
+<div class="is-layout-flex wp-block-buttons">
 <div class="wp-block-button" style="color:white"><a class="wp-block-button__link" href="https://www.ferienpass-flensburg.de/home">Anmelden über die Ferienpass Flensburg Website</a></div>
 </div>
 

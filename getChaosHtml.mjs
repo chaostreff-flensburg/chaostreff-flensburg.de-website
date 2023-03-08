@@ -1,5 +1,6 @@
 import { writeFileSync, promises } from "fs";
 const { writeFile, mkdir } = promises;
+import fetch from "node-fetch";
 
 const matchPath = /(?<path>|.+)\/(?<filename>[-_\w]+)(?<filetype>|\/|\.\w+)$/;
 const matchSrc = /src="(?<src>[-_+=:\.\\\/\w]+\/(?<filename>[-_\w]+)(?<filetype>|\/|\.\w+))"/g;
@@ -46,6 +47,7 @@ const matchSrc = /src="(?<src>[-_+=:\.\\\/\w]+\/(?<filename>[-_\w]+)(?<filetype>
 
     const content = post.content.rendered.replaceAll(matchSrc, (match, i, original) => {
       const groups = [...match.matchAll(matchSrc)][0]?.groups;
+      console.log(groups);
       return `src="/media/blog/uploads/${ groups.filename }${ groups.filetype }"`;
     });
 
@@ -63,7 +65,7 @@ const matchSrc = /src="(?<src>[-_+=:\.\\\/\w]+\/(?<filename>[-_\w]+)(?<filetype>
     content:
 `---
 excerpt: '${ excerpt.rendered.replaceAll('\n', '').replaceAll("'", "\\'").trim() }'
-date: "${ (new Date(date)).toDateString() }"${ imgUrl ? `\nimgUrl: ${ imgUrl }` : '' }
+date: "${ (new Date(date)).toISOString() }"${ imgUrl ? `\nimgUrl: ${ imgUrl }` : '' }
 ---
 # ${ title.rendered }
 

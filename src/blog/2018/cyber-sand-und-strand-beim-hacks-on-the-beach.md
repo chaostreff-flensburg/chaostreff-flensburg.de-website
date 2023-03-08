@@ -1,11 +1,11 @@
 ---
 excerpt: '<p>Chaostreff Flensburg veranstaltete Deutschlands nördlichsten Hackathon im Strandpavillion Solitüde. Wenn sich rund 60 Technikbegeisterte, Computerfreaks und Bastler für ein Wochenende treffen, hat man schon ein bestimmtes Bild vor Augen: Nerds <a href="https://chaostreff-flensburg.de/2018/cyber-sand-und-strand-beim-hacks-on-the-beach/" class="more-link">[&hellip;]</a></p>'
-date: "Fri Oct 12 2018"
+date: "2018-10-12T07:08:57.000Z"
 ---
 # Cyber, Sand und Strand beim `Hacks On The Beach`
 
 
-<figure class="wp-block-image"><img loading="lazy" width="705" height="500" src="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/hotb-postkarte-web@3x-705x500.png" alt="" class="wp-image-1038" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/hotb-postkarte-web@3x-705x500.png 705w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/hotb-postkarte-web@3x-705x500-300x213.png 300w" sizes="(max-width: 705px) 100vw, 705px" /></figure>
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="705" height="500" src="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/hotb-postkarte-web@3x-705x500.png" alt="" class="wp-image-1038" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/hotb-postkarte-web@3x-705x500.png 705w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/hotb-postkarte-web@3x-705x500-300x213.png 300w" sizes="(max-width: 705px) 100vw, 705px" /></figure>
 
 
 <h3>Chaostreff Flensburg veranstaltete Deutschlands nördlichsten Hackathon im Strandpavillion Solitüde.</h3>

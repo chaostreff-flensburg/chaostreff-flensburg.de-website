@@ -1,6 +1,6 @@
 ---
 excerpt: '<p>Wir richten uns im neuen SPACE zwar immer noch ein wenig ein, aber das hält uns nicht davon ab schon unsere ersten Events zu veranstalten. Letzten Samstag war es also <a href="https://chaostreff-flensburg.de/2016/pixelschubser-unser-erster-workshop-im-neuen-space/" class="more-link">[&hellip;]</a></p>'
-date: "Mon May 23 2016"
+date: "2016-05-23T18:19:18.000Z"
 ---
 # Pixelschubser: Unser erster Workshop im neuen SPACE
 

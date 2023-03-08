@@ -1,0 +1,20 @@
+---
+layout: Blog.tsx
+---
+
+# Blog
+----
+
+<div>
+  {
+    search.pages("", "date=desc", 6).map((page) => (
+      <div class="card my-4">
+        <div class="card-header">
+          <a href={ page.data.url }><b>{ page.src.slug }</b></a> { new Date(page.data.date).toDateString() }</div>
+        <div class="card-body">
+          { JSON.stringify(Object.keys(page.data)) }
+        </div>
+      </div>
+    ))
+  }
+</div>

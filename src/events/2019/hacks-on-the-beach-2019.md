@@ -1,5 +1,5 @@
 ---
-date: "06.10.2019"
+date: "2019-10-06"
 ---
 
 # Hacks on the Beach 2019

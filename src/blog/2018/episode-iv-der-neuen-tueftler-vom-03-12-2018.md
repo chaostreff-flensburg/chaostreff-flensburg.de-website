@@ -1,11 +1,11 @@
 ---
 excerpt: '<p>Am 05.11.2018 gab es die Episode III von unserem Jugendtreff – neue Tüftler.Da wir in kleiner Runde waren, haben wir uns nicht mit dem Calliope Mini und Robotik beschäftigt, sondern mit Löten <a href="https://chaostreff-flensburg.de/2018/episode-iv-der-neuen-tueftler-vom-03-12-2018/" class="more-link">[&hellip;]</a></p>'
-date: "Mon Dec 10 2018"
+date: "2018-12-10T17:01:25.000Z"
 ---
 # Episode IV der Neuen Tüftler vom 03.12.2018
 
 
-<figure class="wp-block-image"><img loading="lazy" width="768" height="1024" src="http://chaostreff-flensburg.de/wp-content/uploads/2018/12/neue-tueftler-loeten-e1544049541403-768x1024.jpg" alt="" class="wp-image-818" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2018/12/neue-tueftler-loeten-e1544049541403-768x1024.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2018/12/neue-tueftler-loeten-e1544049541403-225x300.jpg 225w, https://chaostreff-flensburg.de/wp-content/uploads/2018/12/neue-tueftler-loeten-e1544049541403-375x500.jpg 375w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="768" height="1024" src="http://chaostreff-flensburg.de/wp-content/uploads/2018/12/neue-tueftler-loeten-e1544049541403-768x1024.jpg" alt="" class="wp-image-818" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2018/12/neue-tueftler-loeten-e1544049541403-768x1024.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2018/12/neue-tueftler-loeten-e1544049541403-225x300.jpg 225w, https://chaostreff-flensburg.de/wp-content/uploads/2018/12/neue-tueftler-loeten-e1544049541403-375x500.jpg 375w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
 
 
 

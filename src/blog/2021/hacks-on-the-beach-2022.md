@@ -1,11 +1,11 @@
 ---
 excerpt: '<p>Save the Date: 09.09. &#8211; 11.09.2022 Nach der Corona bedingten Pause von 2020/2021 laden wir 2022 Jahr wieder zum Hacks on the Beach ein. Die Location ist gebucht, die Planungen <a href="https://chaostreff-flensburg.de/2021/hacks-on-the-beach-2022/" class="more-link">[&hellip;]</a></p>'
-date: "Tue Aug 24 2021"
+date: "2021-08-24T15:40:02.000Z"
 ---
 # Hacks on the Beach 2022
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="726" src="http://chaostreff-flensburg.de/wp-content/uploads/2021/06/hotb-postkarte-ohne-jahr.jpeg" alt="" class="wp-image-1529" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2021/06/hotb-postkarte-ohne-jahr.jpeg 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2021/06/hotb-postkarte-ohne-jahr-300x213.jpeg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2021/06/hotb-postkarte-ohne-jahr-768x545.jpeg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2021/06/hotb-postkarte-ohne-jahr-705x500.jpeg 705w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="726" src="http://chaostreff-flensburg.de/wp-content/uploads/2021/06/hotb-postkarte-ohne-jahr.jpeg" alt="" class="wp-image-1529" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2021/06/hotb-postkarte-ohne-jahr.jpeg 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2021/06/hotb-postkarte-ohne-jahr-300x213.jpeg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2021/06/hotb-postkarte-ohne-jahr-768x545.jpeg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2021/06/hotb-postkarte-ohne-jahr-705x500.jpeg 705w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

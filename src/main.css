@@ -1,5 +1,6 @@
-$border-radius: 0.1rem;
-@import "bootstrap/scss/bootstrap.scss";
+:root {
+  --bs-border-radius: 0.1rem !important;
+}
 
 .btn-shadow {
   padding: .2rem .5rem;
@@ -7,13 +8,14 @@ $border-radius: 0.1rem;
   box-shadow: .4rem .3rem #333;
   box-sizing: border-box;
   transition: all 50ms;
-  &:hover, &:focus {
-    box-shadow: .5rem .4rem #333;
-  }
-  &:active {
-    box-shadow: .2rem .2rem #333;
-    transform: translate(.2rem, .1rem);
-  }
+}
+
+.btn-shadow:hover, .btn-shadow:focus {
+  box-shadow: .5rem .4rem #333;
+}
+.btn-shadow:active {
+  box-shadow: .2rem .2rem #333;
+  transform: translate(.2rem, .1rem);
 }
 
 .btn-outline-dark {
@@ -52,9 +54,7 @@ img {
   border-radius: .25rem;
 }
 
-figure.wp-block-image {
-  img {
-    max-width: 100%;
-    height: auto;
-  }
+figure.wp-block-image img {
+  max-width: 100%;
+  height: auto;
 }

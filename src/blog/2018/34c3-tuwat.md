@@ -1,6 +1,6 @@
 ---
 excerpt: '<p>Weihnachten ist vorüber, Silvester steht kurz bevor und die Gattung der gemeinen Wald- und Wiesennerds sammelt sich auf dem legendären Chaos Communication Congress, um sich über die neuesten Technik-Fortschritte zu <a href="https://chaostreff-flensburg.de/2018/34c3-tuwat/" class="more-link">[&hellip;]</a></p>'
-date: "Fri Mar 30 2018"
+date: "2018-03-30T17:02:31.000Z"
 ---
 # 34c3 &#8211; Tuwat
 

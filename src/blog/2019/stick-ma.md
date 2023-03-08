@@ -1,11 +1,11 @@
 ---
 excerpt: '<p>Stick Ma! Ist ein Workshop für 13 bis jährige 18 Jugendliche, in dem du die Möglichkeit hast dich mit digitalem Design, elektrischen Sticken und Gender Stereotype auseinanderzusetzen. Der Workshop richtet sich an alle, die Lust haben sich <a href="https://chaostreff-flensburg.de/2019/stick-ma/" class="more-link">[&hellip;]</a></p>'
-date: "Sat Dec 28 2019"
+date: "2019-12-28T20:37:00.000Z"
 ---
 # Stick-Ma!
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="793" height="464" src="https://chaostreff-flensburg.de/wp-content/uploads/2020/01/stick-ma-image-1.png" alt="" class="wp-image-1444" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2020/01/stick-ma-image-1.png 793w, https://chaostreff-flensburg.de/wp-content/uploads/2020/01/stick-ma-image-1-300x176.png 300w, https://chaostreff-flensburg.de/wp-content/uploads/2020/01/stick-ma-image-1-768x449.png 768w" sizes="(max-width: 793px) 100vw, 793px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="793" height="464" src="https://chaostreff-flensburg.de/wp-content/uploads/2020/01/stick-ma-image-1.png" alt="" class="wp-image-1444" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2020/01/stick-ma-image-1.png 793w, https://chaostreff-flensburg.de/wp-content/uploads/2020/01/stick-ma-image-1-300x176.png 300w, https://chaostreff-flensburg.de/wp-content/uploads/2020/01/stick-ma-image-1-768x449.png 768w" sizes="(max-width: 793px) 100vw, 793px" /></figure>
 
 
 

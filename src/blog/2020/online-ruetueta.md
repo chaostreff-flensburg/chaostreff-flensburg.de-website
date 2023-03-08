@@ -1,6 +1,6 @@
 ---
 excerpt: '<p>Da nun feststeht, dass es keine 3. 23.Rütüta geben wird, haben wir ein Alternativprogramm auf die Beine gestellt – natürlich online. Dazu streamen wir kleine Vorträge und Workshops am Samstag <a href="https://chaostreff-flensburg.de/2020/online-ruetueta/" class="more-link">[&hellip;]</a></p>'
-date: "Tue May 05 2020"
+date: "2020-05-05T19:08:27.000Z"
 ---
 # Online-Rütüta
 

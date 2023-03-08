@@ -1,6 +1,6 @@
 ---
 excerpt: '<p>Es ist Samstag der 23. Juli. für das sonst so kühle Flensburg ist es viel zu warm, aber wir vom Chaostreff wollten uns mit unseren Aktivitäten als Verein trotzdem auf <a href="https://chaostreff-flensburg.de/2016/der-chaostreff-stellt-sich-vor/" class="more-link">[&hellip;]</a></p>'
-date: "Wed Jul 27 2016"
+date: "2016-07-27T18:26:13.000Z"
 ---
 # Der Chaostreff stellt sich vor
 

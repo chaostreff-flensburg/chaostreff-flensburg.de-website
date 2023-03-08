@@ -1,6 +1,6 @@
 ---
 excerpt: '<p>Am 24.09.2018 gab es die Episode II von unserem Jugendtreff&nbsp;&#8211;&nbsp;neue Tüftler. Neben Variablen und einem Cookie Klicker haben wir auch weiter an unseren Gesteuerten&nbsp;Calliope&nbsp;Mini Robotern gearbeitet. Auch haben wir&nbsp;Zuwachs&nbsp;erfahren und <a href="https://chaostreff-flensburg.de/2018/episode-ii-des-jugendtreffs-neue-tueftler/" class="more-link">[&hellip;]</a></p>'
-date: "Mon Sep 24 2018"
+date: "2018-09-24T17:28:41.000Z"
 imgUrl: /media/blog/Bildschirmfoto-von-2019-01-22-21-42-00.png
 ---
 # Episode II des Jugendtreffs neue Tüftler

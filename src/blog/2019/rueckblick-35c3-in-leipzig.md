@@ -1,12 +1,12 @@
 ---
 excerpt: '<p>Auch dieses Jahr waren wir wieder als Chaostreff Flensburg in Leipzig beim jährlichen Chaos Comunication Congress. Der Congress ist mal wieder gewachsen und füllt mittlerweile fast 3/4 der Leipziger Messe. <a href="https://chaostreff-flensburg.de/2019/rueckblick-35c3-in-leipzig/" class="more-link">[&hellip;]</a></p>'
-date: "Thu Jan 03 2019"
+date: "2019-01-03T12:49:01.000Z"
 imgUrl: /media/blog/IMG_0771.jpeg
 ---
 # Rückblick #35C3 in Leipzig
 
 
-<figure class="wp-block-image"><img loading="lazy" width="1024" height="768" src="/media/blog/uploads/IMG_0771-1024x768.jpeg" alt="" class="wp-image-1001" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/IMG_0771-1024x768.jpeg 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/IMG_0771-300x225.jpeg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/IMG_0771-768x576.jpeg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/IMG_0771-175x131.jpeg 175w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/IMG_0771-667x500.jpeg 667w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/IMG_0771.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="768" src="/media/blog/uploads/IMG_0771-1024x768.jpeg" alt="" class="wp-image-1001" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/IMG_0771-1024x768.jpeg 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/IMG_0771-300x225.jpeg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/IMG_0771-768x576.jpeg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/IMG_0771-175x131.jpeg 175w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/IMG_0771-667x500.jpeg 667w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/IMG_0771.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -22,7 +22,7 @@ imgUrl: /media/blog/IMG_0771.jpeg
 
 
 
-<figure class="wp-block-image"><img loading="lazy" width="1024" height="708" src="/media/blog/uploads/Bildschirmfoto-von-2019-02-18-13-24-15-1024x708.png" alt="" class="wp-image-950" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-24-15-1024x708.png 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-24-15-300x208.png 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-24-15-768x531.png 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-24-15-723x500.png 723w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-24-15.png 1716w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://media.ccc.de/v/35c3-9868-kickstart_the_chaos_hackerspace_grunden_fur_anfanger">https://media.ccc.de/v/35c3-9868-kickstart_the_chaos_hackerspace_grunden_fur_anfanger</a></figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="708" src="/media/blog/uploads/Bildschirmfoto-von-2019-02-18-13-24-15-1024x708.png" alt="" class="wp-image-950" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-24-15-1024x708.png 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-24-15-300x208.png 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-24-15-768x531.png 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-24-15-723x500.png 723w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-24-15.png 1716w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://media.ccc.de/v/35c3-9868-kickstart_the_chaos_hackerspace_grunden_fur_anfanger">https://media.ccc.de/v/35c3-9868-kickstart_the_chaos_hackerspace_grunden_fur_anfanger</a></figcaption></figure>
 
 
 
@@ -34,7 +34,7 @@ imgUrl: /media/blog/IMG_0771.jpeg
 
 
 
-<figure class="wp-block-image"><img loading="lazy" width="1024" height="684" src="/media/blog/uploads/Bildschirmfoto-von-2019-02-18-13-25-15-1024x684.png" alt="" class="wp-image-953" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-25-15-1024x684.png 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-25-15-300x200.png 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-25-15-768x513.png 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-25-15-749x500.png 749w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-25-15.png 1739w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="684" src="/media/blog/uploads/Bildschirmfoto-von-2019-02-18-13-25-15-1024x684.png" alt="" class="wp-image-953" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-25-15-1024x684.png 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-25-15-300x200.png 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-25-15-768x513.png 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-25-15-749x500.png 749w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/Bildschirmfoto-von-2019-02-18-13-25-15.png 1739w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

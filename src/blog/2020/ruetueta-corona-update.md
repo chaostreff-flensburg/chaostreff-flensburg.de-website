@@ -1,6 +1,6 @@
 ---
 excerpt: '<p>Moin, aus aktuellem Anlass hier einige Informationen zum Thema Covid-19 aka Corona: Wir beobachten die derzeitige Lage sehr genau und wollen weder dich, noch dein Umfeld einem Risiko aussetzen. Nein, <a href="https://chaostreff-flensburg.de/2020/ruetueta-corona-update/" class="more-link">[&hellip;]</a></p>'
-date: "Sun Mar 15 2020"
+date: "2020-03-15T20:58:37.000Z"
 ---
 # Rütüta: Corona-Update
 

@@ -1,5 +1,5 @@
 ---
-date: "09.09.2018"
+date: "2018-09-09"
 ---
 
 # Hacks on the Beach 2018

@@ -1,12 +1,12 @@
 ---
 excerpt: '<p>Ferienzeit ist Workshop! Deswegen haben wir in den Osterferien einen ein Löten für Anfänger:innen Workshop für Jugendliche Angebote. Nach drei Stunden Workshop haben wir Kabel und diverse Platinen gelötet. Unter anderem hat jede*r <a href="https://chaostreff-flensburg.de/2019/ferien-workshop-loeten-fuer-anfaengerinnen/" class="more-link">[&hellip;]</a></p>'
-date: "Sat Apr 13 2019"
+date: "2019-04-13T15:47:53.000Z"
 imgUrl: /media/blog/46693532425_384d0493b1_k-1.jpg
 ---
 # Ferien Workshop: Löten für Anfänger:innen
 
 
-<figure class="wp-block-image"><img loading="lazy" width="1024" height="683" src="/media/blog/uploads/46693532425_384d0493b1_k-1-1024x683.jpg" alt="" class="wp-image-1079" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693532425_384d0493b1_k-1-1024x683.jpg 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693532425_384d0493b1_k-1-300x200.jpg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693532425_384d0493b1_k-1-768x512.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693532425_384d0493b1_k-1-750x500.jpg 750w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693532425_384d0493b1_k-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="683" src="/media/blog/uploads/46693532425_384d0493b1_k-1-1024x683.jpg" alt="" class="wp-image-1079" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693532425_384d0493b1_k-1-1024x683.jpg 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693532425_384d0493b1_k-1-300x200.jpg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693532425_384d0493b1_k-1-768x512.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693532425_384d0493b1_k-1-750x500.jpg 750w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693532425_384d0493b1_k-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

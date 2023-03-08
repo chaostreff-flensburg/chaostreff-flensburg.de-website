@@ -1,5 +1,5 @@
 ---
-date: "09.09.2022"
+date: "2022-09-09"
 ---
 
 # Hacks on the Beach 2022

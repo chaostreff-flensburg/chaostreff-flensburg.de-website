@@ -1,6 +1,6 @@
 ---
 excerpt: '<p>Am Wochenende bot sich den Mitglieder im Chaostreff-Flensburg e.V. die Möglichkeit VR (Virtuelle Realität) ,zu erleben, auszuprobieren und zu diskutieren. Wir haben den Space etwas umgebaut, Tische und Stühle bei <a href="https://chaostreff-flensburg.de/2019/virtuelle-realitaet-ein-workshop-zum-mitmachen-und-staunen/" class="more-link">[&hellip;]</a></p>'
-date: "Sun Mar 31 2019"
+date: "2019-03-31T16:11:50.000Z"
 ---
 # Virtuelle Realität ein Workshop zum mitmachen und staunen
 
@@ -63,5 +63,5 @@ Pause.
 
 
 
-<figure class="wp-block-image"><img loading="lazy" width="1024" height="768" src="https://chaostreff-flensburg.de/wp-content/uploads/2019/03/19-03-31-17-51-47-1786-1024x768.jpg" alt="" class="wp-image-927" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/03/19-03-31-17-51-47-1786-1024x768.jpg 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/19-03-31-17-51-47-1786-300x225.jpg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/19-03-31-17-51-47-1786-768x576.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/19-03-31-17-51-47-1786-175x131.jpg 175w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/19-03-31-17-51-47-1786-667x500.jpg 667w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="768" src="https://chaostreff-flensburg.de/wp-content/uploads/2019/03/19-03-31-17-51-47-1786-1024x768.jpg" alt="" class="wp-image-927" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/03/19-03-31-17-51-47-1786-1024x768.jpg 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/19-03-31-17-51-47-1786-300x225.jpg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/19-03-31-17-51-47-1786-768x576.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/19-03-31-17-51-47-1786-175x131.jpg 175w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/19-03-31-17-51-47-1786-667x500.jpg 667w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 

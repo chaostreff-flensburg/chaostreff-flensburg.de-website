@@ -1,6 +1,6 @@
 ---
 excerpt: '<p>&nbsp; Die Theaterwerkstatt Pilkentafel mag eine alt-eingesessene Kulturinstitution in Flensburg seien, doch bestimmt keine altertümliche. Das junge Theater feierte am Abend des 17.09.2016 seinen 18 Geburtstag und auch den großen <a href="https://chaostreff-flensburg.de/2016/lichtgraffiti-zum-geburtstag-der-pilkentafel/" class="more-link">[&hellip;]</a></p>'
-date: "Tue Sep 20 2016"
+date: "2016-09-20T14:40:28.000Z"
 imgUrl: /media/blog/IMG_20160917_225618-1024x735.jpg
 ---
 # Lichtgraffiti zum Geburtstag der Pilkentafel
