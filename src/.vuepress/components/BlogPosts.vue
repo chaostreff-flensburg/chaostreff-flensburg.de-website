@@ -7,7 +7,7 @@
         .slice(0, limit)
       "
       :key="page.regularPath"
-      class="card my-2"
+      class="card my-4"
     >
       <div class="card-header">
         <router-link :to="page.regularPath">{{ page.title }}</router-link>
@@ -26,7 +26,7 @@
         .length > limit
       "
       @click="limit += 4"
-      class="btn btn-primary"
+      class="btn btn-primary btn-shadow"
     >
       mehr Posts anzeigen
     </div>

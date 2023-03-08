@@ -7,7 +7,7 @@
         .slice(0, limit)"
       :key="page.regularPath"
     >
-      <router-link class="btn" :to="page.regularPath" v-html="page.title" />
+      <router-link class="btn btn-outline-dark btn-shadow my-2" :to="page.regularPath" v-html="page.title" />
     </li>
   </ul>
 </template>

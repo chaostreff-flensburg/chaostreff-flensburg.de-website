@@ -1,23 +1,28 @@
 $border-radius: 0.1rem;
 @import "bootstrap/scss/bootstrap.scss";
 
-.btn {
-  border: 2px solid;
-  margin: .5rem;
+.btn-shadow {
   padding: .2rem .5rem;
   width: fit-content;
   box-shadow: .4rem .3rem #333;
   box-sizing: border-box;
   transition: all 50ms;
   &:hover, &:focus {
-    border: 2px solid !important;
     box-shadow: .5rem .4rem #333;
   }
   &:active {
-    border: 2px solid !important;
     box-shadow: .2rem .2rem #333;
     transform: translate(.2rem, .1rem);
   }
+}
+
+.btn-outline-dark {
+  border: 2px solid #333;
+}
+
+.btn-outline-dark.btn-shadow {
+  background-color: unset !important;
+  color: #333 !important;
 }
 
 .card {

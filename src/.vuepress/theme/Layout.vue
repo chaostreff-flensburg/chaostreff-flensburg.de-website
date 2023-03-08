@@ -9,23 +9,16 @@
     <main class="content">
       <div class="container">
         <div class="row my-4 mx-2">
-          <div class="card col-xl-8 p-4 bg-white">
+          <div v-if="$page.frontmatter.card == false" class="col-xl-8">
+            <Content />
+          </div>
+          <div v-else class="card col-xl-8 p-4">
             <Content />
           </div>
           <div class="col-xl-4 p-4">
             <SideBar class="sticky-sidebar" />
           </div>
         </div>
-        <!-- <div class="card">
-          <div class="card-body">
-            <div class="row">
-              <Content class="col-xl-8 p-4"/>
-              <div class="col-xl-4 p-4">
-                <SideBar class="sticky-sidebar" />
-              </div>
-            </div>
-          </div>
-        </div> -->
       </div>
     </main>
 

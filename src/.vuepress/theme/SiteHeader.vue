@@ -10,7 +10,7 @@
     <div class="row align-items-center">
       <div v-for="nav of $site.themeConfig.nav" class="col-auto d-none d-xl-block">
         <div v-if="nav.children || nav.path" class="category dropdown">
-          <router-link :to="nav.link" class="link btn">{{ nav.text }} <i class="bi-chevron-down" /></router-link>
+          <router-link :to="nav.link" class="link btn btn-outline-dark btn-shadow">{{ nav.text }} <i class="bi-chevron-down" /></router-link>
           <div class="dropdown-menu">
             <router-link
               v-for="site of (nav.children ?? [])
@@ -30,7 +30,7 @@
           </div>
         </div>
         <div v-else class="site">
-          <router-link :to= "nav.link" class="link btn">{{ nav.text }}</router-link>
+          <router-link :to= "nav.link" class="link btn btn-outline-dark btn-shadow">{{ nav.text }}</router-link>
         </div>
       </div>
       <SearchBox class="col-auto" />
