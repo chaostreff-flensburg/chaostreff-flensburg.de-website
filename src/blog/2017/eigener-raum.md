@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Eigener Raum'
 excerpt: '<p>Unsere steigende Mitgliederzahl hat uns die Möglichkeit gegeben, uns einen eigenen Raum für den Verein zu suchen. Den haben wir jetzt gefunden, und er steht uns komplett frei zur Verfügung, <a href="https://chaostreff-flensburg.de/2017/eigener-raum/" class="more-link">[&hellip;]</a></p>'
 date: "2017-05-16T21:50:12.000Z"
 imgUrl: /media/blog/img_20170515_200358-1.jpg

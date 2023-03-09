@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Fördefunk für Flüchtlinge'
 excerpt: '<p>In Deutschland besteht ein Grundrecht auf Internet – auch für Flüchtlinge. Wir freuen uns, dass wir als Chaostreff Flensburg e.V. diesen wichtigen Teil des täglichen Lebens für die Bewohner in <a href="https://chaostreff-flensburg.de/2015/foerdefunk-fuer-fluechtlinge/" class="more-link">[&hellip;]</a></p>'
 date: "2015-09-30T18:23:39.000Z"
 ---

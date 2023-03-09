@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Online Workshop Spiele Programmieren mit GB Studies #fitB'
 excerpt: '<p>Du bist technik- und/oder spielebegeistert und willst dich mit Gleichgesinnten austauschen? Du willst verstehen wie Computerspiele funktionieren? Du willst mal reinschnuppern und erste Schritte von Game Design und der Programmierung <a href="https://chaostreff-flensburg.de/2021/online-workshop-spiele-programmieren-mit-gb-studies-fitb/" class="more-link">[&hellip;]</a></p>'
 date: "2021-04-05T13:39:58.000Z"
 imgUrl: /media/blog/workshop-werbung.png

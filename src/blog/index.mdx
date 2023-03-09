@@ -1,5 +1,8 @@
 ---
 layout: Blog.tsx
+tags:
+  - header
+title: Blog
 ---
 
 # Blog
@@ -7,12 +10,16 @@ layout: Blog.tsx
 
 <div>
   {
-    search.pages("", "date=desc", 6).map((page) => (
+    search.pages("blog", "date=desc", 6).map((page) => (
       <div class="card my-4">
         <div class="card-header">
-          <a href={ page.data.url }><b>{ page.src.slug }</b></a> { new Date(page.data.date).toDateString() }</div>
+          <a href={ page.data.url }><b>{ page.data.title }</b></a> { new Date(page.data.date).toDateString() }</div>
         <div class="card-body">
           { JSON.stringify(Object.keys(page.data)) }
+          <img src={ page.data.imgUrl } />
+          <p>
+            { page.data.excerpt }
+          </p>
         </div>
       </div>
     ))

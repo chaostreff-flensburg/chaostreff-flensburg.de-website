@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Online Workshop 3D-Druck für Anfänger*innen'
 excerpt: '<p>Du bist technikbegeistert und willst dich mit Gleichgesinnten austauschen? Du wolltest schon immer mal wissen, wie so ein 3D-Drucker funktioniert, wie solche Modelle erstellt, programmiert und gedruckt werden?Dann ist dieser <a href="https://chaostreff-flensburg.de/2021/online-workshop-3d-druck-fuer-anfaengerinnen/" class="more-link">[&hellip;]</a></p>'
 date: "2021-08-26T13:32:43.000Z"
 ---

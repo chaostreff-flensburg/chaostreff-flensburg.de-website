@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: '09.09. &#8211; 11.09.22  #HacksOnTheBeach'
 excerpt: '<p>Websurfer aufgepasst, da kommen Wellen auf euch zu. Das Frickelfestival mit Gischt-Gefahr ist zurück und ihr könnt anheuern für die letzte Überfahrt im Strandpavillion Solitüde. Passagierscheine gibt’s auf WeekendHack.de #HotB22</p>'
 date: "2022-08-13T09:37:51.000Z"
 imgUrl: /media/blog/signal-2022-08-10-172339_001.jpeg

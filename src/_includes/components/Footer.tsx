@@ -1,5 +1,5 @@
-export default ({ title, children }) => (
+export default () => (
   <div>
-    <span class="copyright">Copyright © {(new Date).getFullYear()} {title}</span>
+    <span class="copyright">{(new Date).getFullYear()} Chaostreff Flensburg e.V.</span>
   </div>
 );

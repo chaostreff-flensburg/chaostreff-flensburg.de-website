@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Online Rütüta2.0'
 excerpt: '<p>Immer noch Pandemie &#8211; trotzdem Bock auf coole Leute. Deswegen wird es die vierten 23. Rüspeler Tüfteltage wieder als Online Livestream geben. Live und in Farbe aus Rüspel! Wir haben <a href="https://chaostreff-flensburg.de/2022/online-ruetueta2-0/" class="more-link">[&hellip;]</a></p>'
 date: "2022-03-25T18:40:27.000Z"
 imgUrl: /media/blog/Screenshot_20220325-184843.png

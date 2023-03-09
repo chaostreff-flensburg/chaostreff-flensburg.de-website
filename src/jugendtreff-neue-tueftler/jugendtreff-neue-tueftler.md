@@ -1,4 +1,5 @@
 ---
+layout: Default.tsx
 ---
 
 # Jugendtreff – Neue Tüftler:innen

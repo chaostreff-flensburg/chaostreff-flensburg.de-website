@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Resave this Date! Hacks on the Beach 2020/2021'
 excerpt: '<p>Lange hatten wir gehofft, dass sich die Windrichtung noch verändert und wir nicht, neben den RüTüTa auch noch die Hacks on the Beach 2020 in Flensburg absagen müssen. Jetzt ist <a href="https://chaostreff-flensburg.de/2020/resave-this-date-hacks-on-the-beach-2020-2021/" class="more-link">[&hellip;]</a></p>'
 date: "2020-08-11T16:57:34.000Z"
 ---

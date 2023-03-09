@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Chaostreff Flensburg auf dem 33C3'
 excerpt: '<p>Nach langem Warten war es am 27.12.16 endlich soweit: Das CCH öffnete seine Pforten zum 33. Chaos Communication Congress! Unter den 15.000 Häcker und Häcksen, welche die heiligen Hallen fluteten, <a href="https://chaostreff-flensburg.de/2017/chaostreff-flensburg-33c3/" class="more-link">[&hellip;]</a></p>'
 date: "2017-01-30T19:39:06.000Z"
 imgUrl: /media/blog/33c3-749x500.jpg

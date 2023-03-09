@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Calliope Minis im Chaostreff'
 excerpt: '<p>Seit Neustem haben auch wir im Chaostreff ein ganzen Satz Caliope Minis für Workshops und Elektronik Basteleien zur Verfügung.&nbsp;Vielen Dank an &nbsp;MAC IT[0], die dies durch eine Spende ermöglicht haben. <a href="https://chaostreff-flensburg.de/2018/calliope-minis-im-chaostreff/" class="more-link">[&hellip;]</a></p>'
 date: "2018-04-10T08:08:06.000Z"
 imgUrl: /media/blog/43866976531_f3b85d1d52_o.jpg

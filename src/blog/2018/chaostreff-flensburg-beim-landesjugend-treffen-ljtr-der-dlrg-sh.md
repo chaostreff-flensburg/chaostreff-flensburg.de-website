@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Chaostreff Flensburg beim Landesjugend Treffen (LJTr) der DLRG SH'
 excerpt: '<p>Technikbildung liegt uns beim Chaostreff Flensburg e.V. sehr am Herzen. Daher haben wir am 12. Mai das Landesjugendtreffen der DLRG SH in Neumünster besucht. Unser Ziel war es, den jungen <a href="https://chaostreff-flensburg.de/2018/chaostreff-flensburg-beim-landesjugend-treffen-ljtr-der-dlrg-sh/" class="more-link">[&hellip;]</a></p>'
 date: "2018-05-20T14:17:22.000Z"
 imgUrl: /media/blog/IMG_20180512_141109.jpg

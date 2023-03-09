@@ -1,4 +1,5 @@
 ---
+layout: Default.tsx
 ---
 
 # Spenden und Unterstützen

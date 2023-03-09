@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Episode V des Jugendtreffs neue Tüftler'
 excerpt: '<p>Auch am Anfang des Jahres haben wir uns wieder zum Tüfteln getroffen. Wir sind immer noch daran unsere Roboter zu verbessern. Dieses Mal haben wir uns Intensiv mit der Motoren Steuerung vom Calliope Mini auseinandergesetzt und <a href="https://chaostreff-flensburg.de/2019/episode-v-des-jugendtreffs-neue-tueftler/" class="more-link">[&hellip;]</a></p>'
 date: "2019-01-22T20:36:59.000Z"
 imgUrl: /media/blog/IMG_20190114_171353.jpg

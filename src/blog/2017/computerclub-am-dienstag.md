@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Computerclub am Dienstag'
 excerpt: '<p>Wir treffen uns jeden Dienstag Abend ab 19:00 Uhr und fachsimpeln und basteln. Gelegentlich kocht einer unserer Mitglieder was leckeres zu Essen oder wir bestellen bei einem Lieferdienst. Internet, 3D <a href="https://chaostreff-flensburg.de/2017/computerclub-am-dienstag/" class="more-link">[&hellip;]</a></p>'
 date: "2017-10-17T20:06:29.000Z"
 ---

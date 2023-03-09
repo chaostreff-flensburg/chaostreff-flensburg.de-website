@@ -11,8 +11,8 @@ export default () => (
     </ul>
     <b><strong>Rechtliches:</strong></b>
     <ul>
-      <li><a class="btn btn-outline-dark btn-shadow my-2" to="/datenschutz">Datenschutz</a></li>
-      <li><a class="btn btn-outline-dark btn-shadow my-2" to="/impressum">Impressum</a></li>
+      <li><a class="btn btn-outline-dark btn-shadow my-2" href="/datenschutz">Datenschutz</a></li>
+      <li><a class="btn btn-outline-dark btn-shadow my-2" href="/impressum">Impressum</a></li>
     </ul>
   </div>
 );

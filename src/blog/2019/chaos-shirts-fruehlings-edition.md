@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'CHAOS Shirts &#8211; Frühlings-Edition'
 excerpt: '<p>Der Sommer kommt immer näher! Aus diesem Grund haben wir uns im Chaostreff gedacht, dass dies die perfekte Zeit ist,​ um wieder an unserem Merch zu arbeiten. Dadurch ist das​ <a href="https://chaostreff-flensburg.de/2019/chaos-shirts-fruehlings-edition/" class="more-link">[&hellip;]</a></p>'
 date: "2019-04-23T14:04:40.000Z"
 imgUrl: /media/blog/20190421-145231-5R8A0010.jpg

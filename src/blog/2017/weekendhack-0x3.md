@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'weekendHack 0x3'
 excerpt: '<p>Vom 3.11 bis zum 5.11.2017 stand unser dritter weekendHack auf dem Plan. Wir haben nun also in nur einem Jahr drei Veranstaltungen geplant, umgesetzt und auch selber miterlebt und man <a href="https://chaostreff-flensburg.de/2017/weekendhack-0x3/" class="more-link">[&hellip;]</a></p>'
 date: "2017-11-20T20:23:35.000Z"
 imgUrl: /media/blog/23164157_128264777888428_4930704240575250432_n.jpg

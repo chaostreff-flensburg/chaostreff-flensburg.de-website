@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: '#FITB Aktionstag technologisch! 2021 &#8211; Wir sind dabei'
 excerpt: '<p>Am 18.09.2021 findet wieder der Aktionstag technologisch von FITB in der Eckener Schule Flensburg statt. Dieser richtet sich insbesondere an Mädchen ab der 7. Klasse und junge Frauen. Wir sind <a href="https://chaostreff-flensburg.de/2021/fitb-aktionstags-technologisch-2021-wir-sind-dabei/" class="more-link">[&hellip;]</a></p>'
 date: "2021-09-09T13:49:55.000Z"
 imgUrl: /media/blog/fitb-aktionstag-2021.png

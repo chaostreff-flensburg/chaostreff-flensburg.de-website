@@ -390,6 +390,7 @@
     "https://deno.land/x/lume@v1.15.3/deps/preact.ts": "42e0e06f3a1fdc0bafdfce9d9f561c009dfce04f4b7f169601e959ab2ec80c50",
     "https://deno.land/x/lume@v1.15.3/deps/react.ts": "6ce99e14ad6bd9ce09f69c90b5a5597e44be78eab7f334bcab31f4824b12536a",
     "https://deno.land/x/lume@v1.15.3/deps/remark.ts": "1d4c029051e40cc011cb684fed9e282b8d8a8a6d81a2e20ab998226381552788",
+    "https://deno.land/x/lume@v1.15.3/deps/sass.ts": "b76e67a72eecea86ef9baca25e0f0cab84cf396ab4ed017535456865ef4b6214",
     "https://deno.land/x/lume@v1.15.3/deps/tailwindcss.ts": "70591b5dbcae3e81cbdb0874fbabb160e735eafc9bfb18b7a965aa06d123f2f3",
     "https://deno.land/x/lume@v1.15.3/deps/yaml.ts": "4e7333ee5269353315aa0f19d1fe04d704438c7fcb860d36398708036ed1661d",
     "https://deno.land/x/lume@v1.15.3/middlewares/logger.ts": "69e69099a2e3a8c62d0bb62014381337f6e855c6b330e210e4a705fe8111e10a",
@@ -412,6 +413,7 @@
     "https://deno.land/x/lume@v1.15.3/plugins/pagefind.ts": "d63dc2d1104e2ce47afa0a0006f161fe4ea64ec4fef1dbc3009b8a237733f99c",
     "https://deno.land/x/lume@v1.15.3/plugins/paginate.ts": "0fefcbb290088bfa8770b84af3cd092a5fd9e8abd0adb426eb74be0927abc0da",
     "https://deno.land/x/lume@v1.15.3/plugins/postcss.ts": "5dc3a6e76293db27a7b98e4f63f1a38fb7c7ca6038628adee79c1b6698795215",
+    "https://deno.land/x/lume@v1.15.3/plugins/sass.ts": "fd21d0c646e3d804a1fc599e6f0dca37dcaa0363f236ea4b129261238013a63f",
     "https://deno.land/x/lume@v1.15.3/plugins/search.ts": "63b29bf31dfdb4cb9146b5e82c5d86190507842f5da0b85be9ed310c15752076",
     "https://deno.land/x/lume@v1.15.3/plugins/source_maps.ts": "3d3d97691937019949fa791dbd61002c42d918d07cc7cc37028c5018b9aa1bc4",
     "https://deno.land/x/lume@v1.15.3/plugins/tailwindcss.ts": "6542757ed1778cdc7a76a47d2f986d8fcedb1c00a9fb704e383ad263ccb20cbc",
@@ -445,6 +447,7 @@
   },
   "npm": {
     "specifiers": {
+      "@lumeland/sass@1.58.0": "@lumeland/sass@1.58.0",
       "@lumeland/tailwindcss@3.2.5": "@lumeland/tailwindcss@3.2.5_postcss@8.4.21",
       "@mdx-js/mdx@2.3.0": "@mdx-js/mdx@2.3.0",
       "autoprefixer@10.4.13": "autoprefixer@10.4.13_postcss@8.4.21",
@@ -490,6 +493,13 @@
         "dependencies": {
           "@lumeland/acorn-node": "@lumeland/acorn-node@1.8.3",
           "defined": "defined@1.0.1"
+        }
+      },
+      "@lumeland/sass@1.58.0": {
+        "integrity": "sha512-5zpXkRmvEnvoo061gVJL8GnXfdzi1u/+i7+rygK/xwT4SRKJVx7k8bSrYQD5nj7JvWg8/QQuZWvwhlIty4ddIg==",
+        "dependencies": {
+          "immutable": "immutable@4.2.4",
+          "source-map-js": "source-map-js@1.0.2"
         }
       },
       "@lumeland/tailwindcss@3.2.5_postcss@8.4.21": {
@@ -989,6 +999,10 @@
       },
       "html-void-elements@2.0.1": {
         "integrity": "sha512-0quDb7s97CfemeJAnW9wC0hw78MtW7NU3hqtCD75g2vFlDLt36llsYD7uB7SUzojLMP24N5IatXf7ylGXiGG9A==",
+        "dependencies": {}
+      },
+      "immutable@4.2.4": {
+        "integrity": "sha512-WDxL3Hheb1JkRN3sQkyujNlL/xRjAo3rJtaU5xeufUauG66JdMr32bLj4gF+vWl84DIA3Zxw7tiAjneYzRRw+w==",
         "dependencies": {}
       },
       "inline-style-parser@0.1.1": {

@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'FKK Sommershirts 2019'
 excerpt: '<p>Das FlensburgerKlamottenKollektiv präsentiert euch das Sommershirt 2019. Und wegen großer Nachfrage auch zurück: das NEON-CHAOS Shirt!</p>'
 date: "2019-07-09T22:00:18.000Z"
 imgUrl: /media/blog/20190709-200602-5R8A0799.jpg

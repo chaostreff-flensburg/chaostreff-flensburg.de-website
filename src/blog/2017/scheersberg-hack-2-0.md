@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Scheersberg Hack 2.0'
 excerpt: '<p>In Zusammenarbeit mit der internationalen Bildungsstätte, Jugendhof Scheersberg, haben wir auch 2017 wieder ein Scheersberg Hackt Wochenende veranstaltet. Jugendliche und junge Erwachsene hatten die Chance tief in die bunte Welt <a href="https://chaostreff-flensburg.de/2017/scheersberg-hack-2-0/" class="more-link">[&hellip;]</a></p>'
 date: "2017-11-14T18:33:37.000Z"
 imgUrl: /media/blog/5R8A7036.jpg

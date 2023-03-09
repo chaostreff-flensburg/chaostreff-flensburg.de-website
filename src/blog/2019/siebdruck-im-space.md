@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Siebdruck im Space'
 excerpt: '<p>Neben den vielen Elektronischen Werkzeugen haben wir auch einiges um Textilien zu bearbeiten. Dazu gehört unter anderem ein Plotter, diverse Siebe und eine Siebdruckpresse. Hier mal ein Kleiner Auszug aus <a href="https://chaostreff-flensburg.de/2019/siebdruck-im-space/" class="more-link">[&hellip;]</a></p>'
 date: "2019-04-08T08:56:48.000Z"
 ---

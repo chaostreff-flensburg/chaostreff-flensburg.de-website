@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Jugendtreff Neue Tüftler:innen &#8211; Rückblick Q1 &#8211; 2019'
 excerpt: '<p>Jugendtreff Neue Tüftler:innen Im Jugendtreff geht es auch im Jahr 2019 stetig weiter. Da wir mittlerweile die Calliope Mini und Roboter Grundlagen abgeschlossen haben, sind wir jetzt in einer Projektphase. Gemeinsam mit den <a href="https://chaostreff-flensburg.de/2019/jugendtreff-neue-tueftlerinnen-rueckblick-q1-2019/" class="more-link">[&hellip;]</a></p>'
 date: "2019-04-03T11:59:02.000Z"
 imgUrl: /media/blog/46693521005_bfe51571fe_k-1.jpg

@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Das neue Hackerbild im Film'
 excerpt: '<p>&#8222;Oh, ihr seid Hacker, muss ich mir dann Sorgen um meine Daten machen?!&#8220; Das ist eine Frage, die öfter mal aufkommt, wenn wir uns als Chaostreff vorstellen. Der CCC hat <a href="https://chaostreff-flensburg.de/2016/das-neue-hackerbild-im-film/" class="more-link">[&hellip;]</a></p>'
 date: "2016-06-20T18:11:27.000Z"
 imgUrl: /media/blog/VbugKK_Hacker.jpg

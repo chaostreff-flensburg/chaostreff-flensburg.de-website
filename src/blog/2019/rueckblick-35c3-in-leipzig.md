@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Rückblick #35C3 in Leipzig'
 excerpt: '<p>Auch dieses Jahr waren wir wieder als Chaostreff Flensburg in Leipzig beim jährlichen Chaos Comunication Congress. Der Congress ist mal wieder gewachsen und füllt mittlerweile fast 3/4 der Leipziger Messe. <a href="https://chaostreff-flensburg.de/2019/rueckblick-35c3-in-leipzig/" class="more-link">[&hellip;]</a></p>'
 date: "2019-01-03T12:49:01.000Z"
 imgUrl: /media/blog/IMG_0771.jpeg

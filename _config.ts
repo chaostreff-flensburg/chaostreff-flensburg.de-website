@@ -6,6 +6,7 @@ import minify_html from "lume/plugins/minify_html.ts";
 import pagefind from "lume/plugins/pagefind.ts";
 import postcss from "lume/plugins/postcss.ts";
 import tailwindcss from "lume/plugins/tailwindcss.ts";
+import sass from "lume/plugins/sass.ts";
 
 const site = lume({
   src: "./src",
@@ -16,6 +17,7 @@ site.use(jsx_preact());
 site.use(mdx());
 site.use(minify_html());
 site.use(pagefind());
+site.use(sass());
 site.use(tailwindcss());
 site.use(postcss());
 

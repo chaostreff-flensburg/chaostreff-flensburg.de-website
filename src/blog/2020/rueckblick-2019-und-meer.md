@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Rückblick &#8211; 2019 und Meer'
 excerpt: '<p>Traditionell gibt es immer einen internen Rückblick und eine Feedbackrunde bei unserer jährlichen Mitgliederversammlung. Dort wird dann nicht nur der Vorstand gewählt, sondern auch über das vergangene Jahr geschnackt und <a href="https://chaostreff-flensburg.de/2020/rueckblick-2019-und-meer/" class="more-link">[&hellip;]</a></p>'
 date: "2020-09-07T11:50:08.000Z"
 ---

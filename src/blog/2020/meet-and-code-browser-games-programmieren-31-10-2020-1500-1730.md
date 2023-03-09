@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Meet and Code: Browser Games Programmieren 31.10.2020 15:00 &#8211; 17:30'
 excerpt: '<p>In diesem Workshop lernst du ein simples Browsergame selber zu programmieren. Dabei brauchst du keine weiteren Grundlagen, außer dass du weißt wie du einen Computer/Laptop zuhause bedienst.Zusammen werden wir ein <a href="https://chaostreff-flensburg.de/2020/meet-and-code-browser-games-programmieren-31-10-2020-1500-1730/" class="more-link">[&hellip;]</a></p>'
 date: "2020-10-23T13:06:29.000Z"
 ---

@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Neue Tüftler:innen Wochenende 2019.01'
 excerpt: '<p>Am 22. und 23.06 findet das erste Neue Tüflter:innen Wochenende in Flensburg statt. An diesem Wochenende habt ihr die Möglichkeit im Chaostreff Flensburg neue Techniken kennenzulernen und an euren eigenen <a href="https://chaostreff-flensburg.de/2019/22-23-06-neue-tueftlerinnen-wochenende/" class="more-link">[&hellip;]</a></p>'
 date: "2019-04-18T15:07:10.000Z"
 imgUrl: /media/blog/42486640422_a98593f0aa_k-1.jpg

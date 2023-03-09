@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Sommer Ferienpass Workshops'
 excerpt: '<p>In den Sommerferien bieten wir 4 Workshops im Rahmen des Ferienpass Flensburg an. Spiele Programmieren mit GB Studies Du bist technik- und/oder spielebegeistert und willst dich mit Gleichgesinnten austauschen? Du <a href="https://chaostreff-flensburg.de/2022/sommer-ferienpass-workshops/" class="more-link">[&hellip;]</a></p>'
 date: "2022-04-07T18:12:30.000Z"
 ---

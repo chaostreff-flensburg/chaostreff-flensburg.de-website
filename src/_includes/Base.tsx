@@ -19,7 +19,7 @@ export default ({ title, children, ...props }) => (
       <section class="layout">
         <header>
           <div class="bg-light shadow">
-            <Header title={title} />
+            <Header title={title} {...props} />
           </div>
         </header>
 

@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Mitgliederversammlung 2021'
 excerpt: '<p>Trotz Corona haben wir es geschafft, unseren jährlichen Rhythmus unserer Mitgliederversammlung aufrecht zu erhalten. Mit einer kleineren Besonderheit. Wir haben uns maximal Corona konform im Stadion Flensburg getroffen. Inhaltlich ging <a href="https://chaostreff-flensburg.de/2021/mitgliederversammlung-2021/" class="more-link">[&hellip;]</a></p>'
 date: "2021-09-11T18:18:00.000Z"
 imgUrl: /media/blog/mv-2021-7-scaled.jpg

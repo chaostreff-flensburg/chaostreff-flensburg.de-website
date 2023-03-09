@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Cyber, Sand und Strand beim `Hacks On The Beach`'
 excerpt: '<p>Chaostreff Flensburg veranstaltete Deutschlands nördlichsten Hackathon im Strandpavillion Solitüde. Wenn sich rund 60 Technikbegeisterte, Computerfreaks und Bastler für ein Wochenende treffen, hat man schon ein bestimmtes Bild vor Augen: Nerds <a href="https://chaostreff-flensburg.de/2018/cyber-sand-und-strand-beim-hacks-on-the-beach/" class="more-link">[&hellip;]</a></p>'
 date: "2018-10-12T07:08:57.000Z"
 ---

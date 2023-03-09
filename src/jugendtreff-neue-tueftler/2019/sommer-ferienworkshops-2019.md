@@ -1,4 +1,5 @@
 ---
+layout: Default.tsx
 ---
 
 # Sommer Ferien Workshops 2019

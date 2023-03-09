@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Barcamp Flensbrg IV &#8211; 2019'
 excerpt: '<p>Auch dieses Jahr waren wir wieder mit unserem eigenem Raum und vielen Sessions beim Barcamp in Flensburg vertreten. Neben Passwortsicherheit, Backups und WordPress Absicherung gab es auch eine Session zu WikiData von uns. ⁦@PhilippBohk⁩ hat auf <a href="https://chaostreff-flensburg.de/2019/barcamp-flensbrg-iv-2019/" class="more-link">[&hellip;]</a></p>'
 date: "2019-05-09T14:12:48.000Z"
 imgUrl: /media/blog/IMG_1025.jpg

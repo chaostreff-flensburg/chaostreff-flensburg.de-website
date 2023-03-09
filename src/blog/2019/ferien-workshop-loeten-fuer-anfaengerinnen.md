@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Ferien Workshop: Löten für Anfänger:innen'
 excerpt: '<p>Ferienzeit ist Workshop! Deswegen haben wir in den Osterferien einen ein Löten für Anfänger:innen Workshop für Jugendliche Angebote. Nach drei Stunden Workshop haben wir Kabel und diverse Platinen gelötet. Unter anderem hat jede*r <a href="https://chaostreff-flensburg.de/2019/ferien-workshop-loeten-fuer-anfaengerinnen/" class="more-link">[&hellip;]</a></p>'
 date: "2019-04-13T15:47:53.000Z"
 imgUrl: /media/blog/46693532425_384d0493b1_k-1.jpg

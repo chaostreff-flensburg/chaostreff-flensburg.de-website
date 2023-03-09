@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: '#FitB Aktionstag technoLogisch! 2019 &#8211; 15.06.19'
 excerpt: '<p>&#8222;Bei unserem&nbsp;Aktionstag technoLogisch! 2019,&nbsp;der sich hauptsächlich an Mädchen und Frauen richtet, erwarten dich Handwerk und Spaß! Sei kreativ, lerne Neues und entwickle dich gemeinsam mit anderen weiter.&#8220; Unter diesem Motto <a href="https://chaostreff-flensburg.de/2019/fitb-aktionstag-technologisch-2019-15-06-19/" class="more-link">[&hellip;]</a></p>'
 date: "2019-05-27T11:28:36.000Z"
 imgUrl: /media/blog/csm_Postkarte_Aktionstag_Seite_1_7930f6ca67.png

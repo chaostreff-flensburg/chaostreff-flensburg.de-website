@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Episode 1 des Jugendtreffs neue Tüftler'
 excerpt: '<p>Am 03.09.2018 gab es die erste Ausgabe von unserem Jugendtreff &#8211; Neue Tüftler. Während der eine Teil noch die Grundlagen der Calliope Mini Programmierung gelernt hat, hat ein zweites Team <a href="https://chaostreff-flensburg.de/2018/episode-1-des-jugendtreffs-neue-tueftler/" class="more-link">[&hellip;]</a></p>'
 date: "2018-09-09T17:36:18.000Z"
 imgUrl: /media/blog/Bildschirmfoto-von-2019-01-22-21-44-08.png

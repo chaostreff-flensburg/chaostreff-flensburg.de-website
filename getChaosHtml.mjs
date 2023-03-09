@@ -9,8 +9,8 @@ const matchSrc = /src="(?<src>[-_+=:\.\\\/\w]+\/(?<filename>[-_\w]+)(?<filetype>
   const posts = await(await fetch('https://chaostreff-flensburg.de/wp-json/wp/v2/posts?per_page=100')
     .then(data => data.json()));
 
-  await mkdir(`./src/.vuepress/public/media/blog/`, { recursive: true });
-  await mkdir(`./src/.vuepress/public/media/blog/uploads/`, { recursive: true });
+  await mkdir(`./src/blog/`, { recursive: true });
+  await mkdir(`./src/media/blog/uploads/`, { recursive: true });
 
   //console.log(posts);
   await writeFileSync('./download.json', JSON.stringify(posts));
@@ -26,7 +26,7 @@ const matchSrc = /src="(?<src>[-_+=:\.\\\/\w]+\/(?<filename>[-_\w]+)(?<filetype>
 
     const img = imgUrl?.match(matchPath)?.groups;
     if (!imgUrl || !img?.filename || !img?.filetype) return { ...post, _links };
-    const path = `./src/.vuepress/public/media/blog/${img?.filename}${img?.filetype}`;
+    const path = `./src/media/blog/${img?.filename}${img?.filetype}`;
     const buffer = await fetch(imgUrl).then(data => data.arrayBuffer());
     await writeFile(path, Buffer.from(buffer));
 
@@ -36,7 +36,7 @@ const matchSrc = /src="(?<src>[-_+=:\.\\\/\w]+\/(?<filename>[-_\w]+)(?<filetype>
       if (!match?.src || !match?.filename || !match?.filetype) return '';
       try{
         const buffer = await fetch(match.src).then(data => data.arrayBuffer());
-        const path = `./src/.vuepress/public/media/blog/uploads/${ match.filename }${ match.filetype }`;
+        const path = `./src/media/blog/uploads/${ match.filename }${ match.filetype }`;
         await writeFile(path, Buffer.from(buffer));
         console.log(`replaced media ${ path }`);
         return path;
@@ -64,6 +64,10 @@ const matchSrc = /src="(?<src>[-_+=:\.\\\/\w]+\/(?<filename>[-_\w]+)(?<filetype>
     filename: `${ slug }.md`,
     content:
 `---
+layout: Default.tsx
+tags:
+  - blog
+title: '${ title.rendered }'
 excerpt: '${ excerpt.rendered.replaceAll('\n', '').replaceAll("'", "\\'").trim() }'
 date: "${ (new Date(date)).toISOString() }"${ imgUrl ? `\nimgUrl: ${ imgUrl }` : '' }
 ---

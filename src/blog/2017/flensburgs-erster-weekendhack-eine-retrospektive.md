@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Flensburgs erster WeekendHack – Eine Retrospektive'
 excerpt: '<p>Am letzten Märzwochenende (31.3./01.04.2017) veranstaltete der Chaostreff Flensburg in Kooperation mit der WiReg den ersten WeekendHack Flensburgs &#8211; mit vollem Erfolg! &nbsp; Wer sich nun fragt, was hinter dem Namen <a href="https://chaostreff-flensburg.de/2017/flensburgs-erster-weekendhack-eine-retrospektive/" class="more-link">[&hellip;]</a></p>'
 date: "2017-04-19T16:48:56.000Z"
 imgUrl: /media/blog/17880500_648943498636669_2074332347741127367_o.jpg

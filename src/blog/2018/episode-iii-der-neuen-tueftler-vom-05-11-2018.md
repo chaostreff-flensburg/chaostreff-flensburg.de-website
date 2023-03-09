@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+tags:
+  - blog
+title: 'Episode III der Neuen Tüftler vom 05.11.2018'
 excerpt: '<p>Am 05.11.2018 gab es die Episode III von unserem Jugendtreff&nbsp;&#8211;&nbsp;neue Tüftler. Nach den Variablen wurden dieses&nbsp;Mal&nbsp;Roboter von Anfang bis Ende zusammengeschraubt. Ein anderes Team hat sich mit dem Multi Channel <a href="https://chaostreff-flensburg.de/2018/episode-iii-der-neuen-tueftler-vom-05-11-2018/" class="more-link">[&hellip;]</a></p>'
 date: "2018-11-06T20:01:48.000Z"
 imgUrl: /media/blog/DrRFqcyWwAIal2O-1.jpg
