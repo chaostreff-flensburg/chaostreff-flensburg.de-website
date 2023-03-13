@@ -1,6 +1,5 @@
 ---
 layout: Default.tsx
-title: Chaostreff Flensburg e.V.
 ---
 
 # Hackerspace & Makerplace

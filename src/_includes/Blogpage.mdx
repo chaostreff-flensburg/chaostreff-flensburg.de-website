@@ -1,0 +1,49 @@
+---
+layout: Blog.tsx
+title: Blog
+---
+
+# Blog
+
+---
+
+{
+  page.data.results.map((page) => (
+    <div class="card my-4">
+      <div class="card-header">
+        <a href={page.data.url}>
+          <b>{page.data.title}</b>
+        </a>
+        {new Date(page.data.date).toDateString()}
+      </div>
+      <div class="card-body">
+        {page.data.imgUrl ? (
+          <a href={page.data.url}>
+            <img src={page.data.imgUrl} />
+          </a>
+        ) : null}
+        <div dangerouslySetInnerHTML={{ __html: page.data.excerpt }} />
+      </div>
+    </div>
+  ))
+}
+
+<nav aria-label="Page navigation example">
+  <ul class="pagination">
+    { 
+      page.data.pagination.previous
+        ? <li class="page-item"><a class="page-link" href={`/blog/${ page.data.pagination.previous }`}>&laquo;</a></li>
+        : <li class="page-item"><a class="page-link disabled">&laquo;</a></li>
+    }
+    { 
+      new Array(page.data.pagination.totalPages).fill().map((_, index) => (
+        <li class="page-item"><a class="page-link" href={`/blog/page/${ index + 1 }`}>{ index + 1 }</a></li>
+      ))
+    }
+    { 
+      page.data.pagination.next
+        ? <li class="page-item"><a class="page-link" href={`/blog/${ page.data.pagination.next }`}>&raquo;</a></li>
+        : <li class="page-item"><a class="page-link disabled">&raquo;</a></li>
+    }
+  </ul>
+</nav>

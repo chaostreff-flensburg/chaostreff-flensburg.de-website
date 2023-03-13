@@ -6,22 +6,26 @@ title: Blog
 ---
 
 # Blog
-----
 
-<div>
-  {
-    search.pages("blog", "date=desc", 6).map((page) => (
-      <div class="card my-4">
-        <div class="card-header">
-          <a href={ page.data.url }><b>{ page.data.title }</b></a> { new Date(page.data.date).toDateString() }</div>
-        <div class="card-body">
-          { JSON.stringify(Object.keys(page.data)) }
-          <img src={ page.data.imgUrl } />
-          <p>
-            { page.data.excerpt }
-          </p>
-        </div>
+---
+
+{
+  search.pages("blog", "date=desc", 6).map((page) => (
+    <div class="card my-4">
+      <div class="card-header">
+        <a href={page.data.url}>
+          <b>{page.data.title}</b>
+        </a>
+        {new Date(page.data.date).toDateString()}
       </div>
-    ))
-  }
-</div>
+      <div class="card-body">
+        {page.data.imgUrl ? (
+          <a href={page.data.url}>
+            <img src={page.data.imgUrl} />
+          </a>
+        ) : null}
+        <div dangerouslySetInnerHTML={{ __html: page.data.excerpt }} />
+      </div>
+    </div>
+  ))
+}
