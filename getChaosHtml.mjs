@@ -71,6 +71,7 @@ title: '${ title.rendered }'
 excerpt: '${ excerpt.rendered.replaceAll('\n', '').replaceAll("'", "\\'").trim() }'
 date: "${ (new Date(date)).toISOString() }"${ imgUrl ? `\nimgUrl: ${ imgUrl }` : '' }
 ---
+
 # ${ title.rendered }
 
 ${ content.rendered }

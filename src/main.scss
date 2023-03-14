@@ -59,3 +59,30 @@ figure.wp-block-image img {
 .logo {
   height: 3.5rem;
 }
+
+.sideBar ul {
+  list-style-type: none;
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.text-smaller {
+  font-size: 0.6rem;
+}
+.text-small {
+  font-size: 0.8rem;
+}
+.text-normal {
+  font-size: 1rem;
+}
+.text-big {
+  font-size: 1.2rem;
+}
+.text-bigger {
+  font-size: 1.4rem;
+}

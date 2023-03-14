@@ -4,7 +4,7 @@ export default ({ title, description, search }) => (
       <img src="/logo.png" alt="logo" class="mx-3 header-img logo" />
       <div class="d-none d-sm-flex header-title flex-column justify-content-center">
         <b>Chaostreff Flensburg e.V</b>
-        <div>Hackerspace & Makerplace</div>
+        <div>Hackspace & Makeplace</div>
       </div>
     </a>
     <div class="d-flex flex-wrap align-items-center">
