@@ -1,5 +1,9 @@
 ---
+layout: Default.tsx
 date: "2021-09-09"
+title: "Hacks on the Beach 2021"
+tags:
+  - header(events)
 ---
 
 # Hacks on the Beach 2021

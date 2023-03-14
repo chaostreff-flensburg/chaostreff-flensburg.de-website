@@ -2,7 +2,9 @@
 layout: Default.tsx
 tags:
   - header
+  - header(jugendtreff-neue-tueftler)
 title: Neue Tüftler:innen
+slug: jugendtreff-neue-tueftler
 ---
 
 # Jugendtreff – Neue Tüftler:innen

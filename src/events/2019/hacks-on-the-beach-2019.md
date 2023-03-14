@@ -1,5 +1,9 @@
 ---
+layout: Default.tsx
 date: "2019-10-06"
+title: "Hacks on the Beach 2019"
+tags:
+  - header(events)
 ---
 
 # Hacks on the Beach 2019

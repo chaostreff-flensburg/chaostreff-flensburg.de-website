@@ -9,9 +9,24 @@ export default ({ title, description, search }) => (
     </a>
     <div class="d-flex flex-wrap align-items-center">
       {
-        search.pages("header").map((page) => (
-          <a href={ page.data.url } class="btn btn-outline-dark btn-shadow m-2">{ page.data.title }</a>
-        ))
+        search.pages("header").map((page) => {
+          const subpages = search.pages(`header(${page.data.slug})`);
+          if (subpages.length > 0) {
+            return (
+              <div class="category dropdown">
+                <label for={page.data.slug} class="btn btn-outline-dark btn-shadow m-2">
+                  {page.data.title}
+                </label>
+                <input type="checkbox" id={page.data.slug} class="visually-hidden" />
+                <div class="dropdown-menu m-2 bg-white">
+                  {subpages.map((subpage) => <a href={subpage.data.url} class="dropdown-item">{subpage.data.title}</a>)}
+                </div>
+              </div>
+            );
+          } else {
+            return (<a href={page.data.url} class="btn btn-outline-dark btn-shadow m-2">{page.data.title}</a>)
+          }
+        })
       }
     </div>
   </nav>

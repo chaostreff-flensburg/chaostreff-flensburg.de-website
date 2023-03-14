@@ -86,3 +86,13 @@ a {
 .text-bigger {
   font-size: 1.4rem;
 }
+
+.dropdown input[type="checkbox"]:checked + .dropdown-menu {
+  display: block;
+}
+
+section.layout header {
+  position: sticky;
+  top: 0;
+  z-index: 9000;
+}

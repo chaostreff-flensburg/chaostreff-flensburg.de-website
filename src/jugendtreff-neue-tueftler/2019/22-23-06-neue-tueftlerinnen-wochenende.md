@@ -1,5 +1,8 @@
 ---
 layout: Default.tsx
+title: "Neue Tüftler:innen Wochenende 2019.01"
+tags:
+  - header(jugendtreff-neue-tueftler)
 ---
 
 # Neue Tüftler:innen Wochenende 2019.01
