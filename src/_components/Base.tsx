@@ -16,9 +16,10 @@ export default ({ title, children, ...props }) => (
         }
       />
 
-      <link rel="stylesheet" href="/bootstrap.css"></link>
-      <link rel="stylesheet" href="/code.css"></link>
-      <link rel="stylesheet" href="/main.css"></link>
+      <link rel="stylesheet" href="/bootstrap.css" />
+      <link rel="stylesheet" href="/code.css" />
+      <link rel="stylesheet" href="/main.css" />
+      <script defer src="/main.js" />
     </head>
     <body class="bg-body text-text flex flex-col justify-between min-h-screen relative">
       <section class="layout">

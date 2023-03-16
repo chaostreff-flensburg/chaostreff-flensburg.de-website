@@ -23,6 +23,7 @@ site
   .use(minify_html())
   .copy("media")
   .copy("assets", ".")
+  .copy("main.js")
   .remoteFile(
     "./code.css",
     "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/styles/github.min.css",

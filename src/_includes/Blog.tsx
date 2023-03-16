@@ -7,7 +7,8 @@ export default ({ title, children, ...props }) => (
             {children}
           </section>
         </div>
-        <div class="d-none d-xl-block col-4 p-4">
+        <div class="d-none d-xl-block col-4 px-4">
+          <space-status />
           <props.comp.InfoMenu />
         </div>
       </div>

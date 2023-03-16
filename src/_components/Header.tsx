@@ -1,6 +1,6 @@
 export default ({ ...props }) => (
-  <>
-    <nav class="container navbar px-4 d-flex flex-nowrap">
+  <div class="container">
+    <nav class="navbar mx-2 d-flex flex-nowrap">
       <a class="btn d-flex flex-nowrap align-items-center" href="/">
         <img src="/logo.png" alt="logo" class="mx-3 header-img logo" />
         <div class="d-none d-sm-flex header-title flex-column justify-content-center">
@@ -15,6 +15,7 @@ export default ({ ...props }) => (
         <button class="btn btn-outline-dark btn-shadow">Menü</button>
         <nav class="sideMenu shadow p-3">
           <section>
+            <space-status />
             <b><strong>Blog:</strong></b>
             <ul class="d-flex flex-column">
               <props.comp.HeaderMenuItems {...props} />
@@ -24,5 +25,5 @@ export default ({ ...props }) => (
         </nav>
       </div>
     </nav>
-  </>
+  </div>
 );

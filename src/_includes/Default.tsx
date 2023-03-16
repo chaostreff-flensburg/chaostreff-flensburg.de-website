@@ -14,7 +14,8 @@ export default ({ title, children, date, ...props }) => (
             {children}
           </section>
         </div>
-        <div class="d-none d-xl-block col-4 p-4">
+        <div class="d-none d-xl-block col-4 px-4">
+          <space-status />
           <props.comp.InfoMenu {...props} />
         </div>
       </div>
