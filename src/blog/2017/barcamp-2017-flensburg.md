@@ -1,8 +1,13 @@
 ---
-excerpt: '<p>Das zweite Flensburger Barcamp ging zu Ende. Bei spannenden Vorträgen und leckerem Essen konnte man sich kennen lernen, networken und austauschen. Dieses Jahr war der Chaostreff Flensburg mit einem eigenem <a href="https://chaostreff-flensburg.de/2017/barcamp-2017-flensburg/" class="more-link">[&hellip;]</a></p>'
-date: "Mon Mar 27 2017"
-imgUrl: /media/blog/thumbs_MG_9649.jpg
+layout: Default.tsx
+tags:
+  - blog
+title: 'Barcamp 2017, Flensburg'
+excerpt: 'Das zweite Flensburger Barcamp ging zu Ende. Bei spannenden Vorträgen und leckerem Essen konnte man sich kennen lernen, networken und austauschen. Dieses Jahr war der Chaostreff Flensburg mit einem eigenem […]'
+date: "2017-03-27T20:56:00.000Z"
+imgUrl: /./media/blog/thumbs_MG_9649.jpg
 ---
+
 # Barcamp 2017, Flensburg
 
 <p>Das zweite Flensburger Barcamp ging zu Ende. Bei spannenden Vorträgen und leckerem Essen konnte man sich kennen lernen, networken und austauschen. Dieses Jahr war der Chaostreff Flensburg mit einem eigenem Raum vertreten. In der Hacking Area, konnten die Besucher des Barcamps, modernen Technologien wie 3D Druck in der Praxis ansehen und ausprobieren. Als kleinen Einstieg gab es das Barcamp Batch, in der Form des Barcamp Logos zum selber löten.</p>
@@ -24,7 +29,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9543.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9543.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9543.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9543.JPG"
                data-image-id="16"
                data-title="thumbs_MG_9543"
@@ -34,7 +39,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9543"
                     alt="thumbs_MG_9543"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9543.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9543.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -48,7 +53,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9649.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9649.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9649.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9649.JPG"
                data-image-id="31"
                data-title="thumbs_MG_9649"
@@ -58,7 +63,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9649"
                     alt="thumbs_MG_9649"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9649.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9649.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -72,7 +77,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9646.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9646.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9646.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9646.JPG"
                data-image-id="30"
                data-title="thumbs_MG_9646"
@@ -82,7 +87,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9646"
                     alt="thumbs_MG_9646"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9646.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9646.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -96,7 +101,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9645.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9645.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9645.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9645.JPG"
                data-image-id="29"
                data-title="thumbs_MG_9645"
@@ -106,7 +111,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9645"
                     alt="thumbs_MG_9645"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9645.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9645.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -121,7 +126,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9635.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9635.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9635.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9635.JPG"
                data-image-id="28"
                data-title="thumbs_MG_9635"
@@ -131,7 +136,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9635"
                     alt="thumbs_MG_9635"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9635.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9635.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -145,7 +150,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9623.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9623.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9623.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9623.JPG"
                data-image-id="27"
                data-title="thumbs_MG_9623"
@@ -155,7 +160,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9623"
                     alt="thumbs_MG_9623"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9623.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9623.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -169,7 +174,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9605.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9605.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9605.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9605.JPG"
                data-image-id="26"
                data-title="thumbs_MG_9605"
@@ -179,7 +184,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9605"
                     alt="thumbs_MG_9605"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9605.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9605.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -193,7 +198,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9604.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9604.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9604.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9604.JPG"
                data-image-id="25"
                data-title="thumbs_MG_9604"
@@ -203,7 +208,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9604"
                     alt="thumbs_MG_9604"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9604.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9604.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -218,7 +223,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9600.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9600.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9600.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9600.JPG"
                data-image-id="24"
                data-title="thumbs_MG_9600"
@@ -228,7 +233,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9600"
                     alt="thumbs_MG_9600"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9600.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9600.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -242,7 +247,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9587.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9587.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9587.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9587.JPG"
                data-image-id="23"
                data-title="thumbs_MG_9587"
@@ -252,7 +257,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9587"
                     alt="thumbs_MG_9587"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9587.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9587.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -266,7 +271,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9586-1.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9586-1.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9586-1.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9586-1.JPG"
                data-image-id="22"
                data-title="thumbs_MG_9586-1"
@@ -276,7 +281,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9586-1"
                     alt="thumbs_MG_9586-1"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9586-1.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9586-1.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -290,7 +295,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9582.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9582.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9582.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9582.JPG"
                data-image-id="21"
                data-title="thumbs_MG_9582"
@@ -300,7 +305,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9582"
                     alt="thumbs_MG_9582"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9582.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9582.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -315,7 +320,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9581.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9581.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9581.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9581.JPG"
                data-image-id="20"
                data-title="thumbs_MG_9581"
@@ -325,7 +330,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9581"
                     alt="thumbs_MG_9581"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9581.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9581.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -339,7 +344,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9570.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9570.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9570.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9570.JPG"
                data-image-id="19"
                data-title="thumbs_MG_9570"
@@ -349,7 +354,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9570"
                     alt="thumbs_MG_9570"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9570.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9570.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -363,7 +368,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9565.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9565.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9565.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9565.JPG"
                data-image-id="18"
                data-title="thumbs_MG_9565"
@@ -373,7 +378,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9565"
                     alt="thumbs_MG_9565"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9565.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9565.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -387,7 +392,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9564.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9564.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9564.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9564.JPG"
                data-image-id="17"
                data-title="thumbs_MG_9564"
@@ -397,7 +402,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9564"
                     alt="thumbs_MG_9564"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9564.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9564.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -412,7 +417,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_Batch.jpg"
                title=""
-               data-src="/media/blog/uploads/thumbs_Batch.jpg"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_Batch.jpg"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_Batch.jpg"
                data-image-id="1"
                data-title="thumbs_Batch"
@@ -422,7 +427,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_Batch"
                     alt="thumbs_Batch"
-                    src="/media/blog/uploads/thumbs_thumbs_Batch.jpg"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_Batch.jpg"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -436,7 +441,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9538.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9538.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9538.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9538.JPG"
                data-image-id="15"
                data-title="thumbs_MG_9538"
@@ -446,7 +451,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9538"
                     alt="thumbs_MG_9538"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9538.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9538.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -460,7 +465,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9535.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9535.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9535.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9535.JPG"
                data-image-id="14"
                data-title="thumbs_MG_9535"
@@ -470,7 +475,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9535"
                     alt="thumbs_MG_9535"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9535.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9535.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -484,7 +489,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9516.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9516.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9516.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9516.JPG"
                data-image-id="13"
                data-title="thumbs_MG_9516"
@@ -494,7 +499,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9516"
                     alt="thumbs_MG_9516"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9516.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9516.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -509,7 +514,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9514.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9514.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9514.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9514.JPG"
                data-image-id="12"
                data-title="thumbs_MG_9514"
@@ -519,7 +524,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9514"
                     alt="thumbs_MG_9514"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9514.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9514.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -533,7 +538,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9503.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9503.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9503.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9503.JPG"
                data-image-id="11"
                data-title="thumbs_MG_9503"
@@ -543,7 +548,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9503"
                     alt="thumbs_MG_9503"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9503.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9503.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -557,7 +562,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9501.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9501.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9501.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9501.JPG"
                data-image-id="10"
                data-title="thumbs_MG_9501"
@@ -567,7 +572,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9501"
                     alt="thumbs_MG_9501"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9501.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9501.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -581,7 +586,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9490.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9490.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9490.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9490.JPG"
                data-image-id="9"
                data-title="thumbs_MG_9490"
@@ -591,7 +596,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9490"
                     alt="thumbs_MG_9490"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9490.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9490.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -606,7 +611,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9481.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9481.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9481.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9481.JPG"
                data-image-id="8"
                data-title="thumbs_MG_9481"
@@ -616,7 +621,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9481"
                     alt="thumbs_MG_9481"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9481.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9481.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -630,7 +635,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9479.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9479.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9479.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9479.JPG"
                data-image-id="7"
                data-title="thumbs_MG_9479"
@@ -640,7 +645,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9479"
                     alt="thumbs_MG_9479"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9479.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9479.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -654,7 +659,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9476.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9476.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9476.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9476.JPG"
                data-image-id="6"
                data-title="thumbs_MG_9476"
@@ -664,7 +669,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9476"
                     alt="thumbs_MG_9476"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9476.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9476.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -678,7 +683,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9472.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9472.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9472.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9472.JPG"
                data-image-id="5"
                data-title="thumbs_MG_9472"
@@ -688,7 +693,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9472"
                     alt="thumbs_MG_9472"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9472.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9472.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -703,7 +708,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9465.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9465.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9465.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9465.JPG"
                data-image-id="4"
                data-title="thumbs_MG_9465"
@@ -713,7 +718,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9465"
                     alt="thumbs_MG_9465"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9465.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9465.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -727,7 +732,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9462.JPG"
                title=""
-               data-src="/media/blog/uploads/thumbs_MG_9462.JPG"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9462.JPG"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9462.JPG"
                data-image-id="3"
                data-title="thumbs_MG_9462"
@@ -737,7 +742,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_MG_9462"
                     alt="thumbs_MG_9462"
-                    src="/media/blog/uploads/thumbs_thumbs_MG_9462.JPG"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_MG_9462.JPG"
                     width="240"
                     height="160"
                     style="max-width:100%;"
@@ -751,7 +756,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 				        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_LED.jpg"
                title=""
-               data-src="/media/blog/uploads/thumbs_LED.jpg"
+               data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_LED.jpg"
                data-thumbnail="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_LED.jpg"
                data-image-id="2"
                data-title="thumbs_LED"
@@ -761,7 +766,7 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 <img
                     title="thumbs_LED"
                     alt="thumbs_LED"
-                    src="/media/blog/uploads/thumbs_thumbs_LED.jpg"
+                    src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs/thumbs_thumbs_LED.jpg"
                     width="240"
                     height="160"
                     style="max-width:100%;"

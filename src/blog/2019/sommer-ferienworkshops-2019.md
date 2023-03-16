@@ -1,8 +1,13 @@
 ---
-excerpt: '<p>Ostsee &#8211; Flensburg 03.08 Roboter bauen für Anfänger:innen mit dem Calliope Mini Du bist technikbegeistert und willst dich mit Gleichgesinnten austauschen? Du willst verstehen wie Roboter funktionieren? Du willst mal <a href="https://chaostreff-flensburg.de/2019/sommer-ferienworkshops-2019/" class="more-link">[&hellip;]</a></p>'
-date: "Fri Apr 19 2019"
-imgUrl: /media/blog/41636239115_f74296ebf2_k-2.jpg
+layout: Default.tsx
+tags:
+  - blog
+title: 'Sommer Ferienworkshops 2019'
+excerpt: 'Ostsee – Flensburg 03.08 Roboter bauen für Anfänger:innen mit dem Calliope Mini Du bist technikbegeistert und willst dich mit Gleichgesinnten austauschen? Du willst verstehen wie Roboter funktionieren? Du willst mal […]'
+date: "2019-04-19T17:35:08.000Z"
+imgUrl: /./media/blog/41636239115_f74296ebf2_k-2.jpg
 ---
+
 # Sommer Ferienworkshops 2019
 
 

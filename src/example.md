@@ -1,4 +1,5 @@
 ---
+layout: Default.tsx
 ---
 
 # hey
@@ -6,6 +7,7 @@
 hallo das ist ein text :D
 
 ## 2.
+normal text:
 
 - hi
   - hi 

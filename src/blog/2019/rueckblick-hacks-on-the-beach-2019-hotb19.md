@@ -1,7 +1,12 @@
 ---
-excerpt: '<p>Knapp 4 Tagen lang konnte sich die insgesamt 100 Teilnehmer des Hacks on the Beach 2019 im Strandpavillion Solitüde austoben. Neben der großartigen Aussicht auf die Flensburger Förde, gab es <a href="https://chaostreff-flensburg.de/2019/rueckblick-hacks-on-the-beach-2019-hotb19/" class="more-link">[&hellip;]</a></p>'
-date: "Sun Oct 13 2019"
+layout: Default.tsx
+tags:
+  - blog
+title: 'Rückblick Hacks on the Beach 2019 #hotb19'
+excerpt: 'Knapp 4 Tagen lang konnte sich die insgesamt 100 Teilnehmer des Hacks on the Beach 2019 im Strandpavillion Solitüde austoben. Neben der großartigen Aussicht auf die Flensburger Förde, gab es […]'
+date: "2019-10-13T11:38:06.000Z"
 ---
+
 # Rückblick Hacks on the Beach 2019 #hotb19
 
 
@@ -258,5 +263,5 @@ date: "Sun Oct 13 2019"
 
 
 
-<figure class="wp-block-image"><img loading="lazy" width="600" height="330" src="https://chaostreff-flensburg.de/wp-content/uploads/2019/10/hotb19-anbaden.gif" alt="" class="wp-image-1413"/><figcaption>Natürlich durfte der Badespaß auch im Oktober nicht fehlen.</figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="600" height="330" src="https://chaostreff-flensburg.de/wp-content/uploads/2019/10/hotb19-anbaden.gif" alt="" class="wp-image-1413"/><figcaption>Natürlich durfte der Badespaß auch im Oktober nicht fehlen.</figcaption></figure>
 

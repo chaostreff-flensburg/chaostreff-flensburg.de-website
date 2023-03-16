@@ -1,4 +1,8 @@
 ---
+layout: Default.tsx
+title: "Satzung"
+tags:
+  - header(mitmachen)
 ---
 
 # Satzung

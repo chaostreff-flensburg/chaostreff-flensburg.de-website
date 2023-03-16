@@ -1,0 +1,69 @@
+---
+layout: Blog.tsx
+title: Blog
+---
+
+# Blog
+
+---
+
+<div>
+  {page.data.results.map((page) => (
+    <a href={page.data.url}>
+      <div class="card my-4 text-black text-decoration-none">
+        <div class="card-header">
+          <div class="d-flex justify-content-between">
+            <h2 class="text-big m-0">{page.data.title}</h2>
+            <span>
+              {new Date(page.data.date).toLocaleDateString("de-DE", {
+                year: "numeric",
+                month: "long",
+                day: "numeric",
+              })}
+            </span>
+          </div>
+        </div>
+        <div class="card-body">
+          {page.data.imgUrl ? (
+            <img class="card-img" src={page.data.imgUrl} />
+          ) : null}
+          <div class="card-text">{page.data.excerpt}</div>
+        </div>
+      </div>
+    </a>
+  ))}
+</div>
+
+<nav aria-label="Page navigation example">
+  <ul class="pagination">
+    {page.data.pagination.previous ? (
+      <li class="page-item">
+        <a class="page-link" href={`/blog/${page.data.pagination.previous}`}>
+          &laquo;
+        </a>
+      </li>
+    ) : (
+      <li class="page-item">
+        <a class="page-link disabled">&laquo;</a>
+      </li>
+    )}
+    {new Array(page.data.pagination.totalPages).fill().map((_, index) => (
+      <li class="page-item">
+        <a class="page-link" href={`/blog/page/${index + 1}`}>
+          {index + 1}
+        </a>
+      </li>
+    ))}
+    {page.data.pagination.next ? (
+      <li class="page-item">
+        <a class="page-link" href={`/blog/${page.data.pagination.next}`}>
+          &raquo;
+        </a>
+      </li>
+    ) : (
+      <li class="page-item">
+        <a class="page-link disabled">&raquo;</a>
+      </li>
+    )}
+  </ul>
+</nav>

@@ -1,7 +1,12 @@
 ---
-excerpt: '<p>Weihnachten ist vorüber, Silvester steht kurz bevor und die Gattung der gemeinen Wald- und Wiesennerds sammelt sich auf dem legendären Chaos Communication Congress, um sich über die neuesten Technik-Fortschritte zu <a href="https://chaostreff-flensburg.de/2018/34c3-tuwat/" class="more-link">[&hellip;]</a></p>'
-date: "Fri Mar 30 2018"
+layout: Default.tsx
+tags:
+  - blog
+title: '34c3 – Tuwat'
+excerpt: 'Weihnachten ist vorüber, Silvester steht kurz bevor und die Gattung der gemeinen Wald- und Wiesennerds sammelt sich auf dem legendären Chaos Communication Congress, um sich über die neuesten Technik-Fortschritte zu […]'
+date: "2018-03-30T17:02:31.000Z"
 ---
+
 # 34c3 &#8211; Tuwat
 
 <p>Weihnachten ist vorüber, Silvester steht kurz bevor und die Gattung der gemeinen Wald- und Wiesennerds sammelt sich auf dem legendären Chaos Communication Congress, um sich über die neuesten Technik-Fortschritte zu informieren, ihren MacGyver-ten Elektroschrott auf die Menschheit loszulassen und sich von dem alljährlichen Familien-Computer-Helpdesk zu erholen („Mensch, dich gibts ja auch noch! Sag mal, du kannst ja Computer, ich hab hier so ein Problem…“).</p>

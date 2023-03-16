@@ -1,5 +1,9 @@
 ---
-date: "09.09.2022"
+layout: Default.tsx
+date: "2022-09-09"
+title: "Hacks on the Beach 2022"
+tags:
+  - header(events)
 ---
 
 # Hacks on the Beach 2022

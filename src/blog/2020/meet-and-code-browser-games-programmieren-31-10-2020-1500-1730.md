@@ -1,11 +1,16 @@
 ---
-excerpt: '<p>In diesem Workshop lernst du ein simples Browsergame selber zu programmieren. Dabei brauchst du keine weiteren Grundlagen, außer dass du weißt wie du einen Computer/Laptop zuhause bedienst.Zusammen werden wir ein <a href="https://chaostreff-flensburg.de/2020/meet-and-code-browser-games-programmieren-31-10-2020-1500-1730/" class="more-link">[&hellip;]</a></p>'
-date: "Fri Oct 23 2020"
+layout: Default.tsx
+tags:
+  - blog
+title: 'Meet and Code: Browser Games Programmieren 31.10.2020 15:00 – 17:30'
+excerpt: 'In diesem Workshop lernst du ein simples Browsergame selber zu programmieren. Dabei brauchst du keine weiteren Grundlagen, außer dass du weißt wie du einen Computer/Laptop zuhause bedienst.Zusammen werden wir ein […]'
+date: "2020-10-23T13:06:29.000Z"
 ---
+
 # Meet and Code: Browser Games Programmieren 31.10.2020 15:00 &#8211; 17:30
 
 
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="https://chaostreff-flensburg.de/wp-content/uploads/2020/10/browser-game-link.png" alt="" class="wp-image-1512" width="269" height="269" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2020/10/browser-game-link.png 500w, https://chaostreff-flensburg.de/wp-content/uploads/2020/10/browser-game-link-300x300.png 300w, https://chaostreff-flensburg.de/wp-content/uploads/2020/10/browser-game-link-150x150.png 150w" sizes="(max-width: 269px) 100vw, 269px" /></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img decoding="async" loading="lazy" src="https://chaostreff-flensburg.de/wp-content/uploads/2020/10/browser-game-link.png" alt="" class="wp-image-1512" width="269" height="269" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2020/10/browser-game-link.png 500w, https://chaostreff-flensburg.de/wp-content/uploads/2020/10/browser-game-link-300x300.png 300w, https://chaostreff-flensburg.de/wp-content/uploads/2020/10/browser-game-link-150x150.png 150w" sizes="(max-width: 269px) 100vw, 269px" /></figure></div>
 
 
 

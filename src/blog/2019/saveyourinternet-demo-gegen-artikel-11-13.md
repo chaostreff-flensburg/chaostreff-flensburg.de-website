@@ -1,11 +1,16 @@
 ---
-excerpt: '<p>Filter sind für den Kaffee, nicht fürs Netz. Auch wir demonstrieren am Aktionstag gegen #Artikel13 &amp; 11 der Urheberrechtsreform. Seid dabei:21.03.19 ab 18:00 Uhr Diskussionsrunde &amp; Schilder basteln im Chaostreff <a href="https://chaostreff-flensburg.de/2019/saveyourinternet-demo-gegen-artikel-11-13/" class="more-link">[&hellip;]</a></p>'
-date: "Tue Mar 12 2019"
+layout: Default.tsx
+tags:
+  - blog
+title: 'SaveYourInternet: Demo gegen Artikel 11, 12 & 13'
+excerpt: 'Filter sind für den Kaffee, nicht fürs Netz. Auch wir demonstrieren am Aktionstag gegen #Artikel13 & 11 der Urheberrechtsreform. Seid dabei:21.03.19 ab 18:00 Uhr Diskussionsrunde & Schilder basteln im Chaostreff […]'
+date: "2019-03-12T19:45:04.000Z"
 ---
+
 # SaveYourInternet: Demo gegen Artikel 11, 12 &#038; 13
 
 
-<figure class="wp-block-image"><img loading="lazy" width="842" height="596" src="https://chaostreff-flensburg.de/wp-content/uploads/2019/03/53910551_1044679469063068_3358152018693718016_n.jpg" alt="" class="wp-image-878" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/03/53910551_1044679469063068_3358152018693718016_n.jpg 842w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/53910551_1044679469063068_3358152018693718016_n-300x212.jpg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/53910551_1044679469063068_3358152018693718016_n-768x544.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/53910551_1044679469063068_3358152018693718016_n-706x500.jpg 706w" sizes="(max-width: 842px) 100vw, 842px" /></figure>
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="842" height="596" src="https://chaostreff-flensburg.de/wp-content/uploads/2019/03/53910551_1044679469063068_3358152018693718016_n.jpg" alt="" class="wp-image-878" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/03/53910551_1044679469063068_3358152018693718016_n.jpg 842w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/53910551_1044679469063068_3358152018693718016_n-300x212.jpg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/53910551_1044679469063068_3358152018693718016_n-768x544.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/53910551_1044679469063068_3358152018693718016_n-706x500.jpg 706w" sizes="(max-width: 842px) 100vw, 842px" /></figure>
 
 
 

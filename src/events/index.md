@@ -1,4 +1,9 @@
 ---
+layout: Default.tsx
+tags:
+  - header
+title: Events
+slug: "events"
 ---
 
 # Events

@@ -1,12 +1,17 @@
 ---
-excerpt: '<p>Der Chaostreff Flensburg e.V. ist seit der Vollversammlung im Mai 2019 Mitglied des Flensburger Jugendring e.V.. Wir freuen uns als Verein sehr, es zeigt uns, dass wir mit unserer Jugendarbeit auf dem richtigem Weg sind. <a href="https://chaostreff-flensburg.de/2019/mitgliedschaft-im-flensburger-jugendring-e-v/" class="more-link">[&hellip;]</a></p>'
-date: "Wed May 22 2019"
-imgUrl: /media/blog/FJR_Header_Logo.jpg
+layout: Default.tsx
+tags:
+  - blog
+title: 'Mitgliedschaft im Flensburger Jugendring e.V.'
+excerpt: 'Der Chaostreff Flensburg e.V. ist seit der Vollversammlung im Mai 2019 Mitglied des Flensburger Jugendring e.V.. Wir freuen uns als Verein sehr, es zeigt uns, dass wir mit unserer Jugendarbeit auf dem richtigem Weg sind. […]'
+date: "2019-05-22T10:21:53.000Z"
+imgUrl: /./media/blog/FJR_Header_Logo.jpg
 ---
+
 # Mitgliedschaft im Flensburger Jugendring e.V.
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img loading="lazy" width="297" height="250" src="/media/blog/uploads/FJR_Header_Logo.jpg" alt="" class="wp-image-1294"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" loading="lazy" width="297" height="250" src="http://chaostreff-flensburg.de/wp-content/uploads/2019/05/FJR_Header_Logo.jpg" alt="" class="wp-image-1294"/></figure></div>
 
 
 

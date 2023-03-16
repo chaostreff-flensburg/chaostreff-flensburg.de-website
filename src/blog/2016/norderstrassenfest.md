@@ -1,7 +1,12 @@
 ---
-excerpt: '<p>Am vergangen Sonntag dem 18. September fand das Norderstraßenfest, wie man sich fast denken kann, in der Norderstraße statt. Da wir nun als Choastreff auch Teil der Straße sind haben <a href="https://chaostreff-flensburg.de/2016/norderstrassenfest/" class="more-link">[&hellip;]</a></p>'
-date: "Tue Sep 20 2016"
+layout: Default.tsx
+tags:
+  - blog
+title: 'Norderstraßenfest'
+excerpt: 'Am vergangen Sonntag dem 18. September fand das Norderstraßenfest, wie man sich fast denken kann, in der Norderstraße statt. Da wir nun als Choastreff auch Teil der Straße sind haben […]'
+date: "2016-09-20T14:44:59.000Z"
 ---
+
 # Norderstraßenfest
 
 <div>
@@ -18,5 +23,5 @@ date: "Tue Sep 20 2016"
 <div>Am Nachmittag dann konnten Kinder und interessierte wieder Drawbots basteln und diese nach Fertigstellung mit nach Hause nehmen.</div>
 <div>Während dessen lief auch wieder einer unserer 3D Drucker, für den sich viele Leute Interessiert haben.</div>
 <div>Wir haben viele neue und sehr interessierte Leute kennen gelernt, von denen wir bestimmt den einen oder anderen bei Openspace wieder sehen werden.</div>
-<div><img loading="lazy" class=" wp-image-285 aligncenter" src="http://chaostreff-flensburg.de/wp-content/uploads/2017/04/DSC5140-1024x683-300x200.jpg" alt="" width="434" height="289" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2017/04/DSC5140-1024x683-300x200.jpg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2017/04/DSC5140-1024x683-768x512.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2017/04/DSC5140-1024x683.jpg 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2017/04/DSC5140-1024x683-750x500.jpg 750w" sizes="(max-width: 434px) 100vw, 434px" /></div>
+<div><img decoding="async" loading="lazy" class=" wp-image-285 aligncenter" src="http://chaostreff-flensburg.de/wp-content/uploads/2017/04/DSC5140-1024x683-300x200.jpg" alt="" width="434" height="289" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2017/04/DSC5140-1024x683-300x200.jpg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2017/04/DSC5140-1024x683-768x512.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2017/04/DSC5140-1024x683.jpg 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2017/04/DSC5140-1024x683-750x500.jpg 750w" sizes="(max-width: 434px) 100vw, 434px" /></div>
 

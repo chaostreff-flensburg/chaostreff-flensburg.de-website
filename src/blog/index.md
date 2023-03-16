@@ -1,8 +1,0 @@
----
-card: false
----
-
-# Blog
-----
-
-<BlogPosts />

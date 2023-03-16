@@ -1,5 +1,9 @@
 ---
-date: "11.09.2020"
+layout: Default.tsx
+date: "2020-09-11"
+title: "Hacks on the Beach 2020"
+tags:
+  - header(events)
 ---
 
 # Hacks on the Beach 2020

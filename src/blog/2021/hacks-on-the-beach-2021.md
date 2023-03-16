@@ -1,7 +1,12 @@
 ---
-excerpt: '<p>Das Hacks on the Beach wird auch 2021 aufgrund der aktuellen Situation bezüglich Covid-19 nicht stattfinden. Aber wir können schon mit stolz den Termin fürs #HotB2022, direkt an der Flensburger <a href="https://chaostreff-flensburg.de/2021/hacks-on-the-beach-2021/" class="more-link">[&hellip;]</a></p>'
-date: "Mon Jun 14 2021"
+layout: Default.tsx
+tags:
+  - blog
+title: 'Re:Re:Save the Date!'
+excerpt: 'Das Hacks on the Beach wird auch 2021 aufgrund der aktuellen Situation bezüglich Covid-19 nicht stattfinden. Aber wir können schon mit stolz den Termin fürs #HotB2022, direkt an der Flensburger […]'
+date: "2021-06-14T16:42:54.000Z"
 ---
+
 # Re:Re:Save the Date!
 
 

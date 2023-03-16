@@ -1,4 +1,10 @@
 ---
+layout: Default.tsx
+tags:
+  - header
+  - header(mitmachen)
+title: Mitmachen
+slug: "mitmachen"
 ---
 
 # Mitmachen

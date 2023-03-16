@@ -1,7 +1,12 @@
 ---
-excerpt: '<p>Wir wollen das alle Besucher*innen eine schöne Veranstaltung haben. Um einen möglichst exzellenten Umgang mit einander zu pflegen möchten wir, dass alle ihre Rechte und die der anderen Besucher*innen kennen <a href="https://chaostreff-flensburg.de/2019/hacks-on-the-beach-2019-code-of-conduct/" class="more-link">[&hellip;]</a></p>'
-date: "Tue Sep 17 2019"
+layout: Default.tsx
+tags:
+  - blog
+title: 'Hacks on the Beach 2019 – Code of Conduct'
+excerpt: 'Wir wollen das alle Besucher*innen eine schöne Veranstaltung haben. Um einen möglichst exzellenten Umgang mit einander zu pflegen möchten wir, dass alle ihre Rechte und die der anderen Besucher*innen kennen […]'
+date: "2019-09-17T10:48:31.000Z"
 ---
+
 # Hacks on the Beach 2019 &#8211; Code of Conduct
 
 

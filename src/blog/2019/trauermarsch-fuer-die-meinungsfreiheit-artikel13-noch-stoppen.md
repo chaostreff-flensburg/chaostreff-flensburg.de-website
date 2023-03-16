@@ -1,11 +1,16 @@
 ---
-excerpt: '<p>Am 09.04. soll der Europäische Rat die abgestimmte Version der neuen Urheberrechtsreform final bestätigen und damit auch die Artikel 11, 12 &amp; 13. Wir drücken bereits jetzt unsere Trauer aus <a href="https://chaostreff-flensburg.de/2019/trauermarsch-fuer-die-meinungsfreiheit-artikel13-noch-stoppen/" class="more-link">[&hellip;]</a></p>'
-date: "Sat Mar 30 2019"
+layout: Default.tsx
+tags:
+  - blog
+title: 'Trauermarsch für die Meinungsfreiheit – #Artikel13 noch stoppen!'
+excerpt: 'Am 09.04. soll der Europäische Rat die abgestimmte Version der neuen Urheberrechtsreform final bestätigen und damit auch die Artikel 11, 12 & 13. Wir drücken bereits jetzt unsere Trauer aus […]'
+date: "2019-03-30T09:59:10.000Z"
 ---
+
 # Trauermarsch für die Meinungsfreiheit &#8211; #Artikel13 noch stoppen!
 
 
-<figure class="wp-block-image"><img loading="lazy" width="960" height="540" src="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/56247768_1057636994433982_5057103307030396928_n.jpg" alt="" class="wp-image-945" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/56247768_1057636994433982_5057103307030396928_n.jpg 960w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/56247768_1057636994433982_5057103307030396928_n-300x169.jpg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/56247768_1057636994433982_5057103307030396928_n-768x432.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/56247768_1057636994433982_5057103307030396928_n-889x500.jpg 889w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="960" height="540" src="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/56247768_1057636994433982_5057103307030396928_n.jpg" alt="" class="wp-image-945" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/56247768_1057636994433982_5057103307030396928_n.jpg 960w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/56247768_1057636994433982_5057103307030396928_n-300x169.jpg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/56247768_1057636994433982_5057103307030396928_n-768x432.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/56247768_1057636994433982_5057103307030396928_n-889x500.jpg 889w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
 
 
 
