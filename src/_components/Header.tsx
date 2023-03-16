@@ -1,4 +1,13 @@
-export default ({ title, description, search }) => (
+const pages = [
+  {
+    data: {
+      url: "/blog/page/1/",
+      title: "Blog",
+    },
+  },
+];
+
+export default ({ search }) => (
   <nav class="container navbar px-2 d-flex flex-nowrap">
     <a class="btn d-flex flex-nowrap align-items-center" href="/">
       <img src="/logo.png" alt="logo" class="mx-3 header-img logo" />
@@ -9,17 +18,19 @@ export default ({ title, description, search }) => (
     </a>
     <div class="d-flex flex-wrap align-items-center">
       {
-        search.pages("header").map((page) => {
-          const subpages = search.pages(`header(${page.data.slug})`);
+        [
+          ...pages,
+          ...search.pages("header"),
+        ].map((page) => {
+          const subpages = search.pages(`header(${page.data.slug})`, "date=desc");
           if (subpages.length > 0) {
             return (
-              <div class="category dropdown">
-                <label for={page.data.slug} class="btn btn-outline-dark btn-shadow m-2">
+              <div class="category dropdown bg-white">
+                <div class="btn btn-outline-dark btn-shadow m-2 dropdown-label" tabindex="0">
                   {page.data.title}
-                </label>
-                <input type="checkbox" id={page.data.slug} class="visually-hidden" />
-                <div class="dropdown-menu m-2 bg-white">
-                  {subpages.map((subpage) => <a href={subpage.data.url} class="dropdown-item">{subpage.data.title}</a>)}
+                </div>
+                <div class="d-block dropdown-menu btn-outline-dark p-0 mx-2 bg-white">
+                  {subpages.map((subpage) => <a class="dropdown-item" href={subpage.data.url}>{subpage.data.title}</a>)}
                 </div>
               </div>
             );

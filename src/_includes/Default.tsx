@@ -1,5 +1,5 @@
-import Base from "./Base.tsx";
-import SideBar from "./components/SideBar.tsx";
+import Base from "../_components/Base.tsx";
+import SideBar from "../_components/SideBar.tsx";
 
 export default ({ title, children, date, ...props }) => (
   <Base title={title} {...props} >

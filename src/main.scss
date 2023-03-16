@@ -1,17 +1,18 @@
 .btn-shadow {
-  padding: .2rem .5rem;
+  padding: 0.2rem 0.5rem;
   width: fit-content;
-  box-shadow: .4rem .3rem #333;
+  box-shadow: 0.4rem 0.3rem #333;
   box-sizing: border-box;
   transition: all 50ms;
 }
 
-.btn-shadow:hover, .btn-shadow:focus {
-  box-shadow: .5rem .4rem #333;
+.btn-shadow:hover,
+.btn-shadow:focus {
+  box-shadow: 0.5rem 0.4rem #333;
 }
 .btn-shadow:active {
-  box-shadow: .2rem .2rem #333;
-  transform: translate(.2rem, .1rem);
+  box-shadow: 0.2rem 0.2rem #333;
+  transform: translate(0.2rem, 0.1rem);
 }
 
 .btn-outline-dark {
@@ -19,13 +20,13 @@
 }
 
 .btn-outline-dark.btn-shadow {
-  background-color: unset !important;
+  background-color: inherit !important;
   color: #333 !important;
 }
 
 .card {
   border: 2px solid !important;
-  box-shadow: .5rem .4rem #333;
+  box-shadow: 0.5rem 0.4rem #333;
 }
 
 html {
@@ -36,18 +37,18 @@ body {
   line-height: 1.5;
   letter-spacing: 0.7px;
   font-size: 1rem;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
   font-weight: 300;
   background-color: #eee;
 }
 
 main {
   letter-spacing: 0.5px;
-  font-size: 1.10rem;
+  font-size: 1.1rem;
 }
 
 img {
-  border-radius: .1rem;
+  border-radius: 0.1rem;
   max-width: 100%;
 }
 
@@ -87,8 +88,44 @@ a {
   font-size: 1.4rem;
 }
 
-.dropdown input[type="checkbox"]:checked + .dropdown-menu {
-  display: block;
+header {
+  .dropdown {
+    display: flex;
+    justify-content: center;
+
+    .dropdown-label:not(:focus):not(:focus-within)
+      + .dropdown-menu:not(:focus):not(:focus-within) {
+      position: absolute !important;
+      width: 1px !important;
+      height: 1px !important;
+      padding: 0 !important;
+      margin: -1px !important;
+      overflow: hidden !important;
+      clip: rect(0, 0, 0, 0) !important;
+      white-space: nowrap !important;
+      border: 0 !important;
+    }
+
+    .dropdown-menu {
+      scroll-margin: 1rem;
+      position: absolute;
+      top: calc(100% - 0.5rem);
+      max-width: calc(100% + 2rem);
+      min-width: 8rem;
+
+      .dropdown-item {
+        word-wrap: break-word;
+        white-space: normal;
+        &:not(:last-child) {
+          border-bottom: 1px solid #444;
+        }
+        &:focus {
+          outline: 2px solid #444;
+          border: none;
+        }
+      }
+    }
+  }
 }
 
 section.layout header {
