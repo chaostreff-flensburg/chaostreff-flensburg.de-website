@@ -176,3 +176,19 @@ space-status {
     display: none;
   }
 }
+
+.markdown {
+  a {
+    text-decoration: underline;
+    color: #0369a1;
+  }
+  ul {
+    margin: 0.5rem;
+    list-style-type: disc;
+    list-style: disc;
+    list-style-position: inside;
+    ul {
+      margin: 0 1rem;
+    }
+  }
+}
