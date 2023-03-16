@@ -2,10 +2,11 @@
 layout: Default.tsx
 tags:
   - blog
-title: 'SaveYourInternet: Demo gegen Artikel 11, 12 &#038; 13'
-excerpt: '<p>Filter sind für den Kaffee, nicht fürs Netz. Auch wir demonstrieren am Aktionstag gegen #Artikel13 &amp; 11 der Urheberrechtsreform. Seid dabei:21.03.19 ab 18:00 Uhr Diskussionsrunde &amp; Schilder basteln im Chaostreff <a href="https://chaostreff-flensburg.de/2019/saveyourinternet-demo-gegen-artikel-11-13/" class="more-link">[&hellip;]</a></p>'
+title: 'SaveYourInternet: Demo gegen Artikel 11, 12 & 13'
+excerpt: 'Filter sind für den Kaffee, nicht fürs Netz. Auch wir demonstrieren am Aktionstag gegen #Artikel13 & 11 der Urheberrechtsreform. Seid dabei:21.03.19 ab 18:00 Uhr Diskussionsrunde & Schilder basteln im Chaostreff […]'
 date: "2019-03-12T19:45:04.000Z"
 ---
+
 # SaveYourInternet: Demo gegen Artikel 11, 12 &#038; 13
 
 

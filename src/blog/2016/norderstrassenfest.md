@@ -3,9 +3,10 @@ layout: Default.tsx
 tags:
   - blog
 title: 'Norderstraßenfest'
-excerpt: '<p>Am vergangen Sonntag dem 18. September fand das Norderstraßenfest, wie man sich fast denken kann, in der Norderstraße statt. Da wir nun als Choastreff auch Teil der Straße sind haben <a href="https://chaostreff-flensburg.de/2016/norderstrassenfest/" class="more-link">[&hellip;]</a></p>'
+excerpt: 'Am vergangen Sonntag dem 18. September fand das Norderstraßenfest, wie man sich fast denken kann, in der Norderstraße statt. Da wir nun als Choastreff auch Teil der Straße sind haben […]'
 date: "2016-09-20T14:44:59.000Z"
 ---
+
 # Norderstraßenfest
 
 <div>

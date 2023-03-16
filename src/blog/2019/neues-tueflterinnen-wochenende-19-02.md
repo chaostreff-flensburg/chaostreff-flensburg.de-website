@@ -3,9 +3,10 @@ layout: Default.tsx
 tags:
   - blog
 title: 'Neues Tüflter:innen Wochenende 19.02'
-excerpt: '<p>Am 23.11 und 24.11 findet das zweite Neue Tüflter:innen Wochenende in Flensburg statt. An diesem Wochenende habt ihr die Möglichkeit im Chaostreff Flensburg neue Techniken kennenzulernen und an euren eigenen <a href="https://chaostreff-flensburg.de/2019/neues-tueflterinnen-wochenende-19-02/" class="more-link">[&hellip;]</a></p>'
+excerpt: 'Am 23.11 und 24.11 findet das zweite Neue Tüflter:innen Wochenende in Flensburg statt. An diesem Wochenende habt ihr die Möglichkeit im Chaostreff Flensburg neue Techniken kennenzulernen und an euren eigenen […]'
 date: "2019-08-29T13:57:22.000Z"
 ---
+
 # Neues Tüflter:innen Wochenende 19.02
 
 

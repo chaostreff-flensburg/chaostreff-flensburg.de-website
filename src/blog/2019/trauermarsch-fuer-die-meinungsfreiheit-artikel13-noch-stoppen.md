@@ -2,10 +2,11 @@
 layout: Default.tsx
 tags:
   - blog
-title: 'Trauermarsch für die Meinungsfreiheit &#8211; #Artikel13 noch stoppen!'
-excerpt: '<p>Am 09.04. soll der Europäische Rat die abgestimmte Version der neuen Urheberrechtsreform final bestätigen und damit auch die Artikel 11, 12 &amp; 13. Wir drücken bereits jetzt unsere Trauer aus <a href="https://chaostreff-flensburg.de/2019/trauermarsch-fuer-die-meinungsfreiheit-artikel13-noch-stoppen/" class="more-link">[&hellip;]</a></p>'
+title: 'Trauermarsch für die Meinungsfreiheit – #Artikel13 noch stoppen!'
+excerpt: 'Am 09.04. soll der Europäische Rat die abgestimmte Version der neuen Urheberrechtsreform final bestätigen und damit auch die Artikel 11, 12 & 13. Wir drücken bereits jetzt unsere Trauer aus […]'
 date: "2019-03-30T09:59:10.000Z"
 ---
+
 # Trauermarsch für die Meinungsfreiheit &#8211; #Artikel13 noch stoppen!
 
 

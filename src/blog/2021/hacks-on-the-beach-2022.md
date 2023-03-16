@@ -3,9 +3,10 @@ layout: Default.tsx
 tags:
   - blog
 title: 'Hacks on the Beach 2022'
-excerpt: '<p>Save the Date: 09.09. &#8211; 11.09.2022 Nach der Corona bedingten Pause von 2020/2021 laden wir 2022 Jahr wieder zum Hacks on the Beach ein. Die Location ist gebucht, die Planungen <a href="https://chaostreff-flensburg.de/2021/hacks-on-the-beach-2022/" class="more-link">[&hellip;]</a></p>'
+excerpt: 'Save the Date: 09.09. – 11.09.2022 Nach der Corona bedingten Pause von 2020/2021 laden wir 2022 Jahr wieder zum Hacks on the Beach ein. Die Location ist gebucht, die Planungen […]'
 date: "2021-08-24T15:40:02.000Z"
 ---
+
 # Hacks on the Beach 2022
 
 

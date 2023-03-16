@@ -2,15 +2,16 @@
 layout: Default.tsx
 tags:
   - blog
-title: 'Jugendtreff Neue Tüftler:innen &#8211; Rückblick Q1 &#8211; 2019'
-excerpt: '<p>Jugendtreff Neue Tüftler:innen Im Jugendtreff geht es auch im Jahr 2019 stetig weiter. Da wir mittlerweile die Calliope Mini und Roboter Grundlagen abgeschlossen haben, sind wir jetzt in einer Projektphase. Gemeinsam mit den <a href="https://chaostreff-flensburg.de/2019/jugendtreff-neue-tueftlerinnen-rueckblick-q1-2019/" class="more-link">[&hellip;]</a></p>'
+title: 'Jugendtreff Neue Tüftler:innen – Rückblick Q1 – 2019'
+excerpt: 'Jugendtreff Neue Tüftler:innen Im Jugendtreff geht es auch im Jahr 2019 stetig weiter. Da wir mittlerweile die Calliope Mini und Roboter Grundlagen abgeschlossen haben, sind wir jetzt in einer Projektphase. Gemeinsam mit den […]'
 date: "2019-04-03T11:59:02.000Z"
-imgUrl: /media/blog/46693521005_bfe51571fe_k-1.jpg
+imgUrl: /./media/blog/46693521005_bfe51571fe_k-1.jpg
 ---
+
 # Jugendtreff Neue Tüftler:innen &#8211; Rückblick Q1 &#8211; 2019
 
 
-<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="683" src="/media/blog/uploads/46693521005_bfe51571fe_k-1-1024x683.jpg" alt="" class="wp-image-1082" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693521005_bfe51571fe_k-1-1024x683.jpg 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693521005_bfe51571fe_k-1-300x200.jpg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693521005_bfe51571fe_k-1-768x512.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693521005_bfe51571fe_k-1-750x500.jpg 750w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/46693521005_bfe51571fe_k-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image"><img decoding="async" loading="lazy" src="/./media/blog/uploads/46693521005_bfe51571fe_k-1-1024x683.jpg" /></figure>
 
 
 
@@ -22,7 +23,7 @@ imgUrl: /media/blog/46693521005_bfe51571fe_k-1.jpg
 
 
 
-<figure class="wp-block-video"><video autoplay controls loop muted src="/media/blog/uploads/VID_20190401_172752.mp4"></video></figure>
+<figure class="wp-block-video"><video autoplay controls loop muted src="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/VID_20190401_172752.mp4"></video></figure>
 
 
 
@@ -38,7 +39,7 @@ imgUrl: /media/blog/46693521005_bfe51571fe_k-1.jpg
 
 
 
-<figure class="wp-block-video"><video autoplay controls loop muted src="/media/blog/uploads/VID_37140621_080623_886-1.mp4"></video></figure>
+<figure class="wp-block-video"><video autoplay controls loop muted src="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/VID_37140621_080623_886-1.mp4"></video></figure>
 
 
 

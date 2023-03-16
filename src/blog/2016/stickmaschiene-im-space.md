@@ -3,9 +3,10 @@ layout: Default.tsx
 tags:
   - blog
 title: 'Stickmaschiene im SPACE'
-excerpt: '<p>Neben 3D Drucker, Lasercutter und T-Shirt Druck werden wir demnächst auch eine Stickmaschine im Hackerspace für Logos und Bilder bekommen. Damit wird es möglich sein mehrfarbig direkt auf Shirts zu <a href="https://chaostreff-flensburg.de/2016/stickmaschiene-im-space/" class="more-link">[&hellip;]</a></p>'
+excerpt: 'Neben 3D Drucker, Lasercutter und T-Shirt Druck werden wir demnächst auch eine Stickmaschine im Hackerspace für Logos und Bilder bekommen. Damit wird es möglich sein mehrfarbig direkt auf Shirts zu […]'
 date: "2016-03-15T19:21:04.000Z"
 ---
+
 # Stickmaschiene im SPACE
 
 <p>Neben 3D Drucker, Lasercutter und T-Shirt Druck werden wir demnächst auch eine Stickmaschine im Hackerspace für Logos und Bilder bekommen. Damit wird es möglich sein mehrfarbig direkt auf Shirts zu sticken. Die Besonderheit ist, dass einzelne Stücke schnell und unkompliziert kreiert werden können.<br />

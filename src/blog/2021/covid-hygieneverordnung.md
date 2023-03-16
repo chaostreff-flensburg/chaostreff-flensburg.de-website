@@ -3,9 +3,10 @@ layout: Default.tsx
 tags:
   - blog
 title: 'Covid Hygieneverordnung'
-excerpt: '<p>Im Space des Chaostreff Flensburg e.V. sind folgende Regeln zu beachten: Seit dem 25. Juni 2022 Komm nicht mit Corona Symptomen zum Open Space. Benutze die Corona-Warn-App und komme nicht <a href="https://chaostreff-flensburg.de/2021/covid-hygieneverordnung/" class="more-link">[&hellip;]</a></p>'
+excerpt: 'Im Space des Chaostreff Flensburg e.V. sind folgende Regeln zu beachten: Seit dem 25. Juni 2022 Komm nicht mit Corona Symptomen zum Open Space. Benutze die Corona-Warn-App und komme nicht […]'
 date: "2021-09-27T17:15:55.000Z"
 ---
+
 # Covid Hygieneverordnung
 
 

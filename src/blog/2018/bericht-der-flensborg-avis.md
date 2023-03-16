@@ -3,9 +3,10 @@ layout: Default.tsx
 tags:
   - blog
 title: 'Bericht der Flensborg Avis'
-excerpt: '<p>Am 05. November waren Reporter von der Flensborg Avis bei uns im Jugendtreff und haben neben einem Artikel auch ein Video Produziert. Der Artikel ist auf Dänisch geschrieben während das <a href="https://chaostreff-flensburg.de/2018/bericht-der-flensborg-avis/" class="more-link">[&hellip;]</a></p>'
+excerpt: 'Am 05. November waren Reporter von der Flensborg Avis bei uns im Jugendtreff und haben neben einem Artikel auch ein Video Produziert. Der Artikel ist auf Dänisch geschrieben während das […]'
 date: "2018-11-13T18:41:13.000Z"
 ---
+
 # Bericht der Flensborg Avis
 
 

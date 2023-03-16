@@ -3,9 +3,10 @@ layout: Default.tsx
 tags:
   - blog
 title: 'WeekendHack 2.0'
-excerpt: '<p>Vom 30. Juni bis zum 02. Juli fand der 2. WeekendHack des Chaostreffs Flensburg in Kooperation mit der WIREG im Technologiezentrum&nbsp;Flensburg statt, mit einer überwältigenden Beteiligung von 60 Teilnehmern! Bei <a href="https://chaostreff-flensburg.de/2017/weekendhack-2-0/" class="more-link">[&hellip;]</a></p>'
+excerpt: 'Vom 30. Juni bis zum 02. Juli fand der 2. WeekendHack des Chaostreffs Flensburg in Kooperation mit der WIREG im Technologiezentrum Flensburg statt, mit einer überwältigenden Beteiligung von 60 Teilnehmern! Bei […]'
 date: "2017-08-14T16:32:04.000Z"
 ---
+
 # WeekendHack 2.0
 
 <p><span style="font-weight: 400;">Vom 30. Juni bis zum 02. Juli fand der 2. WeekendHack des Chaostreffs Flensburg in Kooperation mit der WIREG im Technologiezentrum&nbsp;</span><span style="font-weight: 400;">Flensburg statt, mit einer überwältigenden Beteiligung von 60 Teilnehmern!</span></p>

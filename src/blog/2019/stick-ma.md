@@ -3,9 +3,10 @@ layout: Default.tsx
 tags:
   - blog
 title: 'Stick-Ma!'
-excerpt: '<p>Stick Ma! Ist ein Workshop für 13 bis jährige 18 Jugendliche, in dem du die Möglichkeit hast dich mit digitalem Design, elektrischen Sticken und Gender Stereotype auseinanderzusetzen. Der Workshop richtet sich an alle, die Lust haben sich <a href="https://chaostreff-flensburg.de/2019/stick-ma/" class="more-link">[&hellip;]</a></p>'
+excerpt: 'Stick Ma! Ist ein Workshop für 13 bis jährige 18 Jugendliche, in dem du die Möglichkeit hast dich mit digitalem Design, elektrischen Sticken und Gender Stereotype auseinanderzusetzen. Der Workshop richtet sich an alle, die Lust haben sich […]'
 date: "2019-12-28T20:37:00.000Z"
 ---
+
 # Stick-Ma!
 
 

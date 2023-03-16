@@ -3,14 +3,15 @@ layout: Default.tsx
 tags:
   - blog
 title: 'Online Workshop Spiele Programmieren mit GB Studies #fitB'
-excerpt: '<p>Du bist technik- und/oder spielebegeistert und willst dich mit Gleichgesinnten austauschen? Du willst verstehen wie Computerspiele funktionieren? Du willst mal reinschnuppern und erste Schritte von Game Design und der Programmierung <a href="https://chaostreff-flensburg.de/2021/online-workshop-spiele-programmieren-mit-gb-studies-fitb/" class="more-link">[&hellip;]</a></p>'
+excerpt: 'Du bist technik- und/oder spielebegeistert und willst dich mit Gleichgesinnten austauschen? Du willst verstehen wie Computerspiele funktionieren? Du willst mal reinschnuppern und erste Schritte von Game Design und der Programmierung […]'
 date: "2021-04-05T13:39:58.000Z"
-imgUrl: /media/blog/workshop-werbung.png
+imgUrl: /./media/blog/workshop-werbung.png
 ---
+
 # Online Workshop Spiele Programmieren mit GB Studies #fitB
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="767" height="767" src="/media/blog/uploads/workshop-werbung.png" alt="" class="wp-image-1520" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2021/04/workshop-werbung.png 767w, https://chaostreff-flensburg.de/wp-content/uploads/2021/04/workshop-werbung-300x300.png 300w, https://chaostreff-flensburg.de/wp-content/uploads/2021/04/workshop-werbung-150x150.png 150w, https://chaostreff-flensburg.de/wp-content/uploads/2021/04/workshop-werbung-500x500.png 500w" sizes="(max-width: 767px) 100vw, 767px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" src="/./media/blog/uploads/workshop-werbung.png" /></figure>
 
 
 

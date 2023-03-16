@@ -3,9 +3,10 @@ layout: Default.tsx
 tags:
   - blog
 title: 'Virtuelle Realität ein Workshop zum mitmachen und staunen'
-excerpt: '<p>Am Wochenende bot sich den Mitglieder im Chaostreff-Flensburg e.V. die Möglichkeit VR (Virtuelle Realität) ,zu erleben, auszuprobieren und zu diskutieren. Wir haben den Space etwas umgebaut, Tische und Stühle bei <a href="https://chaostreff-flensburg.de/2019/virtuelle-realitaet-ein-workshop-zum-mitmachen-und-staunen/" class="more-link">[&hellip;]</a></p>'
+excerpt: 'Am Wochenende bot sich den Mitglieder im Chaostreff-Flensburg e.V. die Möglichkeit VR (Virtuelle Realität) ,zu erleben, auszuprobieren und zu diskutieren. Wir haben den Space etwas umgebaut, Tische und Stühle bei […]'
 date: "2019-03-31T16:11:50.000Z"
 ---
+
 # Virtuelle Realität ein Workshop zum mitmachen und staunen
 
 

@@ -3,9 +3,10 @@ layout: Default.tsx
 tags:
   - blog
 title: 'Episode IV der Neuen Tüftler vom 03.12.2018'
-excerpt: '<p>Am 05.11.2018 gab es die Episode III von unserem Jugendtreff – neue Tüftler.Da wir in kleiner Runde waren, haben wir uns nicht mit dem Calliope Mini und Robotik beschäftigt, sondern mit Löten <a href="https://chaostreff-flensburg.de/2018/episode-iv-der-neuen-tueftler-vom-03-12-2018/" class="more-link">[&hellip;]</a></p>'
+excerpt: 'Am 05.11.2018 gab es die Episode III von unserem Jugendtreff – neue Tüftler.Da wir in kleiner Runde waren, haben wir uns nicht mit dem Calliope Mini und Robotik beschäftigt, sondern mit Löten […]'
 date: "2018-12-10T17:01:25.000Z"
 ---
+
 # Episode IV der Neuen Tüftler vom 03.12.2018
 
 

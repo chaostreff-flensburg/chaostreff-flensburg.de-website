@@ -2,15 +2,16 @@
 layout: Default.tsx
 tags:
   - blog
-title: '#FitB Aktionstag technoLogisch! 2019 &#8211; 15.06.19'
-excerpt: '<p>&#8222;Bei unserem&nbsp;Aktionstag technoLogisch! 2019,&nbsp;der sich hauptsächlich an Mädchen und Frauen richtet, erwarten dich Handwerk und Spaß! Sei kreativ, lerne Neues und entwickle dich gemeinsam mit anderen weiter.&#8220; Unter diesem Motto <a href="https://chaostreff-flensburg.de/2019/fitb-aktionstag-technologisch-2019-15-06-19/" class="more-link">[&hellip;]</a></p>'
+title: '#FitB Aktionstag technoLogisch! 2019 – 15.06.19'
+excerpt: '„Bei unserem Aktionstag technoLogisch! 2019, der sich hauptsächlich an Mädchen und Frauen richtet, erwarten dich Handwerk und Spaß! Sei kreativ, lerne Neues und entwickle dich gemeinsam mit anderen weiter.“ Unter diesem Motto […]'
 date: "2019-05-27T11:28:36.000Z"
-imgUrl: /media/blog/csm_Postkarte_Aktionstag_Seite_1_7930f6ca67.png
+imgUrl: /./media/blog/csm_Postkarte_Aktionstag_Seite_1_7930f6ca67.png
 ---
+
 # #FitB Aktionstag technoLogisch! 2019 &#8211; 15.06.19
 
 
-<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="730" src="/media/blog/uploads/csm_Postkarte_Aktionstag_Seite_1_7930f6ca67-1-1024x730.png" alt="" class="wp-image-1309" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/05/csm_Postkarte_Aktionstag_Seite_1_7930f6ca67-1-1024x730.png 1024w, https://chaostreff-flensburg.de/wp-content/uploads/2019/05/csm_Postkarte_Aktionstag_Seite_1_7930f6ca67-1-300x214.png 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/05/csm_Postkarte_Aktionstag_Seite_1_7930f6ca67-1-768x548.png 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/05/csm_Postkarte_Aktionstag_Seite_1_7930f6ca67-1-701x500.png 701w, https://chaostreff-flensburg.de/wp-content/uploads/2019/05/csm_Postkarte_Aktionstag_Seite_1_7930f6ca67-1.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image"><img decoding="async" loading="lazy" src="/./media/blog/uploads/csm_Postkarte_Aktionstag_Seite_1_7930f6ca67-1-1024x730.png" /></figure>
 
 
 
