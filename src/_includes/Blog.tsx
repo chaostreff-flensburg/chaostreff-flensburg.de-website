@@ -3,10 +3,12 @@ export default ({ title, children, ...props }) => (
     <div class="container">
       <div class="row my-4 mx-2">
         <div class="col-xl-8">
-          {children}
+          <section class="markdown">
+            {children}
+          </section>
         </div>
-        <div class="col-xl-4 p-4">
-          <props.comp.SideBar />
+        <div class="d-none d-xl-block col-4 p-4">
+          <props.comp.InfoMenu />
         </div>
       </div>
     </div>

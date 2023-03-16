@@ -61,12 +61,6 @@ figure.wp-block-image img {
   height: 3.5rem;
 }
 
-.sideBar ul {
-  list-style-type: none;
-  list-style: none;
-  padding: 0;
-}
-
 a {
   color: inherit;
   text-decoration: inherit;
@@ -90,8 +84,10 @@ a {
 
 header {
   .dropdown {
-    display: flex;
-    justify-content: center;
+    &.dropdown-header {
+      display: flex;
+      justify-content: center;
+    }
 
     .dropdown-label:not(:focus):not(:focus-within)
       + .dropdown-menu:not(:focus):not(:focus-within) {
@@ -108,10 +104,10 @@ header {
 
     .dropdown-menu {
       scroll-margin: 1rem;
-      position: absolute;
       top: calc(100% - 0.5rem);
       max-width: calc(100% + 2rem);
       min-width: 8rem;
+      box-sizing: border-box;
 
       .dropdown-item {
         word-wrap: break-word;
@@ -125,6 +121,35 @@ header {
         }
       }
     }
+  }
+}
+
+ul {
+  list-style-type: none;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.infoMenu {
+  top: 6rem;
+}
+
+.sideMenu {
+  position: fixed;
+  height: 100vh;
+  width: 20rem;
+  max-width: calc(100vw - 2rem);
+  top: 0;
+  right: 0;
+  background-color: #fff;
+  transition: right 500ms ease;
+}
+
+.sideMenuWrapper {
+  > .btn:not(:focus):not(:focus-within)
+    + .sideMenu:not(:focus):not(:focus-within) {
+      right: -100%;
   }
 }
 

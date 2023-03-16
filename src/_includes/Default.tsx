@@ -1,8 +1,5 @@
-import Base from "../_components/Base.tsx";
-import SideBar from "../_components/SideBar.tsx";
-
 export default ({ title, children, date, ...props }) => (
-  <Base title={title} {...props} >
+  <props.comp.Base title={title} {...props} >
     <div class="container">
       <div class="row my-4 mx-2">
         <div v-else class="card col-xl-8 p-4">
@@ -13,12 +10,14 @@ export default ({ title, children, date, ...props }) => (
               day: "numeric",
             })}
           </span>
-          {children}
+          <section class="markdown">
+            {children}
+          </section>
         </div>
-        <div class="col-xl-4 p-4">
-          <SideBar />
+        <div class="d-none d-xl-block col-4 p-4">
+          <props.comp.InfoMenu {...props} />
         </div>
       </div>
     </div>
-  </Base>
+  </props.comp.Base>
 );

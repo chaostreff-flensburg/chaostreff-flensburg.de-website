@@ -7,6 +7,14 @@ export default ({ title, children, ...props }) => (
       <meta name="robots" content="index, follow" />
       <meta name="author" content="Chaostreff Flensburg e.V." />
       <meta name="publisher" content="Chaostreff Flensburg e.V." />
+      <meta
+        name="description"
+        content={
+          props.excerpt
+            ? props.excerpt
+            : "Der Chaostreff Flensburg e.V. ist die Anlaufstelle für alle technikbegeisterten Nerds im Raum Flensburg und Umgebung. In unserem Raum, Space steht moderne Technik zum Kennenlernen und Ausprobieren bereit."
+        }
+      />
 
       <link rel="stylesheet" href="/bootstrap.css"></link>
       <link rel="stylesheet" href="/code.css"></link>
