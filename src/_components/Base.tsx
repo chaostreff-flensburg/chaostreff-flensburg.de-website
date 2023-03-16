@@ -33,7 +33,7 @@ export default ({ title, children, ...props }) => (
           {children}
         </main>
 
-        <footer class="footer my-3 container">
+        <footer class="footer my-3 container mx-auto">
           <props.comp.Footer {...props} />
         </footer>
       </section>

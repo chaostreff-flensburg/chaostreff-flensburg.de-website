@@ -1,3 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  display: block;
+  cursor: pointer;
+}
+
 .btn-shadow {
   padding: 0.2rem 0.5rem;
   width: fit-content;
@@ -57,31 +66,6 @@ figure.wp-block-image img {
   height: auto;
 }
 
-.logo {
-  height: 3.5rem;
-}
-
-a {
-  color: inherit;
-  text-decoration: inherit;
-}
-
-.text-smaller {
-  font-size: 0.6rem;
-}
-.text-small {
-  font-size: 0.8rem;
-}
-.text-normal {
-  font-size: 1rem;
-}
-.text-big {
-  font-size: 1.2rem;
-}
-.text-bigger {
-  font-size: 1.4rem;
-}
-
 header {
   .dropdown {
     &.dropdown-header {
@@ -110,6 +94,8 @@ header {
       box-sizing: border-box;
 
       .dropdown-item {
+        display: block;
+        padding: 0.3rem 0.5rem;
         word-wrap: break-word;
         white-space: normal;
         &:not(:last-child) {
@@ -183,12 +169,47 @@ space-status {
     color: #0369a1;
   }
   ul {
-    margin: 0.5rem;
+    margin: 0.5rem 0.5rem 0.5rem 1.5rem;
     list-style-type: disc;
     list-style: disc;
-    list-style-position: inside;
     ul {
       margin: 0 1rem;
     }
+  }
+
+  h1, h2, h3, h4 {
+    margin-top: .4em;
+    margin-bottom: .2em;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+    font-weight: 400;
+  }
+  h2 {
+    font-size: 1.6rem;
+    font-weight: 400;
+  }
+  h3 {
+    font-size: 1.2rem;
+    font-weight: 400;
+  }
+  h4 {
+    font-size: 1rem;
+    font-weight: 600;
+  }
+}
+
+.pagination {
+  display: flex;
+  width: fit-content;
+  box-shadow: 0.4rem 0.3rem #333;
+  .page-item {
+    display: block;
+  }
+  .page-link {
+    @apply px-3 py-1;
+    border: 1px solid #444;
+    background-color: #eee;
   }
 }
