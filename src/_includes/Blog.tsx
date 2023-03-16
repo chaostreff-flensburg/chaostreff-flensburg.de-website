@@ -3,7 +3,7 @@ export default ({ title, children, ...props }) => (
     <div class="container">
       <div class="row my-4 mx-2">
         <div class="col-xl-8">
-          <section class="markdown">
+          <section>
             {children}
           </section>
         </div>
