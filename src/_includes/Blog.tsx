@@ -1,7 +1,7 @@
 export default ({ title, children, ...props }) => (
   <props.comp.Base title={title} {...props} >
     <div class="container mx-auto">
-      <div class="flex my-4 mx-2">
+      <div class="flex m-4">
         <div class="w-full xl:w-3/4 p-4">
           <section>
             {children}
