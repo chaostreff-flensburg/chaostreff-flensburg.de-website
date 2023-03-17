@@ -16,7 +16,6 @@ export default ({ title, children, ...props }) => (
         }
       />
 
-      <link rel="stylesheet" href="/bootstrap.css" />
       <link rel="stylesheet" href="/code.css" />
       <link rel="stylesheet" href="/main.css" />
       <script defer src="/main.js" />

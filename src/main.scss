@@ -16,7 +16,8 @@
 }
 
 .btn-shadow:hover,
-.btn-shadow:focus {
+.btn-shadow:focus,
+.btn-shadow:focus-visible {
   box-shadow: 0.5rem 0.4rem #333;
 }
 .btn-shadow:active {
@@ -68,6 +69,10 @@ figure.wp-block-image img {
 
 header {
   .dropdown {
+    display: flex;
+    justify-content: center;
+    position: relative;
+
     &.dropdown-header {
       display: flex;
       justify-content: center;
@@ -87,11 +92,12 @@ header {
     }
 
     .dropdown-menu {
-      scroll-margin: 1rem;
       top: calc(100% - 0.5rem);
       max-width: calc(100% + 2rem);
       min-width: 8rem;
       box-sizing: border-box;
+      position: absolute;
+      background-color: #fff;
 
       .dropdown-item {
         display: block;
@@ -102,7 +108,7 @@ header {
           border-bottom: 1px solid #444;
         }
         &:focus {
-          outline: 2px solid #444;
+          outline: 4px solid #444;
           border: none;
         }
       }
@@ -126,6 +132,7 @@ ul {
     + .sideMenu:not(:focus):not(:focus-within) {
     right: -100%;
   }
+
   .sideMenu {
     position: fixed;
     height: 100vh;
@@ -135,8 +142,13 @@ ul {
     right: 0;
     background-color: #fff;
     transition: right 500ms ease;
-    .dropdown-menu {
-      position: relative;
+
+    .dropdown {
+      display: block;
+
+      .dropdown-menu {
+        position: relative;
+      }
     }
   }
 }
@@ -177,9 +189,12 @@ space-status {
     }
   }
 
-  h1, h2, h3, h4 {
-    margin-top: .4em;
-    margin-bottom: .2em;
+  h1,
+  h2,
+  h3,
+  h4 {
+    margin-top: 0.4em;
+    margin-bottom: 0.2em;
   }
 
   h1 {
@@ -204,9 +219,11 @@ space-status {
   display: flex;
   width: fit-content;
   box-shadow: 0.4rem 0.3rem #333;
+
   .page-item {
     display: block;
   }
+
   .page-link {
     @apply px-3 py-1;
     border: 1px solid #444;
