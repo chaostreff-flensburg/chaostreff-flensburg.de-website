@@ -27,10 +27,6 @@ site
   .remoteFile(
     "./code.css",
     "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/styles/github.min.css",
-  )
-  .remoteFile(
-    "./bootstrap.css",
-    "https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css",
   );
 
 export default site;
