@@ -213,6 +213,14 @@ space-status {
     font-size: 1rem;
     font-weight: 600;
   }
+
+  img {
+    @apply my-2;
+  }
+
+  p {
+    @apply my-2;
+  }
 }
 
 .pagination {
