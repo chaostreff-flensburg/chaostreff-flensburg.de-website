@@ -14,7 +14,7 @@ export default ({ ...props }) => (
         </ul>
         <div class="xl:hidden sideMenuWrapper" tabindex="0">
           <button class="btn btn-outline-dark btn-shadow">Menü</button>
-          <nav class="sideMenu shadow p-3">
+          <nav class="sideMenu shadow p-3 overflow-y-auto">
             <section>
               <space-status />
               <b class="text-lg my-2"><strong>Menü</strong></b>
