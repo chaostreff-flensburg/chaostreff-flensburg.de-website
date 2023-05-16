@@ -36,4 +36,3 @@ imgUrl: /./media/blog/43866976531_f3b85d1d52_o.jpg
 [2] = <a href="https://de.wikipedia.org/wiki/Raspberry_Pi">https://de.wikipedia.org/wiki/Raspberry_Pi</a><br />
 [3] = <a href="https://calliope.cc/">https://calliope.cc/</a><br />
 [4] = <a href="https://calliope.cc/los-geht-s/editor">https://calliope.cc/los-geht-s/editor</a></p>
-

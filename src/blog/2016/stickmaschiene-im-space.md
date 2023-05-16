@@ -15,4 +15,3 @@ Für den Verein ist diese Maschine eine super Ergänzung zu der vorhandenen Sieb
 Geplant haben wir Batches, dir man sich auf den Vereins-Hoody Stickt.<br />
 So kann jeder schnell sehen wer an welchem Workshop, Kurs, usw. teilgenommen hat und wer einem bei was helfen kann.</p>
 <p>Heute haben wir uns noch einmal ausführlich über die verschiedenen Modelle, Garne, Farben, Fäden und Software informiert. Jetzt geht’s ans bestellen und bald werden wir den ersten Workshop zum Thema anbieten.</p>
-

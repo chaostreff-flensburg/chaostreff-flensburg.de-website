@@ -8,9 +8,11 @@ tags:
 
 # Hacks on the Beach 2021
 
-**Das Hacks on the Beach wird auch 2021 aufgrund der aktuellen Situation bezüglich Covid-19 nicht stattfinden.**
+**Das Hacks on the Beach wird auch 2021 aufgrund der aktuellen Situation
+bezüglich Covid-19 nicht stattfinden.**
 
-Aber wir können schon mit stolz den Termin fürs #HotB2022, direkt an der Flensburger Förde, fürs Jahr 2022 verkünden:
+Aber wir können schon mit stolz den Termin fürs #HotB2022, direkt an der
+Flensburger Förde, fürs Jahr 2022 verkünden:
 
 **09.09.2021 bis 11.09.2021.**
 

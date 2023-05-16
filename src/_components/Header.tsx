@@ -17,7 +17,9 @@ export default ({ ...props }) => (
           <nav class="sideMenu shadow p-3 overflow-y-auto">
             <section>
               <space-status />
-              <b class="text-lg my-2"><strong>Menü</strong></b>
+              <b class="text-lg my-2">
+                <strong>Menü</strong>
+              </b>
               <ul class="flex flex-col">
                 <props.comp.HeaderMenuItems {...props} />
               </ul>

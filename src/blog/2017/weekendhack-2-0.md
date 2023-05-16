@@ -28,4 +28,3 @@ date: "2017-08-14T16:32:04.000Z"
 <p><span style="font-weight: 400;">Zum Schluss möchten wir uns nochmal bei all denen bedanken, die vor, während und nach dem WeekendHack geholfen haben. Ohne euch wäre das nicht möglich gewesen! Vielen Dank auch an die WIREG, welche uns ihre Räume zur Verfügung gestellt hat (und eine Menge Vertrauen in eine Gruppe Chaoten gesetzt hat)! &nbsp;Zuletzt gilt unser Dank noch der Firma MAC-IT, welche uns ihr Sammelsurium diverser Sitzsäcke über das Wochenende gestellt hat.. </span></p>
 <p><span style="font-weight: 400;">Mehr Bilder von der Veranstaltung findet ihr auf dem Twitter-Account </span><a href="http://twitter.com/chaos_fl"><span style="font-weight: 400;">@chaos_fl</span></a><span style="font-weight: 400;"> und auf Instagram:</span></p>
 <p><a href="https://www.instagram.com/chaos_fl/"><span style="font-weight: 400;">https://www.instagram.com/chaos_fl/</span></a></p>
-

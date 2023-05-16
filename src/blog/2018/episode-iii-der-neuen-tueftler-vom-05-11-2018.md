@@ -16,4 +16,3 @@ imgUrl: /./media/blog/DrRFqcyWwAIal2O-1.jpg
 Es wurden Roboter gebaut und Multi Channel Fernbedienung programmiert. Dazu gibt es bald einen Bericht von der <a href="https://twitter.com/Flensborg_Avis?ref_src=twsrc%5Etfw">@Flensborg_Avis</a> <a href="https://t.co/OAkdHQtkx2">pic.twitter.com/OAkdHQtkx2</a></p>
 <p>— Chaostreff Flensburg (@chaos_fl) <a href="https://twitter.com/chaos_fl/status/1059548432229171200?ref_src=twsrc%5Etfw">5. November 2018</a></p></blockquote>
 <p><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-

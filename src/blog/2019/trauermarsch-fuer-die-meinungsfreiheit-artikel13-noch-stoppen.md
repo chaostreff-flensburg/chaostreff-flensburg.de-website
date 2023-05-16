@@ -9,30 +9,17 @@ date: "2019-03-30T09:59:10.000Z"
 
 # Trauermarsch für die Meinungsfreiheit &#8211; #Artikel13 noch stoppen!
 
-
 <figure class="wp-block-image"><img decoding="async" loading="lazy" width="960" height="540" src="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/56247768_1057636994433982_5057103307030396928_n.jpg" alt="" class="wp-image-945" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/56247768_1057636994433982_5057103307030396928_n.jpg 960w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/56247768_1057636994433982_5057103307030396928_n-300x169.jpg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/56247768_1057636994433982_5057103307030396928_n-768x432.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/56247768_1057636994433982_5057103307030396928_n-889x500.jpg 889w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
-
-
 
 <p>Am 09.04. soll der Europäische Rat die abgestimmte Version der neuen Urheberrechtsreform final bestätigen und damit auch die Artikel 11, 12 &amp; 13. Wir drücken bereits jetzt unsere Trauer aus und laden zum Trauermarsch. <a href="https://chaostreff-flensburg.de/2019/saveyourinternet-demo-gegen-artikel-11-13/">Mehr Informationen zur letzten Demonstration findest du hier.</a></p>
 
-
-
 <p><strong>Wann:</strong> am 06.04.19 ab 15:00 Uhr <br><strong>Wo:</strong> An der Hafenspitze (Am Kanalschuppen 1, Flensburg)<br>Die Feierlichkeiten sind offen für Alle. Wir bitten um dunkle Bekleidung.</p>
-
-
 
 <h3><strong>Leichenschmaus</strong></h3>
 
-
-
 <p>Im Anschluss wird es noch in den Räumlichkeiten des Chaostreff Flensburg e.V einen Leichenschmaus geben. Alle Trauergäste sind herzlich eingeladen. Es wird Kuchen, Getränke &amp; Kaffee geben.</p>
 
-
-
 <h2>Bilder vom Trauermarsch</h2>
-
-
 
 <!-- index.php -->
 <div
@@ -41,11 +28,11 @@ date: "2019-03-30T09:59:10.000Z"
 
     	<div class="slideshowlink">
         <a href='https://chaostreff-flensburg.de/2019/trauermarsch-fuer-die-meinungsfreiheit-artikel13-noch-stoppen/nggallery/slideshow?per_page=100'>[Zeige eine Slideshow]</a>
-		
-	</div>
-			<!-- Thumbnails -->
-				<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    	
+    </div>
+    		<!-- Thumbnails -->
+    			<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/DSC6431.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/DSC6431.JPG"
@@ -65,11 +52,11 @@ date: "2019-03-30T09:59:10.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/DSC6422.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/DSC6422.JPG"
@@ -89,11 +76,11 @@ date: "2019-03-30T09:59:10.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/DSC6421.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/DSC6421.JPG"
@@ -113,11 +100,11 @@ date: "2019-03-30T09:59:10.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/DSC6418.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/DSC6418.JPG"
@@ -137,11 +124,11 @@ date: "2019-03-30T09:59:10.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/20190406-154328-5R8A8992.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/20190406-154328-5R8A8992.jpg"
@@ -161,11 +148,11 @@ date: "2019-03-30T09:59:10.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/20190406-150918-5R8A8959.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/20190406-150918-5R8A8959.jpg"
@@ -185,11 +172,11 @@ date: "2019-03-30T09:59:10.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-6" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-6" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/20190406-150333-5R8A8953.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/20190406-150333-5R8A8953.jpg"
@@ -209,11 +196,11 @@ date: "2019-03-30T09:59:10.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-7" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-7" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/20190406-145859-5R8A8939.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/20190406-145859-5R8A8939.jpg"
@@ -233,11 +220,11 @@ date: "2019-03-30T09:59:10.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-8" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-8" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/20190406-145838-5R8A8935.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/20190406-145838-5R8A8935.jpg"
@@ -257,11 +244,11 @@ date: "2019-03-30T09:59:10.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-9" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-9" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/20190406-145825-5R8A8934.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/20190406-145825-5R8A8934.jpg"
@@ -281,11 +268,11 @@ date: "2019-03-30T09:59:10.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-10" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-10" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/IMG_20190406_155451.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/bilder-trauermarsch/IMG_20190406_155451.jpg"
@@ -305,11 +292,9 @@ date: "2019-03-30T09:59:10.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-		
-		<!-- Pagination -->
-	<div class='ngg-clear'></div>	</div>
-
-
+    	
+    	<!-- Pagination -->
+    <div class='ngg-clear'></div>	</div>

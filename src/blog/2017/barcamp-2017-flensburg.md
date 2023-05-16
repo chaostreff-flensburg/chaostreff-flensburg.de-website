@@ -22,11 +22,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
 
     	<div class="slideshowlink">
         <a href='https://chaostreff-flensburg.de/2017/barcamp-2017-flensburg/nggallery/slideshow?per_page=100'>&#091;Zeige eine Slideshow&#093;</a>
-		
-	</div>
-			<!-- Thumbnails -->
-				<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    	
+    </div>
+    		<!-- Thumbnails -->
+    			<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9543.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9543.JPG"
@@ -46,11 +46,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9649.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9649.JPG"
@@ -70,11 +70,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9646.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9646.JPG"
@@ -94,11 +94,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9645.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9645.JPG"
@@ -118,12 +118,12 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                                     <br style="clear: both" />
                     
-				<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9635.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9635.JPG"
@@ -143,11 +143,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9623.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9623.JPG"
@@ -167,11 +167,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-6" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-6" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9605.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9605.JPG"
@@ -191,11 +191,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-7" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-7" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9604.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9604.JPG"
@@ -215,12 +215,12 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                                     <br style="clear: both" />
                     
-				<div id="ngg-image-8" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-8" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9600.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9600.JPG"
@@ -240,11 +240,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-9" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-9" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9587.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9587.JPG"
@@ -264,11 +264,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-10" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-10" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9586-1.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9586-1.JPG"
@@ -288,11 +288,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-11" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-11" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9582.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9582.JPG"
@@ -312,12 +312,12 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                                     <br style="clear: both" />
                     
-				<div id="ngg-image-12" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-12" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9581.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9581.JPG"
@@ -337,11 +337,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-13" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-13" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9570.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9570.JPG"
@@ -361,11 +361,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-14" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-14" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9565.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9565.JPG"
@@ -385,11 +385,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-15" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-15" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9564.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9564.JPG"
@@ -409,12 +409,12 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                                     <br style="clear: both" />
                     
-				<div id="ngg-image-16" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-16" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_Batch.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_Batch.jpg"
@@ -434,11 +434,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-17" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-17" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9538.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9538.JPG"
@@ -458,11 +458,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-18" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-18" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9535.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9535.JPG"
@@ -482,11 +482,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-19" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-19" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9516.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9516.JPG"
@@ -506,12 +506,12 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                                     <br style="clear: both" />
                     
-				<div id="ngg-image-20" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-20" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9514.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9514.JPG"
@@ -531,11 +531,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-21" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-21" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9503.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9503.JPG"
@@ -555,11 +555,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-22" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-22" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9501.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9501.JPG"
@@ -579,11 +579,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-23" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-23" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9490.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9490.JPG"
@@ -603,12 +603,12 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                                     <br style="clear: both" />
                     
-				<div id="ngg-image-24" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-24" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9481.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9481.JPG"
@@ -628,11 +628,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-25" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-25" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9479.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9479.JPG"
@@ -652,11 +652,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-26" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-26" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9476.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9476.JPG"
@@ -676,11 +676,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-27" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-27" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9472.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9472.JPG"
@@ -700,12 +700,12 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                                     <br style="clear: both" />
                     
-				<div id="ngg-image-28" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-28" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9465.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9465.JPG"
@@ -725,11 +725,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-29" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-29" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9462.JPG"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_MG_9462.JPG"
@@ -749,11 +749,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-				<div id="ngg-image-30" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-30" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_LED.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/barcamp17/thumbs_LED.jpg"
@@ -773,11 +773,11 @@ Mit einer Reihe von Talks, Vorträgen, bereicherten die Hacker des Clubs die Tag
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
                             
-		
-		<!-- Pagination -->
-	<div class='ngg-clear'></div>	</div>
-</p>
+    	
+    	<!-- Pagination -->
+    <div class='ngg-clear'></div>	</div>
 
+</p>

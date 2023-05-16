@@ -9,26 +9,15 @@ date: "2019-03-12T19:45:04.000Z"
 
 # SaveYourInternet: Demo gegen Artikel 11, 12 &#038; 13
 
-
 <figure class="wp-block-image"><img decoding="async" loading="lazy" width="842" height="596" src="https://chaostreff-flensburg.de/wp-content/uploads/2019/03/53910551_1044679469063068_3358152018693718016_n.jpg" alt="" class="wp-image-878" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/03/53910551_1044679469063068_3358152018693718016_n.jpg 842w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/53910551_1044679469063068_3358152018693718016_n-300x212.jpg 300w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/53910551_1044679469063068_3358152018693718016_n-768x544.jpg 768w, https://chaostreff-flensburg.de/wp-content/uploads/2019/03/53910551_1044679469063068_3358152018693718016_n-706x500.jpg 706w" sizes="(max-width: 842px) 100vw, 842px" /></figure>
-
-
 
 <p>Filter sind für den Kaffee, nicht fürs Netz. <br>Auch wir demonstrieren am Aktionstag gegen #Artikel13 &amp; 11 der Urheberrechtsreform. Seid dabei:<br><strong>21.03.19 ab 18:00 Uhr Diskussionsrunde &amp; Schilder</strong> basteln im Chaostreff Flensburg, Apenrader Str. 49, 24939 Flensburg<br><strong>23.03.19 ab 14:00 Uhr Demo </strong>an der Hafenspitze Flensburg (Am Kanalschuppen 1, 24937 Flensburg)<br>#SaveYourInternet</p>
 
-
-
 <p>Ihr seid eine Organisation die sich unserem Demobündnis anschließen will? Oder du hast eine Frage? Schreib uns eine kurze <a href="mailto:vorstand@chaostreff-flensburg.de">Mail</a> oder schaut bei uns Dienstags vorbei. </p>
-
-
 
 <h2>Bericht von der Demonstration</h2>
 
-
-
 <p>Rückblickend können wir sagen das die Demo ein voller Erfolg war. Nach unseren eigenen Zählung waren insgesamt 200 Bürger*innen bei der Demo dabei. </p>
-
-
 
 <!-- index.php -->
 <div
@@ -37,11 +26,11 @@ date: "2019-03-12T19:45:04.000Z"
 
     	<div class="slideshowlink">
         <a href='https://chaostreff-flensburg.de/2019/saveyourinternet-demo-gegen-artikel-11-13/nggallery/slideshow?per_page=100'>[Zeige eine Slideshow]</a>
-		
-	</div>
-			<!-- Thumbnails -->
-				<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    	
+    </div>
+    		<!-- Thumbnails -->
+    			<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG-20190323-WA0034.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG-20190323-WA0034.jpg"
@@ -61,11 +50,11 @@ date: "2019-03-12T19:45:04.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG-20190323-WA0042.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG-20190323-WA0042.jpg"
@@ -85,11 +74,11 @@ date: "2019-03-12T19:45:04.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG-20190323-WA0041.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG-20190323-WA0041.jpg"
@@ -109,11 +98,11 @@ date: "2019-03-12T19:45:04.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG-20190323-WA0032.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG-20190323-WA0032.jpg"
@@ -133,11 +122,11 @@ date: "2019-03-12T19:45:04.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG-20190323-WA0014.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG-20190323-WA0014.jpg"
@@ -157,11 +146,11 @@ date: "2019-03-12T19:45:04.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG-20190323-WA0013.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG-20190323-WA0013.jpg"
@@ -181,11 +170,11 @@ date: "2019-03-12T19:45:04.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-6" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-6" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG_20190323_143512.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG_20190323_143512.jpg"
@@ -205,11 +194,11 @@ date: "2019-03-12T19:45:04.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-7" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-7" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG_20190323_142317.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG_20190323_142317.jpg"
@@ -229,11 +218,11 @@ date: "2019-03-12T19:45:04.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-8" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-8" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG_20190323_140127.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG_20190323_140127.jpg"
@@ -253,11 +242,11 @@ date: "2019-03-12T19:45:04.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-9" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-9" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG_20190323_143351.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/demo-eu-urheberrechtsreform/IMG_20190323_143351.jpg"
@@ -277,11 +266,9 @@ date: "2019-03-12T19:45:04.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-		
-		<!-- Pagination -->
-	<div class='ngg-clear'></div>	</div>
-
-
+    	
+    	<!-- Pagination -->
+    <div class='ngg-clear'></div>	</div>

@@ -28,4 +28,3 @@ imgUrl: /./media/blog/17880500_648943498636669_2074332347741127367_o.jpg
 <div class="ace-line">&nbsp;</div>
 <div class="ace-line">Wir sind ab jetzt auch Instagram vertreten. Dort findet ihr noch weitere Bilder vom WeekendHack.</div>
 <div class="ace-line"><a href="https://www.instagram.com/chaos_fl/">https://www.instagram.com/chaos_fl/</a></div>
-

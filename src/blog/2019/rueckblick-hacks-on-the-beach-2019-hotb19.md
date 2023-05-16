@@ -9,22 +9,13 @@ date: "2019-10-13T11:38:06.000Z"
 
 # Rückblick Hacks on the Beach 2019 #hotb19
 
-
 <figure class="wp-block-video"><video controls src="https://chaostreff-flensburg.de/wp-content/uploads/2019/10/rundflug-strandpavillion-nicht-lizensfrei.mp4"></video></figure>
-
-
 
 <p>Knapp 4 Tagen lang konnte sich die insgesamt 100 Teilnehmer des Hacks on the Beach 2019 im Strandpavillion Solitüde austoben. Neben der großartigen Aussicht auf die Flensburger Förde, gab es viele&nbsp;verschiedene&nbsp;Projekte, Vorträge und Workshops zu unterschiedlichen Themen rund um Technik. Besonders hat es uns gefreut, dass auch viele Nicht-Flensburger zu&nbsp;Besuch&nbsp;waren und wir so die Möglichkeiten hatten Projekte und Menschen aus der Region vorzustellen, sich auszutauschen und zu vernetzen.</p>
 
-
-
 <p>Wir möchten uns auch bei folgenden Firmen und Institutionen bedanken, welche das Hacks on the Beach 2019 unterstützt haben:</p>
 
-
-
 <ul><li>Land Schleswig-Holstein. Der Echte Norden.</li><li><a href="https://www.2wcom.com/">2wcom Systems GmbH</a></li><li><a href="https://www.visuellverstehen.de">visuellverstehen GmbH</a></li><li><a href="https://www.stadtwerke-flensburg.de/">Stadtwerke Flensburg GmbH</a></li></ul>
-
-
 
 <!-- index.php -->
 <div
@@ -33,11 +24,11 @@ date: "2019-10-13T11:38:06.000Z"
 
     	<div class="slideshowlink">
         <a href='https://chaostreff-flensburg.de/2019/rueckblick-hacks-on-the-beach-2019-hotb19/nggallery/slideshow?per_page=100'>[Zeige eine Slideshow]</a>
-		
-	</div>
-			<!-- Thumbnails -->
-				<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    	
+    </div>
+    		<!-- Thumbnails -->
+    			<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/Bild-von-iOS-3.jpg"
                title="DCIM/104MEDIA/DJI_0022.JPG"
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/Bild-von-iOS-3.jpg"
@@ -57,11 +48,11 @@ date: "2019-10-13T11:38:06.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/Bild-von-iOS-2.jpg"
                title="DCIM/104MEDIA/DJI_0025.JPG"
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/Bild-von-iOS-2.jpg"
@@ -81,11 +72,11 @@ date: "2019-10-13T11:38:06.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/Bild-von-iOS-1.jpg"
                title="DCIM/104MEDIA/DJI_0019.JPG"
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/Bild-von-iOS-1.jpg"
@@ -105,11 +96,11 @@ date: "2019-10-13T11:38:06.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/Bild-von-iOS.jpg"
                title="DCIM/104MEDIA/DJI_0021.JPG"
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/Bild-von-iOS.jpg"
@@ -129,11 +120,11 @@ date: "2019-10-13T11:38:06.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/Bildschirmfoto-von-2019-10-13-13-28-50.png"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/Bildschirmfoto-von-2019-10-13-13-28-50.png"
@@ -153,11 +144,11 @@ date: "2019-10-13T11:38:06.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/WhatsApp-Image-2019-10-13-at-19.13.00-2.jpeg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/WhatsApp-Image-2019-10-13-at-19.13.00-2.jpeg"
@@ -177,11 +168,11 @@ date: "2019-10-13T11:38:06.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-6" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-6" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/WhatsApp-Image-2019-10-13-at-19.13.00-1.jpeg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/WhatsApp-Image-2019-10-13-at-19.13.00-1.jpeg"
@@ -201,11 +192,11 @@ date: "2019-10-13T11:38:06.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-7" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-7" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/WhatsApp-Image-2019-10-13-at-19.13.00.jpeg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/WhatsApp-Image-2019-10-13-at-19.13.00.jpeg"
@@ -225,11 +216,11 @@ date: "2019-10-13T11:38:06.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-8" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-8" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/WhatsApp-Image-2019-10-13-at-19.12.48.jpeg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2019-hotb19/WhatsApp-Image-2019-10-13-at-19.12.48.jpeg"
@@ -249,19 +240,13 @@ date: "2019-10-13T11:38:06.000Z"
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-		
-		<!-- Pagination -->
-	<div class='ngg-clear'></div>	</div>
-
-
-
+    	
+    	<!-- Pagination -->
+    <div class='ngg-clear'></div>	</div>
 
 <p>Luftaufnahmen: Bilder, Video und Bildrechte von <a href="https://www.instagram.com/martinmoerke/">Martin Moerke</a><br></p>
 
-
-
 <figure class="wp-block-image"><img decoding="async" loading="lazy" width="600" height="330" src="https://chaostreff-flensburg.de/wp-content/uploads/2019/10/hotb19-anbaden.gif" alt="" class="wp-image-1413"/><figcaption>Natürlich durfte der Badespaß auch im Oktober nicht fehlen.</figcaption></figure>
-

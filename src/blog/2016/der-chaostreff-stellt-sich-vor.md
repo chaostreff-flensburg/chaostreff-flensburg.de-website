@@ -20,4 +20,3 @@ date: "2016-07-27T18:26:13.000Z"
 <p><span style="font-weight: 400;">Ebenfalls gab es einen Stand, an dem sich Jung und Alt an verschiedener Elektronik ausprobieren konnte. Den ganzen Tag über haben wir über 30 Drawbots gebaut und konnten so die Faszination der Elektronik weitergeben. Kurz gesagt ist ein Drawbot ein Roboter, der auf Filzstiften steht und sich mithilfe eines Elektromotors bewegt und so Muster auf Papier malt.</span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">Generell können wir sagen, dass sich der Tag gelohnt hat! Deswegen gibt es auch eine Wiederholung am 27. August. Wir werden gegen Mittag anfangen. Das Angebot wird ähnlich sein und sobald es feststeht, bekannt gegeben. Falls ihr euch all das nochmal ansehen wollt, gibt es jeden Dienstag unser “Open Space” Treffen, wo ihr ab 19:00 einfach vorbeikommen könnt! </span></p>
-

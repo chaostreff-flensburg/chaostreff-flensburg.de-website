@@ -9,9 +9,7 @@ date: "2018-10-12T07:08:57.000Z"
 
 # Cyber, Sand und Strand beim `Hacks On The Beach`
 
-
 <figure class="wp-block-image"><img decoding="async" loading="lazy" width="705" height="500" src="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/hotb-postkarte-web@3x-705x500.png" alt="" class="wp-image-1038" srcset="https://chaostreff-flensburg.de/wp-content/uploads/2019/04/hotb-postkarte-web@3x-705x500.png 705w, https://chaostreff-flensburg.de/wp-content/uploads/2019/04/hotb-postkarte-web@3x-705x500-300x213.png 300w" sizes="(max-width: 705px) 100vw, 705px" /></figure>
-
 
 <h3>Chaostreff Flensburg veranstaltete Deutschlands nördlichsten Hackathon im Strandpavillion Solitüde.</h3>
 <p>Wenn sich rund 60 Technikbegeisterte, Computerfreaks und Bastler für ein Wochenende treffen, hat man schon ein bestimmtes Bild vor Augen: Nerds und Nerdinnen, in schwarze Kapuzenpullover gekleidet, schweigend auf ihren Rechner starrend. Dunkle Räume, komplizierte Fachgespräche und seitenweise Code.</p>
@@ -67,7 +65,6 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
 </blockquote>
 <p><script async="" src="//www.instagram.com/embed.js"></script></p>
 
-
 <!-- index.php -->
 <div
 	class="ngg-galleryoverview ngg-ajax-pagination-none"
@@ -75,11 +72,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
 
     	<div class="slideshowlink">
         <a href='https://chaostreff-flensburg.de/2018/cyber-sand-und-strand-beim-hacks-on-the-beach/nggallery/slideshow?per_page=100'>[Zeige eine Slideshow]</a>
-		
-	</div>
-			<!-- Thumbnails -->
-				<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    	
+    </div>
+    		<!-- Thumbnails -->
+    			<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180929_093411.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180929_093411.jpg"
@@ -99,11 +96,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180930_014538_HHT.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180930_014538_HHT.jpg"
@@ -123,11 +120,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180930_014535_HHT.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180930_014535_HHT.jpg"
@@ -147,11 +144,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180930_014551_HHT.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180930_014551_HHT.jpg"
@@ -171,11 +168,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180929_143201.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180929_143201.jpg"
@@ -195,11 +192,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180929_223248.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180929_223248.jpg"
@@ -219,11 +216,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-6" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-6" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180928_212221_HHT.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180928_212221_HHT.jpg"
@@ -243,11 +240,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-7" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-7" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180929_120103.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180929_120103.jpg"
@@ -267,11 +264,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-8" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-8" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180929_172209.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180929_172209.jpg"
@@ -291,11 +288,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-9" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-9" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180929_114715.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180929_114715.jpg"
@@ -315,11 +312,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-10" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-10" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180930_150406.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180930_150406.jpg"
@@ -339,11 +336,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-11" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-11" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180928_140737.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180928_140737.jpg"
@@ -363,11 +360,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-12" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-12" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180926_161010.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180926_161010.jpg"
@@ -387,11 +384,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-13" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-13" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180927_124754.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180927_124754.jpg"
@@ -411,11 +408,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-14" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-14" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180928_101829.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180928_101829.jpg"
@@ -435,11 +432,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-15" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-15" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180927_114059.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180927_114059.jpg"
@@ -459,11 +456,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-16" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-16" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180927_104825.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180927_104825.jpg"
@@ -483,11 +480,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-17" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-17" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180926_173639.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180926_173639.jpg"
@@ -507,11 +504,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-18" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-18" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180927_104815.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180927_104815.jpg"
@@ -531,11 +528,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-19" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-19" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180926_142817.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180926_142817.jpg"
@@ -555,11 +552,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-20" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-20" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180925_182140.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180925_182140.jpg"
@@ -579,11 +576,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-21" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-21" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180928_143406.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180928_143406.jpg"
@@ -603,11 +600,11 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-22" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-22" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180927_104807.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/hacks-on-the-beach-2018/IMG_20180927_104807.jpg"
@@ -627,11 +624,9 @@ Für Spiel, Spaß und Abwechslung sorgte ein gemeinsames Tetrisduell auf der Lei
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-		
-		<!-- Pagination -->
-	<div class='ngg-clear'></div>	</div>
-
-
+    	
+    	<!-- Pagination -->
+    <div class='ngg-clear'></div>	</div>
