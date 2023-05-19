@@ -15,17 +15,17 @@ export default () => (
       <li>
         <a
           class="btn btn-outline-dark btn-shadow m-2"
-          href="https://twitter.com/chaos_fl"
+          href="https://chaos.social/@chaos_fl"
         >
-          Twitter
+          Mastodon @chaos_fl@chaos.social
         </a>
       </li>
       <li>
         <a
           class="btn btn-outline-dark btn-shadow m-2"
-          href="https://www.facebook.com/chaos.flensburg"
+          href="https://twitter.com/chaos_fl"
         >
-          Facebook
+          Twitter
         </a>
       </li>
       <li>
