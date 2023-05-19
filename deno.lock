@@ -459,7 +459,7 @@
       "postcss-import@15.1.0": "postcss-import@15.1.0_postcss@8.4.21",
       "postcss-nesting@11.2.1": "postcss-nesting@11.2.1_postcss@8.4.21_postcss-selector-parser@6.0.11",
       "postcss@8.4.21": "postcss@8.4.21",
-      "preact": "preact@10.13.0",
+      "preact": "preact@10.13.2",
       "preact-render-to-string@5.2.6": "preact-render-to-string@5.2.6_preact@10.12.1",
       "preact@10.12.1": "preact@10.12.1",
       "react-dom@18.2.0": "react-dom@18.2.0_react@18.2.0",
@@ -522,7 +522,7 @@
           "postcss": "postcss@8.4.21",
           "postcss-import": "postcss-import@14.1.0_postcss@8.4.21",
           "postcss-js": "postcss-js@4.0.1_postcss@8.4.21",
-          "postcss-load-config": "postcss-load-config@3.1.4",
+          "postcss-load-config": "postcss-load-config@3.1.4_postcss@8.4.21",
           "postcss-nested": "postcss-nested@6.0.0_postcss@8.4.21",
           "postcss-selector-parser": "postcss-selector-parser@6.0.11",
           "postcss-value-parser": "postcss-value-parser@4.2.0",
@@ -661,7 +661,7 @@
         "integrity": "sha512-49vKpMqcZYsJjwotvt4+h/BCjJVnhGwcLpDt5xkcaOG3eLrG/HUYLagrihYsQ+qrIBgIzX1Rw7a6L8I/ZA1Atg==",
         "dependencies": {
           "browserslist": "browserslist@4.21.5",
-          "caniuse-lite": "caniuse-lite@1.0.30001462",
+          "caniuse-lite": "caniuse-lite@1.0.30001460",
           "fraction.js": "fraction.js@4.2.0",
           "normalize-range": "normalize-range@0.1.2",
           "picocolors": "picocolors@1.0.0",
@@ -686,8 +686,8 @@
       "browserslist@4.21.5": {
         "integrity": "sha512-tUkiguQGW7S3IhB7N+c2MV/HZPSCPAAiYBZXLsBhFB/PCy6ZKKsZrmBayHV9fdGV/ARIfJ14NkxKzRDjvp7L6w==",
         "dependencies": {
-          "caniuse-lite": "caniuse-lite@1.0.30001462",
-          "electron-to-chromium": "electron-to-chromium@1.4.324",
+          "caniuse-lite": "caniuse-lite@1.0.30001460",
+          "electron-to-chromium": "electron-to-chromium@1.4.320",
           "node-releases": "node-releases@2.0.10",
           "update-browserslist-db": "update-browserslist-db@1.0.10_browserslist@4.21.5"
         }
@@ -696,8 +696,8 @@
         "integrity": "sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==",
         "dependencies": {}
       },
-      "caniuse-lite@1.0.30001462": {
-        "integrity": "sha512-PDd20WuOBPiasZ7KbFnmQRyuLE7cFXW2PVd7dmALzbkUXEP46upAuCDm9eY9vho8fgNMGmbAX92QBZHzcnWIqw==",
+      "caniuse-lite@1.0.30001460": {
+        "integrity": "sha512-Bud7abqjvEjipUkpLs4D7gR0l8hBYBHoa+tGtKJHvT2AYzLp1z7EmVkUT4ERpVUfca8S2HGIVs883D8pUH1ZzQ==",
         "dependencies": {}
       },
       "ccount@2.0.1": {
@@ -781,8 +781,8 @@
         "integrity": "sha512-+HlytyjlPKnIG8XuRG8WvmBP8xs8P71y+SKKS6ZXWoEgLuePxtDoUEiH7WkdePWrQ5JBpE6aoVqfZfJUQkjXwA==",
         "dependencies": {}
       },
-      "electron-to-chromium@1.4.324": {
-        "integrity": "sha512-m+eBs/kh3TXnCuqDF6aHLLRwLK2U471JAbZ1KYigf0TM96fZglxv0/ZFBvyIxnLKsIWUoDiVnHTA2mhYz1fqdA==",
+      "electron-to-chromium@1.4.320": {
+        "integrity": "sha512-h70iRscrNluMZPVICXYl5SSB+rBKo22XfuIS1ER0OQxQZpKTnFpuS6coj7wY9M/3trv7OR88rRMOlKmRvDty7Q==",
         "dependencies": {}
       },
       "entities@3.0.1": {
@@ -1735,7 +1735,7 @@
           "postcss": "postcss@8.4.21"
         }
       },
-      "postcss-load-config@3.1.4": {
+      "postcss-load-config@3.1.4_postcss@8.4.21": {
         "integrity": "sha512-6DiM4E7v4coTE4uzA8U//WhtPwyhiim3eyjEMFCnUpzbrkK9wJHgKDT2mR+HbtSrd/NubVaYTOpSpjUl8NQeRg==",
         "dependencies": {
           "lilconfig": "lilconfig@2.1.0",
@@ -1790,6 +1790,10 @@
       },
       "preact@10.13.0": {
         "integrity": "sha512-ERdIdUpR6doqdaSIh80hvzebHB7O6JxycOhyzAeLEchqOq/4yueslQbfnPwXaNhAYacFTyCclhwkEbOumT0tHw==",
+        "dependencies": {}
+      },
+      "preact@10.13.2": {
+        "integrity": "sha512-q44QFLhOhty2Bd0Y46fnYW0gD/cbVM9dUVtNTDKPcdXSMA7jfY+Jpd6rk3GB0lcQss0z5s/6CmVP0Z/hV+g6pw==",
         "dependencies": {}
       },
       "pretty-format@3.8.0": {
