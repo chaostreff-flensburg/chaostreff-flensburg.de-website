@@ -22,3 +22,4 @@ Mehr zu unserem Jugendtreff: Neue Tüftler:innen findest du [hier](/jugendtreff-
 
 - ~~Einmal im Monat: Jugendtreff Neue Tüftler:innten~~
 - `08. - 10.09.2023` – Hacks on the Harbour in Sonderburg (Dänemark). Mehr Infos auf [hoth.info](https://hoth.info/de/)
+

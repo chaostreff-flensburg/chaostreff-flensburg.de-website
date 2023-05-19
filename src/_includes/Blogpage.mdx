@@ -12,8 +12,8 @@ title: Blog
     <a href={page.data.url}>
       <div class="card my-4 text-black text-decoration-none">
         <div class="card-header">
-          <div class="d-flex justify-content-between">
-            <h2 class="text-big m-0">{page.data.title}</h2>
+          <div class="flex justify-between flex-wrap m-3">
+            <h2 class="text-xl font-medium">{page.data.title}</h2>
             <span>
               {new Date(page.data.date).toLocaleDateString("de-DE", {
                 year: "numeric",
@@ -25,16 +25,16 @@ title: Blog
         </div>
         <div class="card-body">
           {page.data.imgUrl ? (
-            <img class="card-img" src={page.data.imgUrl} />
+            <img class="w-full" src={page.data.imgUrl} />
           ) : null}
-          <div class="card-text">{page.data.excerpt}</div>
+          <div class="m-3">{page.data.excerpt}</div>
         </div>
       </div>
     </a>
   ))}
 </div>
 
-<nav aria-label="Page navigation example">
+<nav>
   <ul class="pagination">
     {page.data.pagination.previous ? (
       <li class="page-item">

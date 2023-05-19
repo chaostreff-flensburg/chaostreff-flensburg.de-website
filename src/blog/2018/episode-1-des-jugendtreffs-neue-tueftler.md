@@ -24,11 +24,11 @@ imgUrl: /./media/blog/Bildschirmfoto-von-2019-01-22-21-44-08.png
 
     	<div class="slideshowlink">
         <a href='https://chaostreff-flensburg.de/2018/episode-1-des-jugendtreffs-neue-tueftler/nggallery/slideshow?per_page=100'>&#091;Zeige eine Slideshow&#093;</a>
-		
-	</div>
-			<!-- Thumbnails -->
-				<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    	
+    </div>
+    		<!-- Thumbnails -->
+    			<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/episode-1-neue-tueftler-03-09-2018/IMG_20180903_163537.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/episode-1-neue-tueftler-03-09-2018/IMG_20180903_163537.jpg"
@@ -48,11 +48,11 @@ imgUrl: /./media/blog/Bildschirmfoto-von-2019-01-22-21-44-08.png
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/episode-1-neue-tueftler-03-09-2018/IMG_20180903_163112.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/episode-1-neue-tueftler-03-09-2018/IMG_20180903_163112.jpg"
@@ -72,11 +72,11 @@ imgUrl: /./media/blog/Bildschirmfoto-von-2019-01-22-21-44-08.png
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/episode-1-neue-tueftler-03-09-2018/IMG_20180903_163101.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/episode-1-neue-tueftler-03-09-2018/IMG_20180903_163101.jpg"
@@ -96,13 +96,13 @@ imgUrl: /./media/blog/Bildschirmfoto-von-2019-01-22-21-44-08.png
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-		
-		<!-- Pagination -->
-	<div class='ngg-clear'></div>	</div>
+    	
+    	<!-- Pagination -->
+    <div class='ngg-clear'></div>	</div>
+
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-

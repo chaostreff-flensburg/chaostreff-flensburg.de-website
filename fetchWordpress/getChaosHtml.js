@@ -21,7 +21,7 @@ const getTextFromHtml = (html) =>
     .trim();
 
 const posts = await await fetch(
-  "https://chaostreff-flensburg.de/wp-json/wp/v2/posts?per_page=100"
+  "https://chaostreff-flensburg.de/wp-json/wp/v2/posts?per_page=100",
 ).then((data) => data.json());
 
 await mkdir(`${basePath}${blogPath}`, { recursive: true });
@@ -48,7 +48,7 @@ const postsMedia = await Promise.all(
     await writeFile(path, Buffer.from(buffer));
 
     const imgMatches = [...post.content.rendered.matchAll(matchImg)].map(
-      ({ groups }) => groups
+      ({ groups }) => groups,
     );
 
     const downloadedMedia = await Promise.all(
@@ -58,14 +58,15 @@ const postsMedia = await Promise.all(
           const buffer = await fetch(match.src).then((data) =>
             data.arrayBuffer()
           );
-          const path = `${basePath}${mediaPath}uploads/${match.filename}${match.filetype}`;
+          const path =
+            `${basePath}${mediaPath}uploads/${match.filename}${match.filetype}`;
           await writeFile(path, Buffer.from(buffer));
           console.log(`replaced media ${path}`);
           return path;
         } catch (e) {
           return null;
         }
-      })
+      }),
     );
 
     const content = post.content.rendered.replaceAll(
@@ -74,7 +75,7 @@ const postsMedia = await Promise.all(
         const groups = [...match.matchAll(matchSrc)][0]?.groups;
         console.log(groups);
         return `<img decoding="async" loading="lazy" src="/${mediaPath}uploads/${groups.filename}${groups.filetype}" />`;
-      }
+      },
     );
 
     return {
@@ -83,7 +84,7 @@ const postsMedia = await Promise.all(
       content: { rendered: content },
       imgUrl: `/${mediaPath}${img.filename}${img.filetype}`,
     };
-  })
+  }),
 );
 
 const postsRendered = [...postsMedia].map(
@@ -103,14 +104,14 @@ date: "${new Date(date).toISOString()}"${imgUrl ? `\nimgUrl: ${imgUrl}` : ""}
 
 ${content.rendered}
 `,
-  })
+  }),
 );
 
 await Promise.all(
   [...postsRendered].map(async ({ path, filename, content }) => {
     await mkdir(`${basePath}${blogPath}${path}`, { recursive: true });
     await writeFile(`${basePath}${blogPath}${path}/${filename}`, content);
-  })
+  }),
 );
 
 console.log("finished");

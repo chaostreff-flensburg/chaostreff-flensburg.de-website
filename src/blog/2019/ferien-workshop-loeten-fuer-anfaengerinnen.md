@@ -10,22 +10,13 @@ imgUrl: /./media/blog/46693532425_384d0493b1_k-1.jpg
 
 # Ferien Workshop: Löten für Anfänger:innen
 
-
 <figure class="wp-block-image"><img decoding="async" loading="lazy" src="/./media/blog/uploads/46693532425_384d0493b1_k-1-1024x683.jpg" /></figure>
-
-
 
 <p>Ferienzeit ist Workshop! Deswegen haben wir in den Osterferien einen ein Löten für Anfänger:innen Workshop für Jugendliche Angebote. Nach drei Stunden Workshop haben wir Kabel und diverse Platinen gelötet. Unter anderem hat jede*r Teilnehmer*in einen selbst zusammen gelöteten elektronischen Würfel mit nach Hause bekommen. Die nächsten Workshops stehen wieder in den Sommerferien an.</p>
 
-
-
 <p><a href="https://www.pollin.de/p/bausatz-elektronischer-wuerfel-810066">Bausatz „Elektronischer Würfel“ von Pollin. </a></p>
 
-
-
 <p>Mehr Bilder findest du auf: <a href="https://www.flickr.com/photos/157585171@N05/albums/72157708164473264">https://www.flickr.com/photos/157585171@N05/albums/72157708164473264</a></p>
-
-
 
 <!-- index.php -->
 <div
@@ -34,11 +25,11 @@ imgUrl: /./media/blog/46693532425_384d0493b1_k-1.jpg
 
     	<div class="slideshowlink">
         <a href='https://chaostreff-flensburg.de/2019/ferien-workshop-loeten-fuer-anfaengerinnen/nggallery/slideshow?per_page=100'>[Zeige eine Slideshow]</a>
-		
-	</div>
-			<!-- Thumbnails -->
-				<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    	
+    </div>
+    		<!-- Thumbnails -->
+    			<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/32666691127_d09519de1b_k.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/32666691127_d09519de1b_k.jpg"
@@ -58,11 +49,11 @@ imgUrl: /./media/blog/46693532425_384d0493b1_k-1.jpg
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/46884913714_623aae9e38_k.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/46884913714_623aae9e38_k.jpg"
@@ -82,11 +73,11 @@ imgUrl: /./media/blog/46693532425_384d0493b1_k-1.jpg
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/33731907908_4af6ca0aeb_k.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/33731907908_4af6ca0aeb_k.jpg"
@@ -106,11 +97,11 @@ imgUrl: /./media/blog/46693532425_384d0493b1_k-1.jpg
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/46884939344_c0f6e76c4e_k.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/46884939344_c0f6e76c4e_k.jpg"
@@ -130,11 +121,11 @@ imgUrl: /./media/blog/46693532425_384d0493b1_k-1.jpg
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/47556074692_eb471672ac_k.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/47556074692_eb471672ac_k.jpg"
@@ -154,11 +145,11 @@ imgUrl: /./media/blog/46693532425_384d0493b1_k-1.jpg
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/46693521005_bfe51571fe_k.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/46693521005_bfe51571fe_k.jpg"
@@ -178,11 +169,11 @@ imgUrl: /./media/blog/46693532425_384d0493b1_k-1.jpg
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-6" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-6" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/46693532425_384d0493b1_k.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/46693532425_384d0493b1_k.jpg"
@@ -202,11 +193,11 @@ imgUrl: /./media/blog/46693532425_384d0493b1_k-1.jpg
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-7" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-7" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/47609289801_8d083fa45b_k.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/47609289801_8d083fa45b_k.jpg"
@@ -226,11 +217,11 @@ imgUrl: /./media/blog/46693532425_384d0493b1_k-1.jpg
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-8" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-8" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/47556100832_419b2ac508_k.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/osterferien-workshop-loeten-fuer-anfaengerinnen/47556100832_419b2ac508_k.jpg"
@@ -250,11 +241,9 @@ imgUrl: /./media/blog/46693532425_384d0493b1_k-1.jpg
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-		
-		<!-- Pagination -->
-	<div class='ngg-clear'></div>	</div>
-
-
+    	
+    	<!-- Pagination -->
+    <div class='ngg-clear'></div>	</div>

@@ -27,11 +27,11 @@ imgUrl: /./media/blog/IMG_20180512_141109.jpg
 
     	<div class="slideshowlink">
         <a href='https://chaostreff-flensburg.de/2018/chaostreff-flensburg-beim-landesjugend-treffen-ljtr-der-dlrg-sh/nggallery/slideshow?per_page=100'>&#091;Zeige eine Slideshow&#093;</a>
-		
-	</div>
-			<!-- Thumbnails -->
-				<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    	
+    </div>
+    		<!-- Thumbnails -->
+    			<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/chaostreff-flensburg-auf-dem-ljr-der-dlrg-sh/person-in-der-vr-ljr.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/chaostreff-flensburg-auf-dem-ljr-der-dlrg-sh/person-in-der-vr-ljr.jpg"
@@ -51,11 +51,11 @@ imgUrl: /./media/blog/IMG_20180512_141109.jpg
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/chaostreff-flensburg-auf-dem-ljr-der-dlrg-sh/ctfl-fahne-ljr.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/chaostreff-flensburg-auf-dem-ljr-der-dlrg-sh/ctfl-fahne-ljr.jpg"
@@ -75,11 +75,11 @@ imgUrl: /./media/blog/IMG_20180512_141109.jpg
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/chaostreff-flensburg-auf-dem-ljr-der-dlrg-sh/ctfl-bannerljr.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/chaostreff-flensburg-auf-dem-ljr-der-dlrg-sh/ctfl-bannerljr.jpg"
@@ -99,11 +99,11 @@ imgUrl: /./media/blog/IMG_20180512_141109.jpg
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/chaostreff-flensburg-auf-dem-ljr-der-dlrg-sh/calliope_ljr.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/chaostreff-flensburg-auf-dem-ljr-der-dlrg-sh/calliope_ljr.jpg"
@@ -123,11 +123,11 @@ imgUrl: /./media/blog/IMG_20180512_141109.jpg
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-		
-		<!-- Pagination -->
-	<div class='ngg-clear'></div>	</div>
-</p>
+    	
+    	<!-- Pagination -->
+    <div class='ngg-clear'></div>	</div>
 
+</p>

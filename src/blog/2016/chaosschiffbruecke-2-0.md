@@ -19,4 +19,3 @@ imgUrl: /./media/blog/DSC5019-750x500.jpg
 <p>Unter folgendem Link findet ihr ein paar Bilder zu dem Event.</p>
 <p><a href="https://goo.gl/photos/5DQ3G48s6hXKDh1cA">https://goo.gl/photos/5DQ3G48s6hXKDh1cA</a></p>
 <p>Wir hatten wieder viel Freude daran den Leuten, die vorbei gekommen sind zu erzählen was wir gemeinsam mit dem Verein auf die Beine stellen.</p>
-

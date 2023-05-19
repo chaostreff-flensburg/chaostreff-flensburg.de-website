@@ -24,11 +24,11 @@ Es sind Menschen aus ganz Deutschland angereist um ein Wochenende lang an Projek
 
     	<div class="slideshowlink">
         <a href='https://chaostreff-flensburg.de/2017/weekendhack-0x3/nggallery/slideshow?per_page=100'>&#091;Zeige eine Slideshow&#093;</a>
-		
-	</div>
-			<!-- Thumbnails -->
-				<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    	
+    </div>
+    		<!-- Thumbnails -->
+    			<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/IMG-20171113-WA0036.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/IMG-20171113-WA0036.jpg"
@@ -48,11 +48,11 @@ Es sind Menschen aus ganz Deutschland angereist um ein Wochenende lang an Projek
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/DNpyLeqXcAAxMAk.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/DNpyLeqXcAAxMAk.jpg"
@@ -72,11 +72,11 @@ Es sind Menschen aus ganz Deutschland angereist um ein Wochenende lang an Projek
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/DNuf-4rXkAMbEx0.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/DNuf-4rXkAMbEx0.jpg"
@@ -96,11 +96,11 @@ Es sind Menschen aus ganz Deutschland angereist um ein Wochenende lang an Projek
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/DNu4KN6X0AA0tR5.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/DNu4KN6X0AA0tR5.jpg"
@@ -120,11 +120,11 @@ Es sind Menschen aus ganz Deutschland angereist um ein Wochenende lang an Projek
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/DNyYITgUMAAmA0c.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/DNyYITgUMAAmA0c.jpg"
@@ -144,11 +144,11 @@ Es sind Menschen aus ganz Deutschland angereist um ein Wochenende lang an Projek
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/DNyxAa8VwAMH8B1.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/DNyxAa8VwAMH8B1.jpg"
@@ -168,11 +168,11 @@ Es sind Menschen aus ganz Deutschland angereist um ein Wochenende lang an Projek
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-6" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-6" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/DNzo_3PWAAENWj9.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/DNzo_3PWAAENWj9.jpg"
@@ -192,11 +192,11 @@ Es sind Menschen aus ganz Deutschland angereist um ein Wochenende lang an Projek
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-7" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-7" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/DN3cyiAWsAAvpz6.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/weekendhack-0x03/DN3cyiAWsAAvpz6.jpg"
@@ -216,11 +216,11 @@ Es sind Menschen aus ganz Deutschland angereist um ein Wochenende lang an Projek
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-		
-		<!-- Pagination -->
-	<div class='ngg-clear'></div>	</div>
-</p>
+    	
+    	<!-- Pagination -->
+    <div class='ngg-clear'></div>	</div>
 
+</p>

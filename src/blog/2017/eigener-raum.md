@@ -22,4 +22,3 @@ Beim ersten OpenSpace wurde für 300€ eingekauft und dank der vielen Helfer en
 <p>Mittlerweile ist auch das Werkzeug da und die neuen Lötstationen. Ein 3D Drucker ist geplant und ganz viel Licht und LED&#8217;s. Wir würden uns freuen wenn ihr im neuen Space mal vorbei schaut.<br />
 Euer Chaostreff-Flensburg e.V.</p>
 <p><img decoding="async" loading="lazy" src="/./media/blog/uploads/img_20170515_200358-1-1024x335.jpg" /></p>
-

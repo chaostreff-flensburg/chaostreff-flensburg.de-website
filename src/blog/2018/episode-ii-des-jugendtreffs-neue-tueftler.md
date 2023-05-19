@@ -19,4 +19,3 @@ Wir haben gemeinsam einen Cookie Klicker gebaut, den dafür eignen sich Variable
 <p>— Chaostreff Flensburg (@chaos_fl) <a href="https://twitter.com/chaos_fl/status/1044275833840504833?ref_src=twsrc%5Etfw">September 24, 2018</a></p></blockquote>
 <p><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br />
 &nbsp;</p>
-

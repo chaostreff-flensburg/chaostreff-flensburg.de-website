@@ -25,11 +25,11 @@ Falls Ihr auch mal ein lustiges und intensives IT Wochenende mit uns Verbringen 
 
     	<div class="slideshowlink">
         <a href='https://chaostreff-flensburg.de/2017/scheersberg-hack-2-0/nggallery/slideshow?per_page=100'>&#091;Zeige eine Slideshow&#093;</a>
-		
-	</div>
-			<!-- Thumbnails -->
-				<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    	
+    </div>
+    		<!-- Thumbnails -->
+    			<div id="ngg-image-0" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/scheersberg-hack-2-0/DMsBOohWsAA74uJ.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/scheersberg-hack-2-0/DMsBOohWsAA74uJ.jpg"
@@ -49,11 +49,11 @@ Falls Ihr auch mal ein lustiges und intensives IT Wochenende mit uns Verbringen 
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-1" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/scheersberg-hack-2-0/IMG_20171021_114112.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/scheersberg-hack-2-0/IMG_20171021_114112.jpg"
@@ -73,11 +73,11 @@ Falls Ihr auch mal ein lustiges und intensives IT Wochenende mit uns Verbringen 
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-2" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/scheersberg-hack-2-0/IMG_20171020_143757.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/scheersberg-hack-2-0/IMG_20171020_143757.jpg"
@@ -97,11 +97,11 @@ Falls Ihr auch mal ein lustiges und intensives IT Wochenende mit uns Verbringen 
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-3" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/scheersberg-hack-2-0/IMG_20171020_194850.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/scheersberg-hack-2-0/IMG_20171020_194850.jpg"
@@ -121,11 +121,11 @@ Falls Ihr auch mal ein lustiges und intensives IT Wochenende mit uns Verbringen 
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-4" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/scheersberg-hack-2-0/IMG_20171021_144749.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/scheersberg-hack-2-0/IMG_20171021_144749.jpg"
@@ -145,11 +145,11 @@ Falls Ihr auch mal ein lustiges und intensives IT Wochenende mit uns Verbringen 
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-				<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
-				        <div class="ngg-gallery-thumbnail">
+    			<div id="ngg-image-5" class="ngg-gallery-thumbnail-box" >
+    			        <div class="ngg-gallery-thumbnail">
             <a href="https://chaostreff-flensburg.de/wp-content/gallery/scheersberg-hack-2-0/IMG_20171022_114150.jpg"
                title=""
                data-src="https://chaostreff-flensburg.de/wp-content/gallery/scheersberg-hack-2-0/IMG_20171022_114150.jpg"
@@ -169,11 +169,11 @@ Falls Ihr auch mal ein lustiges und intensives IT Wochenende mit uns Verbringen 
                 />
             </a>
         </div>
-							</div> 
-			
+    						</div> 
+    		
         
-		
-		<!-- Pagination -->
-	<div class='ngg-clear'></div>	</div>
-</p>
+    	
+    	<!-- Pagination -->
+    <div class='ngg-clear'></div>	</div>
 
+</p>
