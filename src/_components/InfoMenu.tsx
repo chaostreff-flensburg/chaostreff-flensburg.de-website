@@ -15,6 +15,7 @@ export default () => (
       <li>
         <a
           class="btn btn-outline-dark btn-shadow m-2"
+          target="_blank"
           href="https://chaos.social/@chaos_fl"
         >
           Mastodon @chaos_fl@chaos.social
@@ -23,6 +24,7 @@ export default () => (
       <li>
         <a
           class="btn btn-outline-dark btn-shadow m-2"
+          target="_blank"
           href="https://twitter.com/chaos_fl"
         >
           Twitter
@@ -31,6 +33,7 @@ export default () => (
       <li>
         <a
           class="btn btn-outline-dark btn-shadow m-2"
+          target="_blank"
           href="https://www.instagram.com/chaos_fl/"
         >
           Instagram
@@ -39,6 +42,7 @@ export default () => (
       <li>
         <a
           class="btn btn-outline-dark btn-shadow m-2"
+          target="_blank"
           href="https://www.flickr.com/photos/157585171@N05/"
         >
           Flickr
@@ -47,6 +51,7 @@ export default () => (
       <li>
         <a
           class="btn btn-outline-dark btn-shadow m-2"
+          target="_blank"
           href="https://github.com/chaostreff-flensburg"
         >
           Github
