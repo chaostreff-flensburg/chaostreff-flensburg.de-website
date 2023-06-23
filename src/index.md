@@ -8,7 +8,7 @@ Der Chaostreff Flensburg e.V. ist die Anlaufstelle für alle technikbegeisterten
 
 **Egal was dich interessiert, schau doch einfach mal vorbei, beim Open Space Dienstags ab 19:00 Uhr in der Apenrader Straße 49, Flensburg**
 
-Unsere Vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1). 
+Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1). 
 
 ## Unsere nächsten Veranstaltungen
 
