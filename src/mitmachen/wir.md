@@ -8,7 +8,7 @@ layout: Default.tsx
 
 Dem Chaos Computer Club e.V. nahe stehend, sind wir als Deutschlands
 nördlichster Chaostreff eine Gruppe Technikinteressierter mit Spaß am Gerät. Wir
-betreiben in Flensburger einen Klub-Raum (Hackerspace), in dem Mitglieder
+betreiben in Flensburger einen Klub-Raum (Hackspace), in dem Mitglieder
 gemeinsam programmieren, löten und an diversen Projekten arbeiten.
 
 Zusätzlich organisieren wir als Verein regelmäßig Veranstaltungen, wie z.B. den

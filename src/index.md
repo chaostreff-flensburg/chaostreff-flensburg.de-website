@@ -2,7 +2,7 @@
 layout: Default.tsx
 ---
 
-# Hackerspace & Makerplace
+# Hackspace & Makeplace
 
 Der Chaostreff Flensburg e.V. ist die Anlaufstelle für alle technikbegeisterten Nerds in Flensburg und Umgebung. In unserem Space steht moderne Technik zum Kennenlernen und Ausprobieren bereit. Neben 3D-Druckern, Lötkolben, VR-Headsets, Siebdruck und Werkzeugen aller Art bieten wir Schulungen und Kurse für Kinder, Jugendliche und Erwachsene an. Wir beschäftigen uns mit allem, was mit Technik zu tun hat.
 

@@ -6,7 +6,7 @@ export default ({ title, children, ...props }) => (
         <title>Chaostreff Flensburg e.V.</title>
         <atom:link href="https://chaostreff-flensburg.de/feed/" rel="self" type="application/rss+xml" />
         <link>https://chaostreff-flensburg.de</link>
-        <description>Hackerspace und Makerplace</description>
+        <description>Hackpace und Makeplace</description>
         <lastBuildDate>Tue, 23 Aug 2022 08:36:30 +0000</lastBuildDate>
         <language>de-DE</language>
         <syUpdatePeriod> hourly </syUpdatePeriod>
