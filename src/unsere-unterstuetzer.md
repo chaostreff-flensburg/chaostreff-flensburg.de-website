@@ -19,6 +19,16 @@ unterstützen und mit uns zusammenarbeiten.
 ![Flensburger Jugendring](/media/logo-fjr.webp)
 Wir sind Mitglied und Kooperationspartner vom Flensburger Jugendring
 
+
+## Firmen Fördermitglieder
+
+### Codeanker GmbH
+![Codeanker GmbH](/media/logo-codeanker.webp)
+
+### 54 Grad Software GmbH
+
+<img alt="54 Grad Software GmbH" src="/media/logo-54gradsoftware.png" width="200">
+
 ## Spenden von Firmen
 
 ### Stadtwerke Flensburg GmbH
@@ -26,17 +36,6 @@ Wir sind Mitglied und Kooperationspartner vom Flensburger Jugendring
 
 ### Lohndirekt GmbH (einfach effizient)
 ![Lohndirekt GmbH](/media/logo-lohndirekt.webp)
-
-## Firmen Fördermitglieder
-
-### Codeanker GmbH
-![Codeanker GmbH](/media/logo-codeanker.webp)
-
-### Sourceboat GmbH & Co KG
-![Sourceboat GmbH & Co KG](/media/logo-sourceboat.webp)
-
-### Web Wikinger UG (haftungsbeschränkt)
-![Web Wikinger UG](/media/logo-web-wikinger.webp)
 
 
 ---
