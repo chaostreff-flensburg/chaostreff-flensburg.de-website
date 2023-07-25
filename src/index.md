@@ -8,17 +8,17 @@ Der Chaostreff Flensburg e.V. ist die Anlaufstelle für alle technikbegeisterten
 
 **Egal was dich interessiert, schau doch einfach mal vorbei, beim Open Space Dienstags ab 19:00 Uhr in der Apenrader Straße 49, Flensburg**
 
-Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1). 
+Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1).
 
 ## Unsere nächsten Veranstaltungen
 
 - Jeden Dienstag; 19:00 Uhr; Open Space Dienstag; Apenrader Str. 49, Flensburg; Offener Abend!
 - `08. - 10.09.2023` – Hacks on the Harbour in Sonderburg (Dänemark). Mehr Infos auf [hoth.info](https://hoth.info/de/)
+- `26.09.2023` – Webentwickler*innen-Treffen. Mehr Infos findest du [hier](/events/webdevmeetup/)
 
 ### Neue Tüftler:innen – Jugendveranstaltungen
 
-Mehr zu unserem Jugendtreff: Neue Tüftler:innen findest du [hier](/jugendtreff-neue-tueftler/). 
+Mehr zu unserem Jugendtreff: Neue Tüftler:innen findest du [hier](/jugendtreff-neue-tueftler/).
 
 - ~~Einmal im Monat: Jugendtreff Neue Tüftler:innten~~
 - `08. - 10.09.2023` – Hacks on the Harbour in Sonderburg (Dänemark). Mehr Infos auf [hoth.info](https://hoth.info/de/)
-
