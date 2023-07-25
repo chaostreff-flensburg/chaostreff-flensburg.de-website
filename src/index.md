@@ -13,7 +13,6 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1).
 ## Unsere nächsten Veranstaltungen
 
 - Jeden Dienstag; 19:00 Uhr; Open Space Dienstag; Apenrader Str. 49, Flensburg; Offener Abend!
-- [08.07.2023 Veganes Brunchen](/blog/2023/einladung-veganes-brunchen)
 - `08. - 10.09.2023` – Hacks on the Harbour in Sonderburg (Dänemark). Mehr Infos auf [hoth.info](https://hoth.info/de/)
 
 ### Neue Tüftler:innen – Jugendveranstaltungen
