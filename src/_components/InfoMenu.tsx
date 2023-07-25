@@ -16,6 +16,7 @@ export default () => (
         <a
           class="btn btn-outline-dark btn-shadow m-2"
           target="_blank"
+          rel="me"
           href="https://chaos.social/@chaos_fl"
         >
           Mastodon @chaos_fl@chaos.social
