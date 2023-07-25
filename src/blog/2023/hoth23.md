@@ -2,7 +2,7 @@
 layout: Default.tsx
 date: "2023-07-25"
 title: "#HOTH23 Hacks on the Harbour 2023 - Es gibt Tickets"
-excerpt: 'GPN21 Vortrag zur Vorstellung des Chaotischer Catalysator Stipendien'
+excerpt: '+++ Tickets +++ fürs #hoth23'
 imgUrl: /./media/blog/hoth-23-title-image.jpg
 tags:
   - blog
