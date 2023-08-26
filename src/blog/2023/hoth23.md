@@ -6,6 +6,7 @@ excerpt: '+++ Tickets +++ fürs #hoth23'
 imgUrl: /./media/blog/hoth-23-title-image.jpg
 tags:
   - blog
+  - header(events)
 ---
 
 # #HOTH23 Hacks on the Harbour 2023 - Es gibt Tickets

@@ -26,15 +26,6 @@ export default () => (
         <a
           class="btn btn-outline-dark btn-shadow m-2"
           target="_blank"
-          href="https://twitter.com/chaos_fl"
-        >
-          Twitter
-        </a>
-      </li>
-      <li>
-        <a
-          class="btn btn-outline-dark btn-shadow m-2"
-          target="_blank"
           href="https://www.instagram.com/chaos_fl/"
         >
           Instagram

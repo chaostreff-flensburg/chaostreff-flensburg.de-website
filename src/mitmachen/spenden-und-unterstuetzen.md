@@ -10,7 +10,7 @@ tags:
 ---
 
 Für alle, die uns Regelmäßig unterstützen wollen, gibt es die
-[Fördermitgliedschaft](wir.md). Für einmalige Unterstützungen haben wir hier,
+[Fördermitgliedschaft](/mitmachen). Für einmalige Unterstützungen haben wir hier,
 ein paar Möglichkeiten aufgelistet.
 
 ### Überweisen & Spenden
@@ -27,5 +27,5 @@ Adresse überweisen: **Kontoinhaber**: Chaostreff Flensburg e.V. **IBAN**: DE48
 ### Sachspenden
 
 Wir sind immer auf der Suche nach guter Hardware, die wir benutzen können. Dazu
-gehören Laptops, Computer, Computer Zubehör, Server und ältere Fundstücke.
+gehören Laptops, Computer, Computer Zubehör und Server.
 Schreib uns dafür am besten eine E-Mail <mail@chaostreff-flensburg.de>
