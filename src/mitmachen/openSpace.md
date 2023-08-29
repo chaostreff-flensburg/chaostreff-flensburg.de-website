@@ -16,7 +16,7 @@ Einmal in der Woche gibt es das sogenannte "OpenSpace" treffen. Dort sind alle, 
 Was dann passiert steht den Mitgliedern und Gästen frei. Es gibt aber immer die Möglichkeit sich mit anderen auszutauschen, an Projekten zu arbeiten oder einfach nur zu quatschen. Du kannst alles aus unserer Werkstatt benutzen wie: Prusa 3D Drucker, Lötkolben, Oszilloskop, Akkuschrauber, Sägen und vieles mehr.
 Zum austausch haben wir oben eine Launch, Sofa Ecke und einen Tisch mit Stühlen. Außerdem haben wir einen Beamer und eine Leinwand für Vorträge und Präsentationen.
 
-Am besten kommst du einfach vorbei, wenn du fragen hast.
+Am besten kommst du einfach vorbei, wenn du fragen hast. Wir haben auch einen [Public Matrix Channel #chaos-fl-public:fairydust.space](https://matrix.to/#/#chaos-fl-public:fairydust.space).
 
 ## Räumlichkeiten
 
@@ -34,4 +34,5 @@ Das Haus gehört zum Sydelsvigsk Forening,  dem kulturelle Dachverband der däni
 | Uhrzeit | 19:00 Uhr bis Open End |
 | Wo | Chaostreff Flensburg e.V., Apenrader Straße 49, 24939 Flensburg |
 | Anmeldung | Komm einfach vorbei! |
+| Public Matrix | [#chaos-fl-public:fairydust.space](https://matrix.to/#/#chaos-fl-public:fairydust.space). |
 | Wer | Alle, Vereinsmtiglieder und Externe |
