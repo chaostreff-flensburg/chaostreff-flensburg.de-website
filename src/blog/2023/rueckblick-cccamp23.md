@@ -31,11 +31,11 @@ Für das CCS Chaotischer Catalysator Stipendien wurden neben einem Meetup auch z
 
 [Weitere Bilder vom Camp #cccamp23 gibt es hier zusehen](https://www.flickr.com/photos/leahoswald/albums/72177720310724212)
 
-[Ein Bräter mit viel Gemüse](/./media/blog/cccamp23_braeter_mit_gemuese.jpg)
-[Chaos Kombüsen Zelt mit vielen Bierbänken und Kochern](/./media/blog/cccamp23_chaos_kombuesen_zelt_hinten.jpeg)
-[Zwei Klappstühle im Wald](/./media/blog/cccamp23_chaos_kombuesen_zelt.jpeg)
-[Hacks on the Harbour Plakat](/./media/blog/cccamp23_hoth_plakat.jpg)
-[CCS Plakat](/./media/blog/cccamp23_ccs_plakat.jpg)
+![Ein Bräter mit viel Gemüse](/./media/blog/cccamp23_braeter_mit_gemuese.jpg)
+![Chaos Kombüsen Zelt mit vielen Bierbänken und Kochern](/./media/blog/cccamp23_chaos_kombuesen_zelt_hinten.jpeg)
+![Zwei Klappstühle im Wald](/./media/blog/cccamp23_chaos_kombuesen_zelt.jpeg)
+![Hacks on the Harbour Plakat](/./media/blog/cccamp23_hoth_plakat.jpg)
+![CCS Plakat](/./media/blog/cccamp23_ccs_plakat.jpg)
 
 
 
