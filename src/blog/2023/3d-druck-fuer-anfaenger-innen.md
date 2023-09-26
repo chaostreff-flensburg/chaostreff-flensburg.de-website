@@ -2,7 +2,7 @@
 layout: Default.tsx
 date: "2023-09-26"
 title: "3D-Druck für Anfänger*innen Workshop 10.10.2023 - ab 17:00"
-excerpt: 'Kommt zum Veganen Brunchen vorbei!'
+excerpt: 'Ihr wollt 3D-Drucken lernen? Dann kommt zu unserem Workshop für Anfänger*innen.'
 imgUrl: /./media/blog/prusa-mini-3d-drucker.jpg
 tags:
   - blog
