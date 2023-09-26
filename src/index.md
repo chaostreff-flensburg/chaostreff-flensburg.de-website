@@ -13,12 +13,12 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 ## Unsere nächsten Veranstaltungen
 
 - Jeden Dienstag; 19:00 Uhr; [Open Space Dienstag](/mitmachen/openSpace/); Apenrader Str. 49, Flensburg; Offener Abend!
-- `08. - 10.09.2023` – Hacks on the Harbour in Sonderburg (Dänemark). Mehr Infos auf [hoth.info](https://hoth.info/de/)
-- `26.09.2023` – Webentwickler*innen-Treffen. Mehr Infos findest du [hier](/events/webdevmeetup/)
+- `10.10.2023` – 3D-Druck für Anfänger*innen Workshop. Mehr Infos findest du [hier](/blog/2023/3d-druck-fuer-anfaenger-innen/)
+- `22.11.2023` – Webentwickler*innen-Treffen. Mehr Infos findest du [hier](/events/webdevmeetup/)
 
 ### Neue Tüftler:innen – Jugendveranstaltungen
 
 Mehr zu unserem Jugendtreff: Neue Tüftler:innen findest du [hier](/jugendtreff-neue-tueftler/).
 
 - ~~Einmal im Monat: Jugendtreff Neue Tüftler:innten~~
-- `08. - 10.09.2023` – Hacks on the Harbour in Sonderburg (Dänemark). Mehr Infos auf [hoth.info](https://hoth.info/de/)
+
