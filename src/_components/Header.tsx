@@ -13,7 +13,12 @@ export default ({ ...props }) => (
           <props.comp.HeaderMenuItems {...props} />
         </ul>
         <div class="xl:hidden sideMenuWrapper" tabindex="0">
-          <button class="btn btn-outline-dark btn-shadow">Menü</button>
+          <input type="checkbox" id="menuToggle" class="hidden" />
+          <label for="menuToggle" class="btn btn-outline-dark btn-shadow">
+            Menü
+          </label>
+
+          <label for="menuToggle" class="overlay"></label>
           <nav class="sideMenu shadow p-3 overflow-y-auto">
             <section>
               <space-status />
