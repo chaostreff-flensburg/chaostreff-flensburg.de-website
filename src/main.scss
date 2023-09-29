@@ -174,18 +174,6 @@ ul {
   top: 6rem;
 }
 
-.overlay {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-    background-color: rgba(0, 0, 0, 0.3);
-    z-index: 1;
-}
-
-
 .sideMenuWrapper {
   > .btn:not(:focus):not(:focus-within)
     + .sideMenu:not(:focus):not(:focus-within) {
@@ -199,21 +187,14 @@ ul {
     right: -100%;
   }
 
-  #menuToggle:checked ~ .overlay {
-    display: block;
-}
-
-  #overlayToggle:checked ~ .sideMenu {
-    right: -100%;
-}
 
   .sideMenu {
+    top: 8.8vh;
     right: -100%;
     position: fixed;
-    height: 100vh;
+    height: 91.2vh;
     width: 20rem;
     max-width: calc(100vw - 2rem);
-    top: 0;
     right: 0;
     background-color: #fff;
     transition: right 500ms ease;

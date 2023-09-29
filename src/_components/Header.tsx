@@ -17,8 +17,6 @@ export default ({ ...props }) => (
           <label for="menuToggle" class="btn btn-outline-dark btn-shadow">
             Menü
           </label>
-
-          <label for="menuToggle" class="overlay"></label>
           <nav class="sideMenu shadow p-3 overflow-y-auto">
             <section>
               <space-status />
