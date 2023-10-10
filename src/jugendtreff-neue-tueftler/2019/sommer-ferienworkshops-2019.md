@@ -2,7 +2,6 @@
 layout: Default.tsx
 title: "Sommer Ferien Workshops 2019"
 tags:
-  - header(jugendtreff-neue-tueftler)
 ---
 
 # Sommer Ferien Workshops 2019

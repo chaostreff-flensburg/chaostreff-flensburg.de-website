@@ -2,7 +2,6 @@
 layout: Default.tsx
 title: "Jugendtreff – Neue Tüftler:innen"
 tags:
-  - header(jugendtreff-neue-tueftler)
 ---
 
 # Jugendtreff – Neue Tüftler:innen

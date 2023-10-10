@@ -2,7 +2,6 @@
 layout: Default.tsx
 title: "Osterferien Workshop 2019"
 tags:
-  - header(jugendtreff-neue-tueftler)
 ---
 
 # Neue Tüftler:innen Osterferien Workshop 2019
