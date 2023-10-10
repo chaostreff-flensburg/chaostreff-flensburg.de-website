@@ -1,7 +1,6 @@
 ---
 layout: Default.tsx
 tags:
-  - header
 title: Jung-Hacker*innen-Tag
 slug: jung-hackerinnen-tag
 ---

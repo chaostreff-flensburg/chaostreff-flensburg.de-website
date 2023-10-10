@@ -13,9 +13,9 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 ## Unsere nächsten Veranstaltungen
 
 - Jeden Dienstag; 19:00 Uhr; [Open Space Dienstag](/mitmachen/openSpace/); Apenrader Str. 49, Flensburg; Offener Abend!
-- `07.10.2023` – Mitgliederversammlung und Sommerfest [hier](/blog/2023/sommerfest/)
 - `10.10.2023` – 3D-Druck für Anfänger*innen Workshop. Mehr Infos findest du [hier](/blog/2023/3d-druck-fuer-anfaenger-innen/)
 - `22.11.2023` – Webentwickler*innen-Treffen. Mehr Infos findest du [hier](/events/webdevmeetup/)
+- `16.12.2023` [Veganes Brunchen - Winter Edition](/blog/2023/einladung-veganes-brunchen-dezember/)
 
 ### Neue Tüftler:innen – Jugendveranstaltungen
 
