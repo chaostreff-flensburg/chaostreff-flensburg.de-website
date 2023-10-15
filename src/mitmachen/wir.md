@@ -7,7 +7,7 @@ layout: Default.tsx
 <img src="/home/chaostreff/Bilder/img-wir.jpg" alt="wir">
 
 Dem Chaos Computer Club e.V. nahe stehend, sind wir als Deutschlands
-nördlichster Chaostreff eine Gruppe Technikinteressierter mit Spaß am Gerät. Wir
+nördlichster Chaos Computer Club eine Gruppe Technikinteressierter mit Spaß am Gerät. Wir
 betreiben in Flensburger einen Klub-Raum (Hackspace), in dem Mitglieder
 gemeinsam programmieren, löten und an diversen Projekten arbeiten.
 

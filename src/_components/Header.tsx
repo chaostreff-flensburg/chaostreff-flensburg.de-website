@@ -5,7 +5,7 @@ export default ({ ...props }) => (
         <a class="flex items-center" href="/">
           <img src="/logo.png" alt="logo" class="mx-3 h-14" />
           <div class="hidden sm:flex header-title flex-col justify-content-center">
-            <b>Chaostreff Flensburg e.V</b>
+            <b>Chaos Computer Club Flensburg e.V</b>
             <div>Hackspace & Makeplace</div>
           </div>
         </a>

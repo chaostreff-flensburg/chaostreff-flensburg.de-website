@@ -1,6 +1,6 @@
 # chaostreff-flensburg.de-website
 
-Chaostreff Flensburg Website in [Lume](https://lume.land/)
+Chaos Computer Club Flensburg Website in [Lume](https://lume.land/)
 
 ## content managment
 

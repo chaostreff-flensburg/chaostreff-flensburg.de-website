@@ -4,11 +4,11 @@ layout: Default.tsx
 
 # Hackspace & Makeplace
 
-Der Chaostreff Flensburg e.V. ist die Anlaufstelle für alle technikbegeisterten Nerds in Flensburg und Umgebung. In unserem Space steht moderne Technik zum Kennenlernen und Ausprobieren bereit. Neben 3D-Druckern, Lötkolben, VR-Headsets, Siebdruck und Werkzeugen aller Art bieten wir Schulungen und Kurse für Kinder, Jugendliche und Erwachsene an. Wir beschäftigen uns mit allem, was mit Technik zu tun hat.
+Der Chaos Computer Club Flensburg e.V. ist die Anlaufstelle für alle technikbegeisterten Nerds in Flensburg und Umgebung. In unserem Space steht moderne Technik zum Kennenlernen und Ausprobieren bereit. Neben 3D-Druckern, Lötkolben, VR-Headsets, Siebdruck und Werkzeugen aller Art bieten wir Schulungen und Kurse für Kinder, Jugendliche und Erwachsene an. Wir beschäftigen uns mit allem, was mit Technik zu tun hat.
 
 **Egal was dich interessiert, schau doch einfach mal vorbei, beim Open Space Dienstags ab 19:00 Uhr in der Apenrader Straße 49, Flensburg**
 
-Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und auf unserem [Mastodon Account](https://chaos.social/@chaos_fl). 
+Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und auf unserem [Mastodon Account](https://chaos.social/@chaos_fl).
 
 ## Unsere nächsten Veranstaltungen
 
@@ -22,4 +22,3 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 Mehr zu unserem Jugendtreff: Neue Tüftler:innen findest du [hier](/jugendtreff-neue-tueftler/).
 
 - ~~Einmal im Monat: Jugendtreff Neue Tüftler:innten~~
-
