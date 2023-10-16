@@ -17,9 +17,10 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 - `22.11.2023` – Webentwickler*innen-Treffen. Mehr Infos findest du [hier](/events/webdevmeetup/)
 - `16.12.2023` [Veganes Brunchen - Winter Edition](/blog/2023/einladung-veganes-brunchen-dezember/)
 
-### Neue Tüftler:innen – Jugendveranstaltungen
+### Jung-Hacker*innen-Tag – Jugendveranstaltungen
 
-Mehr zu unserem Jugendtreff: Neue Tüftler:innen findest du [hier](/jugendtreff-neue-tueftler/).
+Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
-- ~~Einmal im Monat: Jugendtreff Neue Tüftler:innten~~
+- Sonntag der 29.10.2020; 12:00 - 17:00; Schwerpunkt Webseiten Programmieren für Anfänger*innen in Kooperation mit 
+- 26.11.2022; 12:00 - 17:00; Schwerpunkt: 3D-Drucken und Löten von Weihnachtsschmuck.
 
