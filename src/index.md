@@ -13,7 +13,7 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 ## Unsere nächsten Veranstaltungen
 
 - Jeden Dienstag; 19:00 Uhr; [Open Space Dienstag](/mitmachen/openSpace/); Apenrader Str. 49, Flensburg; Offener Abend!
-- `16.12.2023` [Veganes Brunchen - Winter Edition](/blog/2023/einladung-veganes-brunchen-dezember/)
+- `16.12.2023` [Veganes Brunchen - Winter Edition](/blog/2023/einladung-veganes-brunchen-dezember/) - Fällt leider aus und wird verschoben
 - `30.1.2024` – Webentwickler*innen-Treffen. Mehr Infos findest du [hier](/events/webdevmeetup/)
 
 ### Jung-Hacker*innen-Tag – Jugendveranstaltungen

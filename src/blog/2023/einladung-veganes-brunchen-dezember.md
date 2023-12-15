@@ -8,7 +8,7 @@ tags:
   - blog
 ---
 
-# Veganes Brunchen 16.12.2023 - 18:00 - Winter Edition
+# Veganes Brunchen 16.12.2023 - 18:00 - Winter Edition Fällt aus wird verschoben
 
 
 ---
