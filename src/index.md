@@ -20,5 +20,6 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 
 Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
-- Sonntag der 29.10.2020; 12:00 - 17:00; Schwerpunkt Webseiten Programmieren für Anfänger*innen in Kooperation mit
-- 26.11.2022; 12:00 - 17:00; Schwerpunkt: 3D-Drucken und Löten von Weihnachtsschmuck.
+- Sonntag der 28.01.2024; 12:00 - 17:00; Schwerpunkt: 3D-Drucken mit dem neuen 3D-Drucker und Lasergravieren mit dem neuen Laserschneider.
+
+
