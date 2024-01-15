@@ -24,6 +24,9 @@ jugendtreff@chaostreff-flensburg.de.
 ### Sonntag der 28.01.2024; 12:00 - 17:00
 Schwerpunkt: 3D-Drucken mit dem neuen 3D-Drucker und Lasergravieren mit dem neuen Laserschneider. [Kostenlos Anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/3/)
 
+### Sonntag der 28.01.2024; 12:00 - 17:00
+Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit unseren 3D-Druckern sowie dem Calliope Mini beschäftigen. [Kostenlos Anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/4/)
+
 ## 2023
 
 ### Sonntag der 29.10.2023; 12:00 - 17:00
