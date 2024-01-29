@@ -19,6 +19,8 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 
 Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
-- Sonntag der 28.01.2024; 12:00 - 17:00; Schwerpunkt: 3D-Drucken mit dem neuen 3D-Drucker und Lasergravieren mit dem neuen Laserschneider.
+- Sonntag der 25.02.2024; 13:00 - 17:00; Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit unseren 3D-Druckern, Elektronik und Löten beschäftigen.
+
+
 
 
