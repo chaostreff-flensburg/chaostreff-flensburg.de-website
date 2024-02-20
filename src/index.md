@@ -19,7 +19,7 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 
 Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
-- Sonntag der 25.02.2024; 13:00 - 17:00; Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit unseren 3D-Druckern, Elektronik und Löten beschäftigen.
+- Sonntag der 25.02.2024; 13:00 - 17:00; Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit unseren 3D-Druckern, Elektronik und Löten beschäftigen. [Jetzt kostenlos Anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/4/)
 
 
 
