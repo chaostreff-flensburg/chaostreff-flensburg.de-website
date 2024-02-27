@@ -13,13 +13,12 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 ## Unsere nächsten Veranstaltungen
 
 - Jeden Dienstag; 19:00 Uhr; [Open Space Dienstag](/mitmachen/openSpace/); Apenrader Str. 49, Flensburg; Offener Abend!
-- `30.1.2024` – Webentwickler*innen-Treffen. Mehr Infos findest du [hier](/events/webdevmeetup/)
 
 ### Jung-Hacker*innen-Tag – Jugendveranstaltungen
 
 Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
-- Sonntag der 25.02.2024; 13:00 - 17:00; Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit unseren 3D-Druckern, Elektronik und Löten beschäftigen. [Jetzt kostenlos Anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/4/)
+- Sonntag der 24.03.2024; 13:00 - 17:00; Schwerpunkt: Tüfteln in der Werkstatt.Wir werden uns mit der Programmierung und Steuerung von LEDs beschäftigen.. [Jetzt kostenlos Anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/45/)
 
 
 

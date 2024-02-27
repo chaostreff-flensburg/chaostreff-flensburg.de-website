@@ -23,10 +23,16 @@ jugendtreff@chaostreff-flensburg.de.
 
 ## 2024
 
-### Sonntag der 25.02.2024; 13:00 - 17:00
-Schwerpunkt: Tüfteln in der Werkstatt.Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit unseren 3D-Druckern, Elektronik und Löten beschäftigen. [Jetzt kostenlos anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/4/)
+**Sonntag der 24.03.2024; 13:00 - 17:00**
 
-### Sonntag der 28.01.2024; 12:00 - 17:00
+Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit der Programmierung und Steuerung von LEDs beschäftigen. [Jetzt kostenlos anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/5/)
+
+**Sonntag der 25.02.2024; 13:00 - 17:00**
+
+Schwerpunkt: Tüfteln in der Werkstatt.Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit unseren 3D-Druckern, Elektronik und Löten beschäftigen. [Rückblick Blogpost](/blog/2024/rueckblick-2-jung-hackerinnen-tag-2024/)
+
+**Sonntag der 28.01.2024; 12:00 - 17:00**
+
 Schwerpunkt: 3D-Drucken mit dem neuen 3D-Drucker und Lasergravieren mit dem neuen Laserschneider. [Rückblick Blogpost](/blog/2024/rueckblick-1-jung-hackerinnen-tag-2024/)
 
 ## 2023
