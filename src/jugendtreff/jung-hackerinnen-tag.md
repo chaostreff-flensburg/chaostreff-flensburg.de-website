@@ -59,6 +59,11 @@ E-Mail).
 
 **Gabs das nicht schonmal?**: Ja vor Corona hatten wir ein Angebot mit dem Namen [Neue Tüftler*innen](/jugendtreff-neue-tueftler/jugendtreff-neue-tueftler/). Dieses Angebot haben wir aber nicht wieder aufleben lassen. 
 
+## FAQ
+
+### Kann ich als Erwachsener Gemeinsam mit meinem Kind teilnehmen?
+Nein, das geht leider nicht. Im Jugendtreff treffen sich nur die Teilnehmenden und die Mentor*innen. 
+
 ## Berichte von unserer Voheriger Jugendarbeit:
 ### Zeitungsbericht
 
