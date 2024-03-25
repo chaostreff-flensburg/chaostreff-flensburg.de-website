@@ -23,9 +23,16 @@ jugendtreff@chaostreff-flensburg.de.
 
 ## 2024
 
+
+**Sonntag der 28.04.2024; 13:00 - 17:00**
+
+Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit der Programmierung und Steuerung von Elektronik beschäftigen.
+
+Wo findet diese Veranstaltung statt? [Jetzt kostenlos anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/6/)
+
 **Sonntag der 24.03.2024; 13:00 - 17:00**
 
-Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit der Programmierung und Steuerung von LEDs beschäftigen. [Jetzt kostenlos anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/5/)
+Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit der Programmierung und Steuerung von LEDs beschäftigen. [Rückblick Blogpost](/blog/2024/rueckblick-3-jung-hackerinnen-tag-2024/)
 
 **Sonntag der 25.02.2024; 13:00 - 17:00**
 

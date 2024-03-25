@@ -18,7 +18,7 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 
 Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
-- Sonntag der 24.03.2024; 13:00 - 17:00; Schwerpunkt: Tüfteln in der Werkstatt.Wir werden uns mit der Programmierung und Steuerung von LEDs beschäftigen.. [Jetzt kostenlos Anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/5/)
+- Sonntag der 28.04.2024; 13:00 - 17:00; Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit der Programmierung und Steuerung von Elektronik beschäftigen [Jetzt kostenlos Anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/6/)
 
 
 
