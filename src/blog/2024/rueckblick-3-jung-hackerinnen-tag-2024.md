@@ -8,7 +8,7 @@ tags:
   - blog
 ---
 
-# Rückblick: 3. jung Hacker*innen-Tag 2024 (Februar)
+# Rückblick: 3. jung Hacker*innen-Tag 2024 (März)
 
 
 ---

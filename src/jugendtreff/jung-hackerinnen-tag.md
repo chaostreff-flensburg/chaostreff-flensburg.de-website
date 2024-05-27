@@ -24,11 +24,18 @@ jugendtreff@chaostreff-flensburg.de.
 ## 2024
 
 
+**Sonntag der 07.07.2024; 13:00 - 17:00**
+
+Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Wir werden weiter weiter Roboter bauen.
+
+Wo findet diese Veranstaltung statt? [Jetzt kostenlos anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/8)
+
+
 **Sonntag der 26.05.2024; 13:00 - 17:00**
 
 Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Wir werden weiterhin Roboter Programmieren.
 
-Wo findet diese Veranstaltung statt? [Jetzt kostenlos anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/7/)
+Wo findet diese Veranstaltung statt? [Rückblick Blogpost](/blog/2024/rueckblick-5-jung-hackerinnen-tag-2024/)
 
 
 **Sonntag der 28.04.2024; 13:00 - 17:00**
