@@ -19,7 +19,10 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 
 Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
-- Sonntag der 07.07.2024; 13:00 - 17:00; Schwerpunkt: Tüfteln in der Werkstatt. Wir werden weiterhin Roboter Programmieren. [Jetzt kostenlos Anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/8/)
+- Samstag der 28.09.2024; 12:00 - 16:00; Spezial Jung-Hacker*innen-Tag @ Hacks on the Beach [Jetzt kostenlos Anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/9/)
+
+- Sonntag der 27.10.2024; 13:00 - 17:00; Jung-Hacker*innen-Tag [Jetzt kostenlos Anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/10/)
+
 
 
 

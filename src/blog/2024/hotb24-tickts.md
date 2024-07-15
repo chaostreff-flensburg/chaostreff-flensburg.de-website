@@ -1,6 +1,6 @@
 ---
 layout: Default.tsx
-date: "2024-07-26"
+date: "2024-06-26"
 title: "Hacks on the Beach 2024 #hotb24"
 excerpt: 'Hacks on the Beach ist ein kleines Hack- & Frickelfestival direkt an der Flensburger Förde. Zum vierten Mal kannst du ein ganzes Wochenende mit Meerblick an deinen und anderen Projekten arbeiten.'
 imgUrl: /./media/blog/hotb24-postkarte-preview-1.png
