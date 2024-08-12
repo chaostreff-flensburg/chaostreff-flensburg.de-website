@@ -23,8 +23,8 @@ Am besten kommst du einfach vorbei, wenn du fragen hast. Wir haben auch einen [P
 Unsere Räumlichkeiten befinden sich in der Apenrader Str. 49. Wir haben unten einen geteilten Gemeinschaftsraum mit einer Küche und Toiletten. Oben eine kleine Werkstatt und eine Lounge Raum sowie ein wenig Lagerfläche. Nur der Gemeinschaftsraum ist ohne Umwege barrierefrei erreichbar. Wir haben leider keine Barriefreien Toiletten.
 Das Haus gehört zum Sydelsvigsk Forening,  dem kulturelle Dachverband der dänischen Minderheit in Südschleswig und wird Tønnsethuset genannt.
 
-![Ein gelbes haus mit einem Stockwerk und Spitzdach](/./media/apenraderstr49_flensburg.jpg)
-![Tønnsethuset Sydelsvigsk Forening](/./media/apenraderstr49_flensburg_tuer_schild.jpg)
+![Ein gelbes haus mit einem Stockwerk und Spitzdach](/./media/apenraderstr49_flensburg_low.jpg)
+![Tønnsethuset Sydelsvigsk Forening](/./media/apenraderstr49_flensburg_tuer_schild_low.jpg)
 
 
 ## Info Box

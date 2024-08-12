@@ -4,11 +4,15 @@ layout: Default.tsx
 
 # Impressum
 
-Dies ist die Webseite des Chaostreff Flensburg e.V.
+Dies ist die Webseite des Chaos Computer Club Flensburg e.V..
 
-<p>1. Vorsitzender Samuel Brinkmann
+Bis 2024 auch als Chaostreff Flensburg e.V. bekannt.
+
+1. Vorsitzender Samuel Brinkmann
+
 Apenrader Straße 49, 24939 Flensburg
-Mail: mail@chaostreff-flensburg.de</p>
+
+Mail: mail@chaostreff-flensburg.de<
 
 Steuernummer: 15/290/84187
 
@@ -25,7 +29,6 @@ meistens niemand da. Wenn du uns also gerne etwas Größeres schicken möchtest,
 als einen Maxibrief, schreibe uns eine kurze Mail an
 mail@chaostreff-flensburg.de. Wir schicken dir dann eine kompatible Adresse.
 
-PGP Public Key
 
 Kontodaten
 

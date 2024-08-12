@@ -13,12 +13,12 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 ## Unsere nächsten Veranstaltungen
 
 - Jeden Dienstag; 19:00 Uhr; [Open Space Dienstag](/mitmachen/openSpace/); Apenrader Str. 49, Flensburg; Offener Abend!
-- `10.10.2023` – 3D-Druck für Anfänger*innen Workshop. Mehr Infos findest du [hier](/blog/2023/3d-druck-fuer-anfaenger-innen/)
-- `22.11.2023` – Webentwickler*innen-Treffen. Mehr Infos findest du [hier](/events/webdevmeetup/)
-- `16.12.2023` [Veganes Brunchen - Winter Edition](/blog/2023/einladung-veganes-brunchen-dezember/)
+- Hacks on the Beach #hotb24 27. - 29.09.2024. [Alle Informationen auf der Event Webseite.](https://hotb.c3fl.de/de/)
 
-### Neue Tüftler:innen – Jugendveranstaltungen
+### Jung-Hacker*innen-Tag – Jugendveranstaltungen
 
-Mehr zu unserem Jugendtreff: Neue Tüftler:innen findest du [hier](/jugendtreff-neue-tueftler/).
+Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
-- ~~Einmal im Monat: Jugendtreff Neue Tüftler:innten~~
+- Samstag der 28.09.2024; 12:00 - 16:00; Spezial Jung-Hacker*innen-Tag @ Hacks on the Beach [Jetzt kostenlos Anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/9/)
+
+- Sonntag der 27.10.2024; 13:00 - 17:00; Jung-Hacker*innen-Tag [Jetzt kostenlos Anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/10/)
