@@ -32,5 +32,5 @@ mail@chaostreff-flensburg.de. Wir schicken dir dann eine kompatible Adresse.
 
 Kontodaten
 
-Name: Chaostreff Flensburg e. V. IBAN: DE48 2175 0000 0165 0052 81 BIC:
+Name: Chaos Computer Club Flensburg e. V. IBAN: DE48 2175 0000 0165 0052 81 BIC:
 NOLADE21NOS (Nord-Ostsee Sparkasse)

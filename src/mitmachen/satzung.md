@@ -9,13 +9,13 @@ tags:
 
 ---
 
-## Satzung des Chaostreff Flensburg e.V.
+## Satzung des Chaos Computer Club Flensburg e.V.
 
 ---
 
 ### § 1 Name, Sitz, Geschäftsjahr
 
-1. Der Verein führt den Namen „Chaostreff Flensburg“. Der Verein wird in das
+1. Der Verein führt den Namen „Chaos Computer Club Flensburg“. Der Verein wird in das
    Vereinsregister eingetragen und dann um den Zusatz „e.V.“ ergänzt. Der Verein
    hat seinen Sitz in Flensburg.
 2. Geschäftsjahr ist das Kalenderjahr.
@@ -183,13 +183,13 @@ zwecks Verwendung für die Volksbildung. Beschlüsse über die zukünftige
 Verwendung des Clubvermögens dürfen erst nach vorheriger Zustimmung des
 zuständigen Finanzamtes ausgeführt werden.
 
-## Beitragsordnung des Chaostreff Flensburg e.V.
+## Beitragsordnung des Chaos Computer Club Flensburg e.V.
 
 beschlossen am 13.1.2015 und verändert am 01. Juli 2015
 
-PräambelNach §7 der Satzung des Chaostreff Flensburg e.V. haben Mitglieder die
+PräambelNach §7 der Satzung des Chaos Computer Club Flensburg e.V. haben Mitglieder die
 von der Mitgliederversammlung festgesetzten Beiträge zu entrichten. Die
-Beitragsordnung regelt die Höhe Mitgliedsgebühren an den Chaostreff Flensburg
+Beitragsordnung regelt die Höhe Mitgliedsgebühren an den Chaos Computer Club Flensburg
 e.V.Höhe der Beiträge
 
 1. Der Mitgliedsbeitrag für ordentliche Mitglieder beträgt mindestens 10€ im
@@ -205,3 +205,7 @@ Fälligkeit und Zahlungsweise
 3. Die Zahlung des Beitrages erfolgt durch Überweisung oder in bar.
 4. Im Falle nicht fristgerechter Entrichtung der Beiträge ruht die
    Mitgliedschaft (§7.1 der Satzung)
+
+## Hinweis zur Satzung
+
+Bis zur Änderung der Satzung, Eintragung vom 12.01.2024, hat der Verein den Namen Chaostreff Flensburg e. V., geführt. 

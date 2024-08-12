@@ -24,7 +24,7 @@ site
   .use(minify_html())
   .use(
     feed({
-      title: "Chaostreff Flensburg",
+      title: "Chaos Computer Club Flensburg",
       output: ["/feed.rss", "/feed.json"],
       query: "blog",
       sort: "date=desc",

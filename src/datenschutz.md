@@ -17,7 +17,7 @@ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung
 
 ### Verantwortlicher
 
-Chaostreff Flensburg e.V. Apenrader Str. 49 24939 Flensburg Deutschland
+Chaos Computer Club Flensburg e.V. Apenrader Str. 49 24939 Flensburg Deutschland
 mail@chaostreff-flensburg.de
 
 1. Vorsitzender Samuel Brinkmann
