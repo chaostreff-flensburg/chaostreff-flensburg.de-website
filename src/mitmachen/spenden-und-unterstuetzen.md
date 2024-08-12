@@ -17,7 +17,7 @@ ein paar Möglichkeiten aufgelistet.
 
 Geld direkt spenden? Wir freuen uns sehr über direkte Spenden und stellen dafür
 natürlich eine Spendenquittung aus. Du kannst uns das Geld einfach an folgende
-Adresse überweisen: **Kontoinhaber**: Chaostreff Flensburg e.V. **IBAN**: DE48
+Adresse überweisen: **Kontoinhaber**: Chaos Computer Club Flensburg e.V. **IBAN**: DE48
 2175 0000 0165 0052 81
 
 ### Givio und Gooding

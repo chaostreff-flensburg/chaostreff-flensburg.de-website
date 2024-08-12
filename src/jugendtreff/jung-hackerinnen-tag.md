@@ -11,7 +11,7 @@ slug: jung-hackerinnen-tag
 
 ![Calliope mini auf durchsichtigen Roboter](/./media/calliope-mini-auf-roboter.jpg)
 
-Der Jugendtreff "Jung-Hacker*innen-Tag" ist das Jugendangebot des Chaostreff Flensburg e.V.. An einem Sonntagnachmittag im Monat laden wir Jugendliche aus Flensburg und Umgebung in unsere Räume ein.
+Der Jugendtreff "Jung-Hacker*innen-Tag" ist das Jugendangebot des Chaos Computer Club Flensburg e.V.. An einem Sonntagnachmittag im Monat laden wir Jugendliche aus Flensburg und Umgebung in unsere Räume ein.
 In unserer Werkstatt können Jugendliche zwischen 12 und 17 Jahren mit neuen Techniken aus der IT experimentieren. Mit elektronischen Werkzeugen, 3D-Druckern und vielen Materialien werden in verschiedenen Projekten technische Fertigkeiten erlernt. Programmierung, 3D-Druck, Elektronik und Robotik sind dabei die zentralen Themen.
 
 Die Anmeldung erfolgt [online über unser Ticketsystem](https://tickets.chaostreff-flensburg.de/hoth/jht/). Bei Fragen oder Problemen erreichen Sie uns per E-Mail: 
@@ -67,13 +67,13 @@ Schwerpunkt: 3D-Drucken und Löten von Weihnachtsschmuck.
 
 **Anmelden**: Die Anmeldung erfolgt [online über unser Ticketsystem](https://tickets.chaostreff-flensburg.de/hoth/jht/).
 
-**Wo**: Chaostreff Flensburg e.V., Apenraderstr. 49, 24939 Flensburg. [Mehr Informationen zu unseren Räumen](/mitmachen/openSpace/)
+**Wo**: Chaos Computer Club Flensburg e.V., Apenraderstr. 49, 24939 Flensburg. [Mehr Informationen zu unseren Räumen](/mitmachen/openSpace/)
 
 **Kosten**: Die Teilnahme ist **kostenlos**. Wer möchte und kann, darf unsere Vereinsarbeit gerne untersützung z.B. durch eine Spende oder eine Fördermitgliedschaft.
 
 **Was**: Wir beschäftigen uns mit Programmieren, 3D-Druck, Elektronik und Robotik und gehen dabei Kreativ mit Technik um.
 
-**Veranstalter**: Chaostreff Flensburg e.V. (gemeinnützig), Verantwortlich:
+**Veranstalter**: Chaos Computer Club Flensburg e.V. (gemeinnützig), Verantwortlich:
 Samuel Brinkmann, 1. Vorsitzender & Bildungsreferent (am besten erreichbar per
 E-Mail).
 
