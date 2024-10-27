@@ -16,7 +16,7 @@ tags:
 
 Seit den [Hacks on the Beach 2024](/blog/2024/hotb24-tickts/) gibt es ein eigenes C3FL Lötbadge und das haben wir zum Anlass genommen, das Thema Elektronik auch aus dieser Perspektive noch einmal blinken zu lassen. 
 
-![Lötbadge in Form einer Rakete mit diversen LEDs] (/./media/blog/rueckblick-10-jung-hackerinnen-tag-2024/rakede-badge_low.jpg)
+![Lötbadge in Form einer Rakete mit diversen LEDs](/./media/blog/rueckblick-10-jung-hackerinnen-tag-2024/rakede-badge_low.jpg)
 
 Wir haben also nicht nur Roboter programmiert, sondern uns auch mit verschiedenen Lötbadges beschäftigt. Als Grundlage haben wir zuerst ein Kabel repariert. Dann haben wir alle zusammen ein Atom gelötet.
 Im letzten Schritt haben wir die einfache Version des Rakeden Lötbadges gelötet.
