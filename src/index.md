@@ -19,4 +19,4 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 
 Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
-- Sonntag der 01.12.2024; 13:00 - 17:00; Jung-Hacker*innen-Tag [Jetzt kostenlos Anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/11/)
+- Sonntag der 26.01.2025; 13:00 - 17:00; Jung-Hacker*innen-Tag [Jetzt kostenlos Anmelden](https://tickets.chaostreff-flensburg.de/hoth/jht/12/)

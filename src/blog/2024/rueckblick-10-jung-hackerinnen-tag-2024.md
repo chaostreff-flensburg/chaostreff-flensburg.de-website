@@ -8,7 +8,7 @@ tags:
   - blog
 ---
 
-# Rückblick: 10 jung Hacker*innen-Tag 2024 (Mai)
+# Rückblick: 10 jung Hacker*innen-Tag 2024 (Oktober)
 
 ---
 
