@@ -20,8 +20,6 @@ Vereinsregister: VR 2841 FL
 
 Tel: 0461-57498845
 
-Mobil: 015678584703
-
 Wir freuen uns immer über Postkarten, Sticker und Liebesbriefe in unserem
 Postkasten. Leider können wir jedoch keine Pakete, Posterrollen, Einschreiben
 o.ä. direkt in unserem Space entgegennehmen, denn wenn die Post kommt, ist
