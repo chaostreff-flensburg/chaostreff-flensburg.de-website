@@ -7,7 +7,7 @@ tags:
 
 # Unsere Unterstützer
 
-Wir möchten uns bei den Firmen und Verein bedanken die uns bei unserer Arbeit
+Wir möchten uns bei den Firmen und Vereinen bedanken, die uns bei unserer Arbeit
 unterstützen und mit uns zusammenarbeiten.
 
 ## Institutionen
