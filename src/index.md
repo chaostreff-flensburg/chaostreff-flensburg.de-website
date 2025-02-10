@@ -13,7 +13,8 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 ## Unsere nächsten Veranstaltungen
 
 - Jeden Dienstag; 19:00 Uhr; [Open Space Dienstag](/mitmachen/openSpace/); Apenrader Str. 49, Flensburg; Offener Abend!
-- Hacks on the Beach #hotb24 27. - 29.09.2024. [Alle Informationen auf der Event Webseite.](https://hotb.c3fl.de/de/)
+- [10 Jahre Chaos in Flensburg - das wird gefeiert! 15.02.2025](/blog/2025/10-jahre-chaos-in-flensburg/)
+
 
 ### Jung-Hacker*innen-Tag – Jugendveranstaltungen
 
