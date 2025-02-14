@@ -20,4 +20,4 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 
 Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
-- ~~Sonntag der 26.01.2025; 13:00 - 17:00; Jung-Hacker*innen-Tag~~ Fällt wegen Krankheit aus.
+- Sonntag der 02.03.2025; 13:00 - 17:00; Jung-Hacker*innen-Tag [Jetzt Kostenlos Anmelden](https://tickets.c3fl.de/c3fl/jht/1/)

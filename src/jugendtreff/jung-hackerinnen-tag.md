@@ -14,7 +14,7 @@ slug: jung-hackerinnen-tag
 Der Jugendtreff "Jung-Hacker*innen-Tag" ist das Jugendangebot des Chaos Computer Club Flensburg e.V.. An einem Sonntagnachmittag im Monat laden wir Jugendliche aus Flensburg und Umgebung in unsere Räume ein.
 In unserer Werkstatt können Jugendliche zwischen 12 und 17 Jahren mit neuen Techniken aus der IT experimentieren. Mit elektronischen Werkzeugen, 3D-Druckern und vielen Materialien werden in verschiedenen Projekten technische Fertigkeiten erlernt. Programmierung, 3D-Druck, Elektronik und Robotik sind dabei die zentralen Themen.
 
-Die Anmeldung erfolgt [online über unser Ticketsystem](https://tickets.chaostreff-flensburg.de/hoth/jht/). Bei Fragen oder Problemen erreichen Sie uns per E-Mail: 
+Die Anmeldung erfolgt [online über unser Ticketsystem](https://tickets.c3fl.de/c3fl/jht/). Die aktuellen Termine finden Sie immer auf unserer [Startseite](/). Bei Fragen oder Problemen erreichen Sie uns per E-Mail: 
 jugendtreff@chaostreff-flensburg.de.
 
 ## Schnelle Fakten
