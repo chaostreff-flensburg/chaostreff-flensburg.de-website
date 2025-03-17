@@ -13,11 +13,10 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 ## Unsere nächsten Veranstaltungen
 
 - Jeden Dienstag; 19:00 Uhr; [Open Space Dienstag](/mitmachen/openSpace/); Apenrader Str. 49, Flensburg; Offener Abend!
-- [10 Jahre Chaos in Flensburg - das wird gefeiert! 15.02.2025](/blog/2025/10-jahre-chaos-in-flensburg/)
 
 
 ### Jung-Hacker*innen-Tag – Jugendveranstaltungen
 
 Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
-- Sonntag der 02.03.2025; 13:00 - 17:00; Jung-Hacker*innen-Tag [Jetzt Kostenlos Anmelden](https://tickets.c3fl.de/c3fl/jht/1/)
+- Sonntag der 30.03.2025; 13:00 - 17:00; Jung-Hacker*innen-Tag [Jetzt Kostenlos Anmelden](https://tickets.c3fl.de/c3fl/jht/2/)
