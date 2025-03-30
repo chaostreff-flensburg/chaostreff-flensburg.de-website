@@ -23,7 +23,7 @@ jugendtreff@chaostreff-flensburg.de.
 
 ## 2025
 
-**Sonntag der 02.03.2024; 13:00 - 17:00** Schwerpunkt Servo
+**Sonntag der 02.03.2024; 13:00 - 17:00** Schwerpunkt Servo [Rückblick Blogpost](/blog/2025/jht-2025-03/)
 
 **Sonntag der 26.01.2024; 13:00 - 17:00** Ausgefallen
 
