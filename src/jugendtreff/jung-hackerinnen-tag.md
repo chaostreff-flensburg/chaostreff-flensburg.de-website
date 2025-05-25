@@ -25,7 +25,7 @@ jugendtreff@chaostreff-flensburg.de.
 
 **Sonntag der 29.06.2024; 13:00 - 17:00** Schwerpunkt tbd
 
-**Sonntag der 25.05.2024; 13:00 - 17:00** Schwerpunkt Roboterarm
+**Sonntag der 25.05.2024; 13:00 - 17:00** Schwerpunkt Roboterarm [Rückblick Blogpost](/blog/2025/jht-2025-05/)
 
 **Sonntag der 27.04.2024; 13:00 - 17:00** Schwerpunkt Löten
 
