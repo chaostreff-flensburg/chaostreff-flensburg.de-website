@@ -20,3 +20,7 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
 - Sonntag der 29.06.2025; 13:00 - 17:00; Jung-Hacker*innen-Tag [Jetzt Kostenlos Anmelden](https://tickets.c3fl.de/c3fl/jht/5/)
+- Sonntag der 20.07.2025; 13:00 - 17:00; Jung-Hacker*innen-Tag [Jetzt Kostenlos Anmelden](https://tickets.c3fl.de/c3fl/jht/6/)
+
+### Hacks on the Beach 2025 #hotb25
+19.09 - 21.09.2025 [Mehr Informationen auf der Event Webseite](https://hotb.c3fl.de/de/)
