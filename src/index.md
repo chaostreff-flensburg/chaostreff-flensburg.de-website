@@ -14,6 +14,10 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 
 - Jeden Dienstag; 19:00 Uhr; [Open Space Dienstag](/mitmachen/openSpace/); Apenrader Str. 49, Flensburg; Offener Abend!
 
+### Workshops
+
+- Dienstag der 15.07.2025; 19:00 - 20:30 **Für Einsteiger\*innen: Mehrfarbiges 3D-Drucken**; Kostenlos und ohne Anmeldung [Blogpost dazu](/blog/2025/workshop-mehrfarbig-3d-druck/)
+
 
 ### Jung-Hacker*innen-Tag – Jugendveranstaltungen
 
