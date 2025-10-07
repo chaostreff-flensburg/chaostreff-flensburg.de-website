@@ -11,6 +11,7 @@ export default ({ title, children, ...props }) => (
       <meta name="robots" content="index, follow" />
       <meta name="author" content="Chaos Computer Club Flensburg e.V." />
       <meta name="publisher" content="Chaos Computer Club Flensburg e.V." />
+      <meta name="fediverse:creator" content="@chaos_fl@chaos.social"></meta>
       <meta
         name="description"
         content={props.excerpt
