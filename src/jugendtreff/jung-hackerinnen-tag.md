@@ -21,99 +21,132 @@ jugendtreff@chaostreff-flensburg.de.
 
 **Wann**: (In der Regel) Immer der letzte Sonntag im Monat. Während der Schulzeit.
 
+## 2026
+
+**Sonntag der 06.01.2026; 13:00 - 17:00** Schwerpunkt folgt (Anstehend)
+
+**Sonntag der 06.01.2026; 13:00 - 17:00** Schwerpunkt folgt (Anstehend)
+
+
 ## 2025
 
-**Sonntag der 29.06.2024; 13:00 - 17:00** Schwerpunkt tbd
 
-**Sonntag der 25.05.2024; 13:00 - 17:00** Schwerpunkt Roboterarm [Rückblick Blogpost](/blog/2025/jht-2025-05/)
+**Sonntag der 14.12.2025; 13:00 - 17:00** Schwerpunkt Leuchtende Bäume & Winter-Figuren (Anstehend)
 
-**Sonntag der 27.04.2024; 13:00 - 17:00** Schwerpunkt Löten
+**Sonntag der 20.11.2025; 13:00 - 17:00** Schwerpunkt Mini Raketen [Rückblick Blogpost](/blog/2025/jht-2025-11/)
 
-**Sonntag der 30.03.2024; 13:00 - 17:00** Schwerpunkt Roboterarm
+**Sonntag der 20.09.2025; 13:00 - 17:00** Spezial-Jugendtreff auf dem Hacks on the Beach
 
-**Sonntag der 02.03.2024; 13:00 - 17:00** Schwerpunkt Servo [Rückblick Blogpost](/blog/2025/jht-2025-03/)
+**Sonntag der 20.07.2025; 13:00 - 17:00** Kein Schwerpunkt
 
-**Sonntag der 26.01.2024; 13:00 - 17:00** Ausgefallen
+**Sonntag der 29.06.2025; 13:00 - 17:00** Schwerpunkt Eigene Projekte [Rückblick Blogpost](/blog/2025/jht-2025-06/)
+
+**Sonntag der 25.05.2025; 13:00 - 17:00** Schwerpunkt Roboterarm [Rückblick Blogpost](/blog/2025/jht-2025-05/)
+
+**Sonntag der 27.04.2025; 13:00 - 17:00** Schwerpunkt Löten
+
+**Sonntag der 30.03.2025; 13:00 - 17:00** Schwerpunkt Roboterarm
+
+**Sonntag der 02.03.2025; 13:00 - 17:00** Schwerpunkt Servo [Rückblick Blogpost](/blog/2025/jht-2025-03/)
+
+**Sonntag der 26.01.2025; 13:00 - 17:00** Ausgefallen
 
 
 ## 2024
 
+<details>
+  <summary>Klicken zum Ausklappen</summary>
+  
+  **Sonntag der 01.12.2024; 13:00 - 17:00**
 
-**Sonntag der 01.12.2024; 13:00 - 17:00**
+  Schwerpunkt: 3D-Druck
 
-Schwerpunkt: 3D-Druck
-
- [Rückblick Blogpost](/blog/2024/rueckblick-11-jung-hackerinnen-tag-2024/)
-
-
-**Sonntag der 27.10.2024; 13:00 - 17:00**
-
-Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Roboter programmieren und Elektrnoik.
-
-[Rückblick Blogpost](/blog/2024/rueckblick-10-jung-hackerinnen-tag-2024/)
-
-**Sonntag der 07.07.2024; 13:00 - 17:00**
-
-Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Wir werden weiter weiter Roboter bauen.
-
-[Rückblick Blogpost](/blog/2024/rueckblick-6-jung-hackerinnen-tag-2024/)
-
-**Sonntag der 26.05.2024; 13:00 - 17:00**
-
-Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Wir werden weiterhin Roboter Programmieren.
-
-[Rückblick Blogpost](/blog/2024/rueckblick-5-jung-hackerinnen-tag-2024/)
+  [Rückblick Blogpost](/blog/2024/rueckblick-11-jung-hackerinnen-tag-2024/)
 
 
-**Sonntag der 28.04.2024; 13:00 - 17:00**
+  **Sonntag der 27.10.2024; 13:00 - 17:00**
 
-Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit der Programmierung und Steuerung von Elektronik beschäftigen.
+  Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Roboter programmieren und Elektrnoik.
 
-[Rückblick Blogpost](/blog/2024/rueckblick-4-jung-hackerinnen-tag-2024/)
+  [Rückblick Blogpost](/blog/2024/rueckblick-10-jung-hackerinnen-tag-2024/)
 
-**Sonntag der 24.03.2024; 13:00 - 17:00**
+  **Sonntag der 07.07.2024; 13:00 - 17:00**
 
-Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit der Programmierung und Steuerung von LEDs beschäftigen. [Rückblick Blogpost](/blog/2024/rueckblick-3-jung-hackerinnen-tag-2024/)
+  Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Wir werden weiter weiter Roboter bauen.
 
-**Sonntag der 25.02.2024; 13:00 - 17:00**
+  [Rückblick Blogpost](/blog/2024/rueckblick-6-jung-hackerinnen-tag-2024/)
 
-Schwerpunkt: Tüfteln in der Werkstatt.Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit unseren 3D-Druckern, Elektronik und Löten beschäftigen. [Rückblick Blogpost](/blog/2024/rueckblick-2-jung-hackerinnen-tag-2024/)
+  **Sonntag der 26.05.2024; 13:00 - 17:00**
 
-**Sonntag der 28.01.2024; 12:00 - 17:00**
+  Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Wir werden weiterhin Roboter Programmieren.
 
-Schwerpunkt: 3D-Drucken mit dem neuen 3D-Drucker und Lasergravieren mit dem neuen Laserschneider. [Rückblick Blogpost](/blog/2024/rueckblick-1-jung-hackerinnen-tag-2024/)
+  [Rückblick Blogpost](/blog/2024/rueckblick-5-jung-hackerinnen-tag-2024/)
+
+
+  **Sonntag der 28.04.2024; 13:00 - 17:00**
+
+  Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit der Programmierung und Steuerung von Elektronik beschäftigen.
+
+  [Rückblick Blogpost](/blog/2024/rueckblick-4-jung-hackerinnen-tag-2024/)
+
+  **Sonntag der 24.03.2024; 13:00 - 17:00**
+
+  Schwerpunkt: Tüfteln in der Werkstatt. Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit der Programmierung und Steuerung von LEDs beschäftigen. [Rückblick Blogpost](/blog/2024/rueckblick-3-jung-hackerinnen-tag-2024/)
+
+  **Sonntag der 25.02.2024; 13:00 - 17:00**
+
+  Schwerpunkt: Tüfteln in der Werkstatt.Schwerpunkt: Tüfteln in der Werkstatt. Wir werden uns mit unseren 3D-Druckern, Elektronik und Löten beschäftigen. [Rückblick Blogpost](/blog/2024/rueckblick-2-jung-hackerinnen-tag-2024/)
+
+  **Sonntag der 28.01.2024; 12:00 - 17:00**
+
+  Schwerpunkt: 3D-Drucken mit dem neuen 3D-Drucker und Lasergravieren mit dem neuen Laserschneider. [Rückblick Blogpost](/blog/2024/rueckblick-1-jung-hackerinnen-tag-2024/)
+</details>
 
 ## 2023
 
-### Sonntag der 29.10.2023; 12:00 - 17:00
-Schwerpunkt Webseiten Programmieren für Anfänger*innen in Kooperation mit [Meet and Code](https://meet-and-code.org/de/de/event-show/10592)
+<details>
+  <summary>Klicken zum Ausklappen</summary>
+  
+  ### Sonntag der 29.10.2023; 12:00 - 17:00
+  Schwerpunkt Webseiten Programmieren für Anfänger*innen in Kooperation mit [Meet and Code](https://meet-and-code.org/de/de/event-show/10592)
 
-### 26.11.2023; 12:00 - 17:00
-Schwerpunkt: 3D-Drucken und Löten von Weihnachtsschmuck.
+  ### 26.11.2023; 12:00 - 17:00
+  Schwerpunkt: 3D-Drucken und Löten von Weihnachtsschmuck.
 
-**Alter**: 12 bis 17 Jahren
+  **Alter**: 12 bis 17 Jahren
 
-**Anmelden**: Die Anmeldung erfolgt [online über unser Ticketsystem](https://tickets.chaostreff-flensburg.de/hoth/jht/).
+  **Anmelden**: Die Anmeldung erfolgt [online über unser Ticketsystem](https://tickets.chaostreff-flensburg.de/hoth/jht/).
 
-**Wo**: Chaos Computer Club Flensburg e.V., Apenraderstr. 49, 24939 Flensburg. [Mehr Informationen zu unseren Räumen](/mitmachen/openSpace/)
+  **Wo**: Chaos Computer Club Flensburg e.V., Apenraderstr. 49, 24939 Flensburg. [Mehr Informationen zu unseren Räumen](/mitmachen/openSpace/)
 
-**Kosten**: Die Teilnahme ist **kostenlos**. Wer möchte und kann, darf unsere Vereinsarbeit gerne untersützung z.B. durch eine Spende oder eine Fördermitgliedschaft.
+  **Kosten**: Die Teilnahme ist **kostenlos**. Wer möchte und kann, darf unsere Vereinsarbeit gerne untersützung z.B. durch eine Spende oder eine Fördermitgliedschaft.
 
-**Was**: Wir beschäftigen uns mit Programmieren, 3D-Druck, Elektronik und Robotik und gehen dabei Kreativ mit Technik um.
+  **Was**: Wir beschäftigen uns mit Programmieren, 3D-Druck, Elektronik und Robotik und gehen dabei Kreativ mit Technik um.
 
-**Veranstalter**: Chaos Computer Club Flensburg e.V. (gemeinnützig), Verantwortlich:
-Samuel Brinkmann, 1. Vorsitzender & Bildungsreferent (am besten erreichbar per
-E-Mail).
+  **Veranstalter**: Chaos Computer Club Flensburg e.V. (gemeinnützig), Verantwortlich:
+  Samuel Brinkmann, 1. Vorsitzender & Bildungsreferent (am besten erreichbar per
+  E-Mail).
+  
+</details>
 
-**Gabs das nicht schonmal?**: Ja vor Corona hatten wir ein Angebot mit dem Namen [Neue Tüftler*innen](/jugendtreff-neue-tueftler/jugendtreff-neue-tueftler/). Dieses Angebot haben wir aber nicht wieder aufleben lassen. 
+<br>
 
 ## FAQ
 
-### Kann ich als Erwachsener Gemeinsam mit meinem Kind teilnehmen?
+
+**1. Gabs das nicht schonmal?**
+
+Ja vor Corona hatten wir ein Angebot mit dem Namen [Neue Tüftler*innen](/jugendtreff/jugendtreff-neue-tueftler). Dieses Angebot haben wir aber nicht wieder aufleben lassen. 
+
+
+**2. Kann ich als Erwachsener Gemeinsam mit meinem Kind teilnehmen?**
+
 Nein, das geht leider nicht. Im Jugendtreff treffen sich nur die Teilnehmenden und die Mentor*innen. 
 
-## Berichte von unserer Voheriger Jugendarbeit:
-### Zeitungsbericht
+<br>
+
+## Berichte von unserer vorherigen Jugendarbeit:
+### Zeitungsbericht:
 
 [Blopost](/blog/2018/bericht-der-flensborg-avis/) |
 [Link zum Beitrag](https://www.fla.de/wp/dailys/softwareprogrammoerer-laerer-boern-at-lave-robotter/)
