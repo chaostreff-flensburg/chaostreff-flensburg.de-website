@@ -23,9 +23,7 @@ jugendtreff@chaostreff-flensburg.de.
 
 ## 2026
 
-**Sonntag der 06.01.2026; 13:00 - 17:00** Schwerpunkt folgt (Anstehend)
-
-**Sonntag der 06.01.2026; 13:00 - 17:00** Schwerpunkt folgt (Anstehend)
+**Sonntag der 25.01.2026; 13:00 - 17:00** Schwerpunkt folgt (Anstehend)
 
 
 ## 2025
