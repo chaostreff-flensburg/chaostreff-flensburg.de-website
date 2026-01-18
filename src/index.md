@@ -13,13 +13,14 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 ## Unsere nächsten Veranstaltungen
 
 - Jeden Dienstag; 19:00 Uhr; [Open Space Dienstag](/mitmachen/openSpace/); Apenrader Str. 49, Flensburg; Offener Abend!
+- Sonntag der 01.02.2026; 15:00 - 18:00: di.day - Flensburg 2026.02 - Digital Independence Day; [Alle Informationen](https://termine.di.day/events/1703809d-e224-4202-8e18-9e642d092bf0) - [Freiwillige Anmeldung](https://tickets.c3fl.de/control/event/c3fle/diday-2026-02/); Apenrader Str. 49, Flensburg;
 
 ### Jung-Hacker*innen-Tag – Jugendveranstaltungen
 
 Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
-- Sonntag der 14.12.2025; 13:00 - 17:00 [Jetzt Kostenlos Anmelden](https://tickets.c3fl.de/c3fl/jht/10/)
 - Sonntag der 25.01.2026; 13:00 - 17:00 [Jetzt Kostenlos Anmelden](https://tickets.c3fl.de/c3fl/jht/11/)
+- Sonntag der 15.02.2026; 13:00 - 17:00 [Jetzt Kostenlos Anmelden](https://tickets.c3fl.de/c3fl/jht/13/)
 
 ### Hacks on the Beach 2026 #hotb26
 
