@@ -21,6 +21,8 @@ Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtr
 
 - Sonntag der 25.01.2026; 13:00 - 17:00 [Jetzt Kostenlos Anmelden](https://tickets.c3fl.de/c3fl/jht/11/)
 - Sonntag der 15.02.2026; 13:00 - 17:00 [Jetzt Kostenlos Anmelden](https://tickets.c3fl.de/c3fl/jht/13/)
+- Sonntag der 22.03.2026; 13:00 - 17:00 [Jetzt Kostenlos Anmelden](https://tickets.c3fl.de/c3fl/jht/14/)
+- Sonntag der 26.04.2026; 13:00 - 17:00 [Jetzt Kostenlos Anmelden](https://tickets.c3fl.de/c3fl/jht/15/)
 
 ### Hacks on the Beach 2026 #hotb26
 
