@@ -14,6 +14,8 @@ Folgende Tools nutzen wir im Verein:
 
 [slack](https://chaostreff-flensburg.slack.com/) - Chat
 
+[wiki.chaostreff-flensburg.de](https://wiki.chaostreff-flensburg.de/) - Wiki
+
 [Tickets](https://tickets.c3fl.de/) - Ticketsystem für unsere Events (pretix)
 
 [VaultWarden](https://bitwarden.c3fl.de/) - Unser eigener Passwortmanager (VaultWarden, der Open Source Bitwarden-Klon)
