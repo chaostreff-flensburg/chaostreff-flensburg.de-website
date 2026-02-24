@@ -25,8 +25,9 @@ const renderSpaceStatus = (status) => {
 
 const displaySpaceStatus = async () => {
   try {
-    const { open } = await fetchSpaceApi();
-    const el = renderSpaceStatus(open);
+    const data = await fetchSpaceApi();
+    const isOpen = data.state?.open;
+    const el = renderSpaceStatus(isOpen, data.state);
     mount("space-status", el);
   } catch (e) {
     console.error("failed to display space status", e);
