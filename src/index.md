@@ -26,4 +26,4 @@ Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtr
 
 ### Hacks on the Beach 2026 #hotb26
 
-11.09 - 13.09.2025 [Mehr Informationen auf der Event Webseite](https://hotb.c3fl.de/de/)
+11.09 - 13.09.2026 [Mehr Informationen auf der Event Webseite](https://hotb.c3fl.de/de/)
