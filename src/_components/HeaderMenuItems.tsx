@@ -18,7 +18,7 @@ export default ({ search, ...props }) => (
       if(page.data.slug === "events"){
         subpages.push({
           data:{
-          title: "Hacks on the Beach 2025",
+          title: "Hacks on the Beach 2026",
           url: "https://hotb.c3fl.de/de/",
           }
         })
