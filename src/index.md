@@ -13,7 +13,7 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 ## Unsere nächsten Veranstaltungen
 
 - Jeden Dienstag; 19:00 Uhr; [Open Space Dienstag](/mitmachen/openSpace/); Apenrader Str. 49, Flensburg; Offener Abend!
-- Samstag der 28.03.2026; 15:00 - 18:00: di.day - Flensburg 2026.3 - Tag des offenen Hackspace 2026 und di.day; [Alle Informationen](/blog/2026/tag-des-offenen-hackspace-und-di-day/) - [Freiwillige Anmeldung](https://tickets.c3fl.de/c3fle/diday-2026-04/); Apenrader Str. 49, Flensburg;
+- Sonntag der 03.05.2026; 15:00 - 18:00: di.day - Flensburg 2026.5; [Alle Informationen](https://termine.di.day/events/4f49fd76-872e-4fb8-9efb-9c50aaa7cb9b) - [Freiwillige Anmeldung](https://tickets.c3fl.de/c3fle/diday-2026-05/); Apenrader Str. 49, Flensburg;
 
 ### Jung-Hacker*innen-Tag – Jugendveranstaltungen
 
