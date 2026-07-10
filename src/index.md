@@ -20,10 +20,10 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
 <ul id="dsg-event-list"></ul>
-(automatisch von [termine.meinflensburg.de](https://termine.meinflensburg.de) geladen):
+Automatisch von [termine.meinflensburg.de](https://termine.meinflensburg.de) geladen.
 
 <noscript>
-Aktuelle Jugendtreff-Termine findest du unter <a href="https://termine.meinflensburg.de">termine.meinflensburg.de</a>.
+Aktuelle Jugendtreff-Termine findest du unter <a href="https://termine.meinflensburg.de">termine.meinflensburg.de</a> + Jugendtreff.
 </noscript>
 
 <script>
@@ -81,18 +81,6 @@ Aktuelle Jugendtreff-Termine findest du unter <a href="https://termine.meinflens
         a.appendChild(date);
         a.appendChild(title);
         li.appendChild(a);
-
-        if (event.externalParticipationUrl) {
-          const register = document.createElement("a");
-          register.href = event.externalParticipationUrl;
-          register.target = "_blank";
-          register.rel = "noopener noreferrer";
-          register.className = "jht-anmelden";
-          register.textContent = "Jetzt kostenlos anmelden";
-          li.appendChild(document.createTextNode(" – "));
-          li.appendChild(register);
-        }
-
         list.appendChild(li);
       });
     } catch (error) {
