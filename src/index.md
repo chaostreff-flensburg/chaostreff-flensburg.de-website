@@ -19,7 +19,94 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 
 Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
-- Sonntag der 28.06.2026; 13:00 - 17:00 Abgesagt aufgrund der Hitze. Nach den Sommerferien geht es weiter
+<ul id="dsg-event-list"></ul>
+(automatisch von [termine.meinflensburg.de](https://termine.meinflensburg.de) geladen):
+
+<noscript>
+Aktuelle Jugendtreff-Termine findest du unter <a href="https://termine.meinflensburg.de">termine.meinflensburg.de</a>.
+</noscript>
+
+<script>
+(function () {
+  const DSG_URL = "https://termine.meinflensburg.de";
+  const TERM = "Jugendtreff";
+  const LIMIT = 5;
+
+  async function loadJugendtreffEvents() {
+    const list = document.getElementById("dsg-event-list");
+    if (!list) return;
+
+    try {
+      const response = await fetch(DSG_URL + "/api", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          operationName: "SearchEvents",
+          query: "query SearchEvents($beginsOn: DateTime, $limit: Int, $searchTarget: SearchTarget, $term: String) { searchEvents(beginsOn: $beginsOn, limit: $limit, searchTarget: $searchTarget, term: $term, sortBy: START_TIME_ASC) { elements { title uuid beginsOn ... on Event { externalParticipationUrl } } } }",
+          variables: {
+            beginsOn: new Date().toISOString(),
+            limit: LIMIT,
+            searchTarget: "INTERNAL",
+            term: TERM,
+          },
+        }),
+      });
+
+      const json = await response.json();
+      const events = (json && json.data && json.data.searchEvents && json.data.searchEvents.elements) || [];
+
+      if (!events.length) {
+        list.innerHTML = "<li>Zurzeit sind keine Jugendtreff-Termine geplant.</li>";
+        return;
+      }
+
+      const fmt = new Intl.DateTimeFormat("de-DE", {
+        year: "numeric", month: "2-digit", day: "2-digit",
+        hour: "2-digit", minute: "2-digit", timeZone: "Europe/Berlin",
+      });
+
+      events.forEach(function (event) {
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+        a.href = DSG_URL + "/events/" + event.uuid;
+
+        const date = document.createElement("span");
+        date.className = "date";
+        date.style.paddingRight = "2px";
+        date.textContent = fmt.format(new Date(event.beginsOn)) + ": ";
+
+        const title = document.createElement("strong");
+        title.textContent = event.title;
+
+        a.appendChild(date);
+        a.appendChild(title);
+        li.appendChild(a);
+
+        if (event.externalParticipationUrl) {
+          const register = document.createElement("a");
+          register.href = event.externalParticipationUrl;
+          register.target = "_blank";
+          register.rel = "noopener noreferrer";
+          register.className = "jht-anmelden";
+          register.textContent = "Jetzt kostenlos anmelden";
+          li.appendChild(document.createTextNode(" – "));
+          li.appendChild(register);
+        }
+
+        list.appendChild(li);
+      });
+    } catch (error) {
+      list.innerHTML = '<li>Termine konnten nicht geladen werden – aktuelle Termine unter <a href="' + DSG_URL + '">termine.meinflensburg.de</a>.</li>';
+    }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", loadJugendtreffEvents);
+  } else {
+    loadJugendtreffEvents();
+  }
+})();
+</script>
 
 ### Hacks on the Beach 2026 #hotb26
 

@@ -23,7 +23,11 @@ jugendtreff@chaostreff-flensburg.de.
 
 ## 2026
 
-**Sonntag der 25.01.2026; 13:00 - 17:00** Schwerpunkt folgt (Anstehend)
+**Sonntag der 31.05.2026; 13:00 - 17:00** Schwerpunkt Eigene Projekte & 3D-Design [Rückblick Blogpost](/blog/2026/jht-2026-05/)
+
+**Sonntag der 22.03.2026; 13:00 - 17:00** Schwerpunkt Mikrocontroller & Arduino [Rückblick Blogpost](/blog/2026/jht-2026-03/)
+
+**Sonntag der 25.01.2026; 13:00 - 17:00** Schwerpunkt folgt
 
 
 ## 2025
