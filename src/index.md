@@ -13,7 +13,21 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 ## Unsere nächsten Veranstaltungen
 
 - Jeden Dienstag; 19:00 Uhr; [Open Space Dienstag](/mitmachen/openSpace/); Apenrader Str. 49, Flensburg; Offener Abend!
-- Sonntag der 07.06.2026: 15:00 - 18:00: di.day - Flensburg 2026.5; [Alle Informationen](https://events.diday.org/events/9d46e5d9-b6a2-4585-8376-8c8f6e52c0a6); Wichtig: in der blau:pause, Friesische Straße 9, 24937 Flensburg
+
+### di.day – Digital Independence Day
+
+<ul id="diday-event-list"></ul>
+
+Automatisch von <a href="https://events.diday.org">events.diday.org</a> geladen.
+
+<noscript>
+Aktuelle di.day-Termine findest du unter <a href="https://events.diday.org">events.diday.org</a>.
+</noscript>
+
+### Hacks on the Beach 2026 #hotb26
+
+11.09 - 13.09.2026 [Mehr Informationen auf der Event Webseite](https://hotb.c3fl.de/de/)
+
 
 ### Jung-Hacker*innen-Tag – Jugendveranstaltungen
 
@@ -29,86 +43,147 @@ Aktuelle Jugendtreff-Termine findest du unter <a href="https://termine.meinflens
 
 <script>
 (function () {
-  const DSG_URL = "https://termine.meinflensburg.de";
-  const TERM = "Jugendtreff";
-  const LIMIT = 5;
+  const MEINFLENSBURG = "https://termine.meinflensburg.de";
+  const DIDAY = "https://events.diday.org";
 
-  async function loadJugendtreffEvents() {
-    const list = document.getElementById("dsg-event-list");
+  const fmt = new Intl.DateTimeFormat("de-DE", {
+    year: "numeric", month: "2-digit", day: "2-digit",
+    hour: "2-digit", minute: "2-digit", timeZone: "Europe/Berlin",
+  });
+
+  function formatAddress(address) {
+    if (!address) return "";
+    if (address.description) return address.description;
+    const city = [address.postalCode, address.locality].filter(Boolean).join(" ");
+    return [address.street, city].filter(Boolean).join(", ");
+  }
+
+  function renderEvents(config, events) {
+    const list = document.getElementById(config.listId);
+    if (!list) return;
+
+    if (!events.length) {
+      list.innerHTML = "<li>" + config.emptyText + "</li>";
+      return;
+    }
+
+    events.forEach(function (event) {
+      const li = document.createElement("li");
+
+      const a = document.createElement("a");
+      a.href = config.dsgUrl + "/events/" + event.uuid;
+
+      const date = document.createElement("span");
+      date.className = "date";
+      date.style.paddingRight = "2px";
+      date.textContent = fmt.format(new Date(event.beginsOn)) + ": ";
+
+      const title = document.createElement("strong");
+      title.textContent = event.title;
+
+      a.appendChild(date);
+      a.appendChild(title);
+      li.appendChild(a);
+
+      if (config.showAddress) {
+        const address = formatAddress(event.physicalAddress);
+        if (address) {
+          const addr = document.createElement("span");
+          addr.className = "event-address";
+          addr.textContent = " – " + address;
+          li.appendChild(addr);
+        }
+      }
+
+      if (event.externalParticipationUrl) {
+        const register = document.createElement("a");
+        register.href = event.externalParticipationUrl;
+        register.target = "_blank";
+        register.rel = "noopener noreferrer";
+        register.className = "jht-anmelden";
+        register.textContent = "Jetzt kostenlos anmelden";
+        li.appendChild(document.createTextNode(" – "));
+        li.appendChild(register);
+      }
+
+      list.appendChild(li);
+    });
+  }
+
+  async function loadEvents(config) {
+    const list = document.getElementById(config.listId);
     if (!list) return;
 
     try {
-      const response = await fetch(DSG_URL + "/api", {
+      const response = await fetch(config.dsgUrl + "/api", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
+        body: JSON.stringify(config.body()),
+      });
+
+      const json = await response.json();
+      const events =
+        (json && json.data && json.data.group && json.data.group.organizedEvents && json.data.group.organizedEvents.elements) ||
+        (json && json.data && json.data.searchEvents && json.data.searchEvents.elements) ||
+        [];
+
+      const sorted = events.slice().sort(function (a, b) {
+        return new Date(a.beginsOn) - new Date(b.beginsOn);
+      });
+
+      renderEvents(config, sorted);
+    } catch (error) {
+      list.innerHTML = '<li>Termine konnten nicht geladen werden – aktuelle Termine unter <a href="' + config.dsgUrl + '">' + config.dsgUrl.replace("https://", "") + "</a>.</li>";
+    }
+  }
+
+  const CONFIGS = [
+    {
+      listId: "dsg-event-list",
+      dsgUrl: MEINFLENSBURG,
+      showAddress: false,
+      emptyText: "Zurzeit sind keine Jugendtreff-Termine geplant.",
+      body: function () {
+        return {
           operationName: "SearchEvents",
           query: "query SearchEvents($beginsOn: DateTime, $limit: Int, $searchTarget: SearchTarget, $term: String) { searchEvents(beginsOn: $beginsOn, limit: $limit, searchTarget: $searchTarget, term: $term, sortBy: START_TIME_ASC) { elements { title uuid beginsOn ... on Event { externalParticipationUrl } } } }",
           variables: {
             beginsOn: new Date().toISOString(),
-            limit: LIMIT,
+            limit: 5,
             searchTarget: "INTERNAL",
-            term: TERM,
+            term: "Jugendtreff",
           },
-        }),
-      });
+        };
+      },
+    },
+    {
+      listId: "diday-event-list",
+      dsgUrl: DIDAY,
+      showAddress: true,
+      emptyText: "Zurzeit sind keine di.day-Termine geplant.",
+      body: function () {
+        return {
+          operationName: "FetchGroupEvents",
+          query: "query FetchGroupEvents($name: String!, $afterDateTime: DateTime, $limit: Int) { group(preferredUsername: $name) { organizedEvents(afterDatetime: $afterDateTime, limit: $limit) { elements { title uuid beginsOn externalParticipationUrl physicalAddress { description street locality postalCode } } } } }",
+          variables: {
+            name: "chaos_computer_club_flensburg_ev",
+            afterDateTime: new Date().toISOString(),
+            limit: 5,
+          },
+        };
+      },
+    },
+  ];
 
-      const json = await response.json();
-      const events = (json && json.data && json.data.searchEvents && json.data.searchEvents.elements) || [];
-
-      if (!events.length) {
-        list.innerHTML = "<li>Zurzeit sind keine Jugendtreff-Termine geplant.</li>";
-        return;
-      }
-
-      const fmt = new Intl.DateTimeFormat("de-DE", {
-        year: "numeric", month: "2-digit", day: "2-digit",
-        hour: "2-digit", minute: "2-digit", timeZone: "Europe/Berlin",
-      });
-
-      events.forEach(function (event) {
-        const li = document.createElement("li");
-        const a = document.createElement("a");
-        a.href = DSG_URL + "/events/" + event.uuid;
-
-        const date = document.createElement("span");
-        date.className = "date";
-        date.style.paddingRight = "2px";
-        date.textContent = fmt.format(new Date(event.beginsOn)) + ": ";
-
-        const title = document.createElement("strong");
-        title.textContent = event.title;
-
-        a.appendChild(date);
-        a.appendChild(title);
-        li.appendChild(a);
-
-        if (event.externalParticipationUrl) {
-          const register = document.createElement("a");
-          register.href = event.externalParticipationUrl;
-          register.target = "_blank";
-          register.rel = "noopener noreferrer";
-          register.className = "jht-anmelden";
-          register.textContent = "Jetzt kostenlos anmelden";
-          li.appendChild(document.createTextNode(" – "));
-          li.appendChild(register);
-        }
-
-        list.appendChild(li);
-      });
-    } catch (error) {
-      list.innerHTML = '<li>Termine konnten nicht geladen werden – aktuelle Termine unter <a href="' + DSG_URL + '">termine.meinflensburg.de</a>.</li>';
-    }
+  function start() {
+    CONFIGS.forEach(loadEvents);
   }
 
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", loadJugendtreffEvents);
+    document.addEventListener("DOMContentLoaded", start);
   } else {
-    loadJugendtreffEvents();
+    start();
   }
 })();
 </script>
 
-### Hacks on the Beach 2026 #hotb26
-
-11.09 - 13.09.2026 [Mehr Informationen auf der Event Webseite](https://hotb.c3fl.de/de/)
