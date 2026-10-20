@@ -243,6 +243,14 @@ space-status {
       margin: 0 1rem;
     }
   }
+  ol {
+    margin: 0.5rem 0.5rem 0.5rem 1.5rem;
+    list-style-type: decimal;
+    list-style: decimal;
+    ol {
+      margin: 0 1rem;
+    }
+  }
 
   h1,
   h2,
